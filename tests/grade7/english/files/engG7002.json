@@ -1,0 +1,133 @@
+{
+    "id": "eng-g7-002",
+    "title": "Comprehension & Usage",
+    "subject": "English",
+    "grade": "7",
+    "questions": [
+        {
+            "question": "What is the main idea of a story?",
+            "options": ["The title", "The setting", "The central message", "The number of characters"],
+            "answer": "The central message",
+            "explanation": "The main idea is what the story is mostly about."
+        },
+        {
+            "question": "Which of the following is a verb?",
+            "options": ["table", "run", "blue", "happy"],
+            "answer": "run",
+            "explanation": "A verb is an action or doing word."
+        },
+        {
+            "question": "Which sentence shows correct subject-verb agreement?",
+            "options": ["They walks to school.", "He go to school.", "She walk to school.", "He walks to school."],
+            "answer": "He walks to school.",
+            "explanation": "For 'he', use the singular present tense form: 'walks'."
+        },
+        {
+            "question": "Which sentence is in the past tense?",
+            "options": ["She runs fast.", "She is running.", "She will run.", "She ran fast."],
+            "answer": "She ran fast.",
+            "explanation": "'Ran' is the past tense of 'run'."
+        },
+        {
+            "question": "Choose the correct form: I ____ my homework every day.",
+            "options": ["do", "did", "does", "done"],
+            "answer": "do",
+            "explanation": "'I' takes the verb form 'do' in present tense."
+        },
+        {
+            "question": "Which word best completes the sentence? The book is ____ the table.",
+            "options": ["on", "in", "at", "from"],
+            "answer": "on",
+            "explanation": "Use 'on' to show something is resting on a surface."
+        },
+        {
+            "question": "Identify the synonym of 'beautiful'.",
+            "options": ["ugly", "pretty", "dirty", "strong"],
+            "answer": "pretty",
+            "explanation": "A synonym is a word with the same meaning."
+        },
+        {
+            "question": "What type of sentence is this? 'Close the door.'",
+            "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+            "answer": "Imperative",
+            "explanation": "It gives a command, making it an imperative sentence."
+        },
+        {
+            "question": "Choose the correct punctuation: Wow That’s amazing",
+            "options": ["Wow, that’s amazing.", "Wow. That’s amazing.", "Wow! That’s amazing!", "Wow That’s amazing."],
+            "answer": "Wow! That’s amazing!",
+            "explanation": "Interjections like 'Wow' are followed by an exclamation mark."
+        },
+        {
+            "question": "Which word is a conjunction?",
+            "options": ["happy", "quickly", "and", "tiger"],
+            "answer": "and",
+            "explanation": "'And' joins words or phrases together."
+        },
+        {
+            "question": "Select the correct possessive form: This is ____ book.",
+            "options": ["Mary", "Marys", "Mary’s", "Maries"],
+            "answer": "Mary’s",
+            "explanation": "Possessive nouns use an apostrophe and 's'."
+        },
+        {
+            "question": "Which is a pronoun?",
+            "options": ["running", "his", "jump", "light"],
+            "answer": "his",
+            "explanation": "'His' is a possessive pronoun."
+        },
+        {
+            "question": "What is the opposite of 'early'?",
+            "options": ["fast", "late", "soon", "quick"],
+            "answer": "late",
+            "explanation": "'Late' is the antonym of 'early'."
+        },
+        {
+            "question": "Choose the correct homophone: They went ____ the store.",
+            "options": ["to", "too", "two", "tue"],
+            "answer": "to",
+            "explanation": "'To' is the correct preposition here."
+        },
+        {
+            "question": "Which word completes this sentence? She is ____ than her sister.",
+            "options": ["tall", "taller", "tallest", "most tall"],
+            "answer": "taller",
+            "explanation": "Use 'taller' to compare two people."
+        },
+        {
+            "question": "What do we call a word that shows strong emotion?",
+            "options": ["noun", "verb", "interjection", "adverb"],
+            "answer": "interjection",
+            "explanation": "An interjection expresses emotion or surprise."
+        },
+        {
+            "question": "What is the correct spelling?",
+            "options": ["realy", "realli", "really", "realee"],
+            "answer": "really",
+            "explanation": "The correct spelling is 'really'."
+        },
+        {
+            "question": "Which word completes the sentence? The girl was ____ than her brother.",
+            "options": ["more smart", "smarter", "smartest", "smartly"],
+            "answer": "smarter",
+            "explanation": "Use comparative 'smarter' for two people."
+        },
+        {
+            "question": "What is the plural of 'mouse'?",
+            "options": ["mouses", "mices", "mouse", "mice"],
+            "answer": "mice",
+            "explanation": "'Mouse' is an irregular noun; the plural is 'mice'."
+        },
+        {
+            "question": "Which of these is a declarative sentence?",
+            "options": [
+                "How are you?",
+                "Please sit down.",
+                "I enjoy reading books.",
+                "Watch out!"
+            ],
+            "answer": "I enjoy reading books.",
+            "explanation": "A declarative sentence makes a statement."
+        }
+    ]
+}

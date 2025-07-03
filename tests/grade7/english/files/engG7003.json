@@ -1,0 +1,163 @@
+{
+    "id": "eng-g7-003",
+    "title": "Writing & Sentence Structure",
+    "subject": "English",
+    "grade": "7",
+    "questions": [
+        {
+            "question": "Which punctuation is used at the end of a command?",
+            "options": [".", "?", "!", ","],
+            "answer": ".",
+            "explanation": "Commands usually end with a full stop."
+        },
+        {
+            "question": "What do we call a group of words that makes complete sense?",
+            "options": ["Phrase", "Clause", "Sentence", "Verb"],
+            "answer": "Sentence",
+            "explanation": "A sentence expresses a complete thought."
+        },
+        {
+            "question": "Which of the following is a simple sentence?",
+            "options": [
+                "Because he was tired, he went to bed.",
+                "He was tired and went to bed.",
+                "He went to bed.",
+                "Although he was tired, he watched TV."
+            ],
+            "answer": "He went to bed.",
+            "explanation": "A simple sentence has one independent clause."
+        },
+        {
+            "question": "Which sentence uses capital letters correctly?",
+            "options": [
+                "we went to Lusaka on sunday.",
+                "We went to lusaka on Sunday.",
+                "We went to Lusaka on Sunday.",
+                "we Went to Lusaka on Sunday."
+            ],
+            "answer": "We went to Lusaka on Sunday.",
+            "explanation": "Proper nouns and sentence beginnings must be capitalized."
+        },
+        {
+            "question": "Which is a compound sentence?",
+            "options": [
+                "He was late.",
+                "He was late but he still caught the bus.",
+                "Running fast.",
+                "Because he was tired."
+            ],
+            "answer": "He was late but he still caught the bus.",
+            "explanation": "Compound sentences join two independent clauses."
+        },
+        {
+            "question": "Which is the correct plural form?",
+            "options": ["boxs", "boxen", "boxes", "boxies"],
+            "answer": "boxes",
+            "explanation": "Words ending in -x take 'es' in the plural form."
+        },
+        {
+            "question": "Which of the following is a question?",
+            "options": [
+                "She went home.",
+                "Where is she going?",
+                "Close the door.",
+                "That is a book."
+            ],
+            "answer": "Where is she going?",
+            "explanation": "Questions usually begin with a question word and end with a question mark."
+        },
+        {
+            "question": "What is the correct abbreviation for 'Doctor'?",
+            "options": ["Dr", "DR.", "Dr.", "dr."],
+            "answer": "Dr.",
+            "explanation": "Abbreviations start with a capital letter and end with a period."
+        },
+        {
+            "question": "Choose the correctly punctuated sentence.",
+            "options": [
+                "My brother sister and I went shopping.",
+                "My brother, sister and I went shopping.",
+                "My brother, sister, and I went shopping.",
+                "My brother sister, and I went shopping."
+            ],
+            "answer": "My brother, sister, and I went shopping.",
+            "explanation": "Use commas to separate items in a list."
+        },
+        {
+            "question": "What is the base form of the word 'writing'?",
+            "options": ["wrote", "written", "write", "writes"],
+            "answer": "write",
+            "explanation": "The base form is the dictionary form of the verb."
+        },
+        {
+            "question": "What part of speech is the word 'quickly'?",
+            "options": ["adjective", "noun", "adverb", "verb"],
+            "answer": "adverb",
+            "explanation": "It describes how something is done."
+        },
+        {
+            "question": "Choose the word with the correct prefix: '____do'",
+            "options": ["Un", "Dis", "Mis", "Re"],
+            "answer": "Re",
+            "explanation": "The word 'redo' means to do again."
+        },
+        {
+            "question": "What punctuation is used in direct speech?",
+            "options": ["colon", "brackets", "quotation marks", "dash"],
+            "answer": "quotation marks",
+            "explanation": "Direct speech is shown in quotation marks."
+        },
+        {
+            "question": "Which is a proper noun?",
+            "options": ["city", "boy", "Zambia", "school"],
+            "answer": "Zambia",
+            "explanation": "Proper nouns name specific people, places, or things."
+        },
+        {
+            "question": "What does a question mark show?",
+            "options": ["Exclamation", "End of statement", "Pause", "Question"],
+            "answer": "Question",
+            "explanation": "It shows that a question is being asked."
+        },
+        {
+            "question": "Choose the sentence with correct tense.",
+            "options": [
+                "She cooking rice.",
+                "She cook rice yesterday.",
+                "She cooked rice yesterday.",
+                "She cooks rice yesterday."
+            ],
+            "answer": "She cooked rice yesterday.",
+            "explanation": "The past tense form 'cooked' matches the word 'yesterday'."
+        },
+        {
+            "question": "What is the verb in this sentence? 'The dog barked loudly.'",
+            "options": ["dog", "barked", "loudly", "The"],
+            "answer": "barked",
+            "explanation": "'Barked' is the action the subject (dog) performed."
+        },
+        {
+            "question": "Which word is a conjunction?",
+            "options": ["book", "so", "blue", "runs"],
+            "answer": "so",
+            "explanation": "'So' joins two ideas in a sentence."
+        },
+        {
+            "question": "Which sentence is a fragment?",
+            "options": [
+                "After the bell rang.",
+                "The teacher gave us homework.",
+                "We cleaned the classroom.",
+                "She plays the piano well."
+            ],
+            "answer": "After the bell rang.",
+            "explanation": "This is not a complete sentence—it lacks a main clause."
+        },
+        {
+            "question": "Which word needs a capital letter?",
+            "options": ["zambia", "book", "friend", "chair"],
+            "answer": "zambia",
+            "explanation": "Zambia is a proper noun and should be capitalized."
+        }
+    ]
+}

@@ -1,17 +1,17 @@
-{
-   "1": {
-   "id": "eng-g7-001",
-    "title": "Grammar & Vocabulary Mastery",
-    "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/english/files/engG7001.json",
-},
- "2": {
-   "id": "eng-g7-002",
-    "title": "Comprehension & Usage",
-    "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/english/files/engG7002.json",
-},
- "3":{
-   "id": "eng-g7-003",
-    "title": "Writing & Sentence Structure",
-    "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/english/files/engG7003.json",
-}
-}
+[
+    {
+        "id": "eng-g7-001",
+        "title": "Grammar & Vocabulary",
+        "link": "https://example.com/quizzes/eng-g7-001"
+    },
+    {
+        "id": "eng-g7-002",
+        "title": "Comprehension & Usage",
+        "link": "https://example.com/quizzes/eng-g7-002"
+    },
+    {
+        "id": "eng-g7-003",
+        "title": "Writing & Sentence Structure",
+        "link": "https://example.com/quizzes/eng-g7-003"
+    }
+]

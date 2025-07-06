@@ -2,16 +2,29 @@
     {
         "id": "eng-g7-001",
         "title": "Grammar & Vocabulary",
+        "difficulty": "Easy",
+        "cost": "Free",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7001.json"
     },
     {
         "id": "eng-g7-002",
         "title": "Comprehension & Usage",
+        "difficulty": "Easy",
+        "cost": "Free",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7002.json"
     },
     {
         "id": "eng-g7-003",
         "title": "Writing & Sentence Structure",
+        "difficulty": "Easy",
+        "cost" : "Free",
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7003.json"
+    },
+    {
+        "id": "eng-g7-004",
+        "title": "Extra Spellings",
+        "difficulty": "Easy",
+        "cost" : "Premium ⭐",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7003.json"
     }
 ]

@@ -1,0 +1,16 @@
+[
+    {
+        "id": "zm_math7_001",
+        "title": "Arithmetic 1",
+        "difficulty": "Easy",
+        "cost": "Free",
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Mathematics/files/mathG7001.json"
+    },
+    {
+        "id": "zm_math7_001",
+        "title": "Sentences",
+        "difficulty": "Medium",
+        "cost": "Free",
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Mathematics/files/mathG7002.json"
+    }
+]

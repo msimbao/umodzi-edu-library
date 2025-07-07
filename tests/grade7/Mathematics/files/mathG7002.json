@@ -1,0 +1,130 @@
+{
+    "id": "zm_math7_001",
+    "title": "Sentences",
+    "subject": "Mathematics",
+    "grade": 7,
+    "cost" : "Free",
+    "difficulty" : "Medium",
+    "questions": [
+        {
+            "question": "If Madaliso has 5 oranges, and each of his 4 friends has 2 oranges, how many oranges do they have altogether?",
+            "options": ["11", "13", "15", "17"],
+            "answer": 1,
+            "explanation": "Madaliso has 5, friends have 4 × 2 = 8. Total: 5 + 8 = 13"
+        },
+        {
+            "question": "A sack of mealie meal costs 250 Kwacha. If you buy 3 sacks, how much will you pay?",
+            "options": ["500 Kwacha", "650 Kwacha", "750 Kwacha", "850 Kwacha"],
+            "answer": 2,
+            "explanation": "250 × 3 = 750 Kwacha"
+        },
+        {
+            "question": "What is the perimeter of a rectangular field measuring 120m by 80m?",
+            "options": ["200m", "320m", "400m", "9600m"],
+            "answer": 2,
+            "explanation": "Perimeter = 2 × (length + width) = 2 × (120 + 80) = 400m"
+        },
+        {
+            "question": "If a bus leaves Lusaka at 07:30 and arrives in Livingstone at 13:15, how long was the journey?",
+            "options": ["4 hours 45 minutes", "5 hours 15 minutes", "5 hours 45 minutes", "6 hours 15 minutes"],
+            "answer": 2,
+            "explanation": "From 07:30 to 13:15 is 5 hours and 45 minutes"
+        },
+        {
+            "question": "A farmer harvested 356 bags of maize. If each bag weighs 50kg, what is the total weight in kilograms?",
+            "options": ["17,800kg", "15,600kg", "14,240kg", "12,750kg"],
+            "answer": 0,
+            "explanation": "356 × 50 = 17,800kg"
+        },
+        {
+            "question": "What is 25% of 1,200 Kwacha?",
+            "options": ["300 Kwacha", "400 Kwacha", "500 Kwacha", "600 Kwacha"],
+            "answer": 0,
+            "explanation": "1,200 × 0.25 = 300 Kwacha"
+        },
+        {
+            "question": "If 3 metres of chitenge material cost 135 Kwacha, what is the cost per metre?",
+            "options": ["35 Kwacha", "40 Kwacha", "45 Kwacha", "50 Kwacha"],
+            "answer": 2,
+            "explanation": "135 ÷ 3 = 45 Kwacha per metre"
+        },
+        {
+            "question": "How many 500ml bottles can be filled from a 20 litre container of cooking oil?",
+            "options": ["20", "30", "40", "50"],
+            "answer": 2,
+            "explanation": "20 litres = 20,000ml. 20,000 ÷ 500 = 40 bottles"
+        },
+        {
+            "question": "A class has 36 pupils. If 2/3 of them are girls, how many boys are there?",
+            "options": ["8", "10", "12", "14"],
+            "answer": 2,
+            "explanation": "Girls = 36 × 2/3 = 24. Boys = 36 - 24 = 12"
+        },
+        {
+            "question": "What is the next number in this pattern: 5, 10, 20, 40, ___?",
+            "options": ["60", "70", "80", "90"],
+            "answer": 2,
+            "explanation": "Each number is multiplied by 2 (5×2=10, 10×2=20, etc.)"
+        },
+        {
+            "question": "If a box contains 144 pencils and is shared equally among 12 learners, how many pencils does each get?",
+            "options": ["10", "11", "12", "13"],
+            "answer": 2,
+            "explanation": "144 ÷ 12 = 12 pencils each"
+        },
+        {
+            "question": "A shopkeeper bought 50 crates of soda at 80 Kwacha each and sold them at 95 Kwacha each. What was the total profit?",
+            "options": ["650 Kwacha", "750 Kwacha", "850 Kwacha", "950 Kwacha"],
+            "answer": 1,
+            "explanation": "Profit per crate = 95 - 80 = 15. Total profit = 50 × 15 = 750 Kwacha"
+        },
+        {
+            "question": "What is the area of a triangle with base 12cm and height 8cm?",
+            "options": ["48cm²", "64cm²", "80cm²", "96cm²"],
+            "answer": 0,
+            "explanation": "Area = ½ × base × height = ½ × 12 × 8 = 48cm²"
+        },
+        {
+            "question": "If 5 workers can complete a job in 8 days, how many days would 10 workers take?",
+            "options": ["2 days", "4 days", "6 days", "8 days"],
+            "answer": 1,
+            "explanation": "More workers means less time. 5 × 8 = 40 worker-days. 40 ÷ 10 = 4 days"
+        },
+        {
+            "question": "What is the value of 7² - 4 × 3?",
+            "options": ["25", "33", "37", "49"],
+            "answer": 2,
+            "explanation": "49 - 12 = 37"
+        },
+        {
+            "question": "A school has 480 pupils. If 55% are boys, how many girls are there?",
+            "options": ["216", "224", "234", "264"],
+            "answer": 0,
+            "explanation": "Boys = 480 × 0.55 = 264. Girls = 480 - 264 = 216"
+        },
+        {
+            "question": "What is the average of 14, 18, 22 and 26?",
+            "options": ["18", "20", "22", "24"],
+            "answer": 1,
+            "explanation": "(14 + 18 + 22 + 26) ÷ 4 = 80 ÷ 4 = 20"
+        },
+        {
+            "question": "If 3kg of sugar costs 105 Kwacha, how much will 7kg cost?",
+            "options": ["215 Kwacha", "225 Kwacha", "235 Kwacha", "245 Kwacha"],
+            "answer": 3,
+            "explanation": "1kg costs 105 ÷ 3 = 35 Kwacha. 7kg costs 7 × 35 = 245 Kwacha"
+        },
+        {
+            "question": "What is the smallest number that can be divided by both 6 and 8 without a remainder?",
+            "options": ["24", "32", "48", "64"],
+            "answer": 0,
+            "explanation": "The LCM of 6 and 8 is 24"
+        },
+        {
+            "question": "A rectangular tank is 5m long, 3m wide and 2m deep. What is its volume in cubic metres?",
+            "options": ["10m³", "20m³", "30m³", "40m³"],
+            "answer": 2,
+            "explanation": "Volume = length × width × height = 5 × 3 × 2 = 30m³"
+        }
+    ]
+}

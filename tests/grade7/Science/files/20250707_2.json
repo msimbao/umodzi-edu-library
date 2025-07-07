@@ -1,0 +1,130 @@
+{
+  "id": "20250707_2",
+  "title": "Science Basics 2",
+  "subject": "Science",
+  "grade": 7,
+  "cost": "free",
+  "difficulty": "easy",
+  "questions": [
+    {
+      "question": "What do plants need to grow?",
+      "options": ["Milk", "Water", "Oil", "Salt"],
+      "answer": 1,
+      "explanation": "Water is essential for plant growth."
+    },
+    {
+      "question": "Which sense do we use to see?",
+      "options": ["Hearing", "Touch", "Sight", "Taste"],
+      "answer": 2,
+      "explanation": "We use our eyes to see."
+    },
+    {
+      "question": "What is the sun?",
+      "options": ["A planet", "A moon", "A star", "A comet"],
+      "answer": 2,
+      "explanation": "The sun is a star at the center of our solar system."
+    },
+    {
+      "question": "Which part of your body helps you to hear?",
+      "options": ["Eyes", "Hands", "Ears", "Nose"],
+      "answer": 2,
+      "explanation": "Ears detect sound vibrations."
+    },
+    {
+      "question": "What do we breathe in to stay alive?",
+      "options": ["Carbon dioxide", "Oxygen", "Helium", "Nitrogen"],
+      "answer": 1,
+      "explanation": "Humans need oxygen to survive."
+    },
+    {
+      "question": "Which animal lays eggs?",
+      "options": ["Cat", "Dog", "Bird", "Cow"],
+      "answer": 2,
+      "explanation": "Birds lay eggs to reproduce."
+    },
+    {
+      "question": "Which of these is a liquid?",
+      "options": ["Stone", "Milk", "Wood", "Plastic"],
+      "answer": 1,
+      "explanation": "Milk is a liquid."
+    },
+    {
+      "question": "Which season is usually the hottest?",
+      "options": ["Winter", "Summer", "Autumn", "Spring"],
+      "answer": 1,
+      "explanation": "Summer is known for hot weather."
+    },
+    {
+      "question": "What do we use a thermometer for?",
+      "options": ["To measure distance", "To measure time", "To measure temperature", "To measure weight"],
+      "answer": 2,
+      "explanation": "A thermometer measures temperature."
+    },
+    {
+      "question": "What shape is the Earth?",
+      "options": ["Flat", "Square", "Round", "Triangle"],
+      "answer": 2,
+      "explanation": "The Earth is round like a ball."
+    },
+    {
+      "question": "What does the heart do?",
+      "options": ["Helps us think", "Pumps blood", "Digests food", "Makes us sleep"],
+      "answer": 1,
+      "explanation": "The heart pumps blood throughout the body."
+    },
+    {
+      "question": "What is H₂O commonly known as?",
+      "options": ["Salt", "Water", "Air", "Sugar"],
+      "answer": 1,
+      "explanation": "H₂O is the chemical formula for water."
+    },
+    {
+      "question": "What do bees collect from flowers?",
+      "options": ["Water", "Soil", "Pollen", "Sand"],
+      "answer": 2,
+      "explanation": "Bees collect pollen and nectar."
+    },
+    {
+      "question": "How many legs does a spider have?",
+      "options": ["6", "8", "4", "2"],
+      "answer": 1,
+      "explanation": "Spiders have 8 legs."
+    },
+    {
+      "question": "Which of these is a solid?",
+      "options": ["Juice", "Air", "Rock", "Oil"],
+      "answer": 2,
+      "explanation": "Rock is a solid."
+    },
+    {
+      "question": "Which planet do we live on?",
+      "options": ["Mars", "Earth", "Venus", "Jupiter"],
+      "answer": 1,
+      "explanation": "We live on planet Earth."
+    },
+    {
+      "question": "Which of the following do we NOT use for breathing?",
+      "options": ["Lungs", "Mouth", "Nose", "Stomach"],
+      "answer": 3,
+      "explanation": "The stomach is used for digestion, not breathing."
+    },
+    {
+      "question": "What do fish use to breathe?",
+      "options": ["Lungs", "Gills", "Fins", "Scales"],
+      "answer": 1,
+      "explanation": "Fish use gills to breathe underwater."
+    },
+    {
+      "question": "Which of these can melt when heated?",
+      "options": ["Ice", "Rock", "Wood", "Air"],
+      "answer": 0,
+      "explanation": "Ice melts to form water."
+    },
+    {
+      "question": "Which one is a source of light?",
+      "options": ["Mirror", "Sun", "Moon", "Window"],
+      "answer": 1,
+      "explanation": "The sun is a natural source of light."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "20250707_1",
+  "title": "Science Basics 1",
+  "subject": "Science",
+  "grade": 7,
+  "cost": "free",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "Which part of the plant conducts photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": 2,
+      "explanation": "Photosynthesis occurs in the leaves where chlorophyll is found."
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere during photosynthesis?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 1,
+      "explanation": "Plants absorb carbon dioxide to make food through photosynthesis."
+    },
+    {
+      "question": "Which organ pumps blood throughout the human body?",
+      "options": ["Lungs", "Brain", "Heart", "Liver"],
+      "answer": 2,
+      "explanation": "The heart is the muscular organ that pumps blood."
+    },
+    {
+      "question": "What type of energy is stored in food?",
+      "options": ["Kinetic", "Thermal", "Chemical", "Light"],
+      "answer": 2,
+      "explanation": "Food contains chemical energy stored in the bonds of molecules."
+    },
+    {
+      "question": "Which of the following is a non-renewable source of energy?",
+      "options": ["Solar", "Wind", "Coal", "Hydro"],
+      "answer": 2,
+      "explanation": "Coal is a fossil fuel and cannot be replaced quickly."
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "answer": 1,
+      "explanation": "Mars appears red due to iron oxide on its surface."
+    },
+    {
+      "question": "Which human body system is responsible for breaking down food?",
+      "options": ["Respiratory system", "Nervous system", "Digestive system", "Circulatory system"],
+      "answer": 2,
+      "explanation": "The digestive system breaks down food into nutrients."
+    },
+    {
+      "question": "Water boils at what temperature under normal atmospheric pressure?",
+      "options": ["90°C", "100°C", "80°C", "120°C"],
+      "answer": 1,
+      "explanation": "Water boils at 100°C at sea level."
+    },
+    {
+      "question": "What is the main gas found in the air we breathe?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "answer": 2,
+      "explanation": "Nitrogen makes up about 78% of Earth's atmosphere."
+    },
+    {
+      "question": "Which of these is an example of a vertebrate?",
+      "options": ["Spider", "Earthworm", "Lizard", "Snail"],
+      "answer": 2,
+      "explanation": "Lizards have backbones and are vertebrates."
+    },
+    {
+      "question": "Which part of the cell contains genetic material?",
+      "options": ["Cytoplasm", "Mitochondria", "Nucleus", "Ribosome"],
+      "answer": 2,
+      "explanation": "The nucleus contains DNA and controls cell activities."
+    },
+    {
+      "question": "What do we call animals that eat only plants?",
+      "options": ["Carnivores", "Omnivores", "Herbivores", "Decomposers"],
+      "answer": 2,
+      "explanation": "Herbivores are animals that eat plants only."
+    },
+    {
+      "question": "What force pulls objects toward the Earth?",
+      "options": ["Magnetism", "Friction", "Electricity", "Gravity"],
+      "answer": 3,
+      "explanation": "Gravity is the force of attraction between objects with mass."
+    },
+    {
+      "question": "What is the process of a solid changing directly into a gas?",
+      "options": ["Evaporation", "Condensation", "Sublimation", "Melting"],
+      "answer": 2,
+      "explanation": "Sublimation is the direct change from solid to gas."
+    },
+    {
+      "question": "Which mineral is needed to make bones strong?",
+      "options": ["Iron", "Zinc", "Calcium", "Iodine"],
+      "answer": 2,
+      "explanation": "Calcium helps in the development of strong bones and teeth."
+    },
+    {
+      "question": "Which of the following helps plants absorb water from the soil?",
+      "options": ["Leaves", "Flowers", "Roots", "Stems"],
+      "answer": 2,
+      "explanation": "Roots absorb water and minerals from the soil."
+    },
+    {
+      "question": "Which of the following is an example of a mixture?",
+      "options": ["Salt", "Sugar", "Air", "Water"],
+      "answer": 2,
+      "explanation": "Air is a mixture of different gases like oxygen and nitrogen."
+    },
+    {
+      "question": "What do we call the change from a liquid to a gas?",
+      "options": ["Melting", "Freezing", "Evaporation", "Condensation"],
+      "answer": 2,
+      "explanation": "Evaporation is the process where liquid turns into gas."
+    },
+    {
+      "question": "Which sense organ helps us to detect sound?",
+      "options": ["Eyes", "Nose", "Ears", "Skin"],
+      "answer": 2,
+      "explanation": "Ears are used to detect sound vibrations."
+    },
+    {
+      "question": "Which part of the plant anchors it to the ground?",
+      "options": ["Stem", "Leaf", "Root", "Flower"],
+      "answer": 2,
+      "explanation": "Roots hold the plant in place and absorb water and nutrients."
+    }
+  ]
+}

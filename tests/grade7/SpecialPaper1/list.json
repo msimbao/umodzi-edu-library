@@ -19,5 +19,12 @@
         "difficulty": "hard",
         "cost": "free",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/SpecialPaper1/files/20250707_3.json"
+    },
+        {
+        "id": "20250707_4",
+        "title": "SP1 Medium",
+        "difficulty": "medium",
+        "cost": "premium",
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/SpecialPaper1/files/20250707_4.json"
     }
 ]

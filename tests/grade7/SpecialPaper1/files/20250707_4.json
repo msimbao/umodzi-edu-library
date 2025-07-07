@@ -1,0 +1,130 @@
+quiz = {
+    "id": "20250707_4",
+    "title": "SP1 Medium",
+    "subject": "Special Paper 1",
+    "grade": 7,
+    "cost": "free",
+    "difficulty": "medium",
+    "questions": [
+        {
+            "question": "What is the next number in the sequence: 2, 4, 8, 16, __?",
+            "options": ["18", "20", "32", "24"],
+            "answer": 2,
+            "explanation": "The numbers double each time: 2 × 2 = 4, 4 × 2 = 8, etc. 16 × 2 = 32."
+        },
+        {
+            "question": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops definitely Lazzies?",
+            "options": ["Yes", "No", "Only some", "Cannot be determined"],
+            "answer": 0,
+            "explanation": "This is a logic chain. If A → B and B → C, then A → C."
+        },
+        {
+            "question": "Find the odd one out: Apple, Banana, Carrot, Mango",
+            "options": ["Apple", "Banana", "Carrot", "Mango"],
+            "answer": 2,
+            "explanation": "Carrot is a vegetable; the rest are fruits."
+        },
+        {
+            "question": "Which shape has the fewest sides?",
+            "options": ["Triangle", "Hexagon", "Octagon", "Pentagon"],
+            "answer": 0,
+            "explanation": "Triangle has 3 sides, which is fewer than the others."
+        },
+        {
+            "question": "Which number is one-quarter of one-half of 120?",
+            "options": ["15", "30", "60", "90"],
+            "answer": 0,
+            "explanation": "Half of 120 = 60; quarter of 60 = 15."
+        },
+        {
+            "question": "Tom is taller than Jack but shorter than Mike. Who is the tallest?",
+            "options": ["Tom", "Jack", "Mike", "Cannot tell"],
+            "answer": 2,
+            "explanation": "If Tom < Mike and Jack < Tom, then Mike is the tallest."
+        },
+        {
+            "question": "Which pair of numbers add up to 100?",
+            "options": ["60 and 30", "50 and 40", "45 and 55", "20 and 60"],
+            "answer": 2,
+            "explanation": "45 + 55 = 100."
+        },
+        {
+            "question": "What is the missing letter in the sequence: A, C, E, G, __?",
+            "options": ["H", "I", "J", "K"],
+            "answer": 1,
+            "explanation": "The pattern skips one letter: A(+2)=C, C(+2)=E, etc. G(+2)=I."
+        },
+        {
+            "question": "Which one is different: 16, 36, 49, 64",
+            "options": ["16", "36", "49", "64"],
+            "answer": 2,
+            "explanation": "All are squares of even numbers except 49 (7²)."
+        },
+        {
+            "question": "Which word is the odd one out: Run, Jump, Crawl, Eat",
+            "options": ["Run", "Jump", "Crawl", "Eat"],
+            "answer": 3,
+            "explanation": "All others are movement verbs; 'Eat' is not."
+        },
+        {
+            "question": "If a clock shows 3:15, what is the angle between the hour and minute hand?",
+            "options": ["0°", "7.5°", "15°", "30°"],
+            "answer": 1,
+            "explanation": "At 3:15, the hour hand is 7.5° past 3. Minute hand at 90°; hour at 97.5°. Difference = 7.5°."
+        },
+        {
+            "question": "What comes next in the pattern: 1, 4, 9, 16, 25, __?",
+            "options": ["36", "30", "40", "49"],
+            "answer": 0,
+            "explanation": "These are square numbers: 1², 2², 3²... Next is 6² = 36."
+        },
+        {
+            "question": "Which is a mirror image of the letter 'L'?",
+            "options": ["Γ", "J", "⅃", "E"],
+            "answer": 2,
+            "explanation": "⅃ is the correct mirror reflection of L."
+        },
+        {
+            "question": "If 2 pencils cost 10 kwacha, how many pencils can you buy with 50 kwacha?",
+            "options": ["5", "8", "10", "12"],
+            "answer": 2,
+            "explanation": "Each pencil is 5 kwacha, so 50 ÷ 5 = 10."
+        },
+        {
+            "question": "What is the next number in the series: 1, 1, 2, 3, 5, 8, __?",
+            "options": ["13", "10", "12", "15"],
+            "answer": 0,
+            "explanation": "Fibonacci sequence: next = 5 + 8 = 13."
+        },
+        {
+            "question": "Which one of the following is a cube number?",
+            "options": ["9", "16", "27", "36"],
+            "answer": 2,
+            "explanation": "3³ = 27."
+        },
+        {
+            "question": "Which direction is opposite to North-East?",
+            "options": ["South-East", "South-West", "North-West", "East"],
+            "answer": 1,
+            "explanation": "The opposite of NE is SW."
+        },
+        {
+            "question": "Which number is missing? 5, 10, 20, __, 80",
+            "options": ["25", "30", "35", "40"],
+            "answer": 3,
+            "explanation": "Each number doubles: 5×2=10, 10×2=20, 20×2=40."
+        },
+        {
+            "question": "What day comes after Wednesday if yesterday was Monday?",
+            "options": ["Tuesday", "Wednesday", "Thursday", "Friday"],
+            "answer": 2,
+            "explanation": "If yesterday was Monday, today is Tuesday. Tomorrow is Wednesday. So, next day is Thursday."
+        },
+        {
+            "question": "Which number is missing: 2, 6, 12, 20, __?",
+            "options": ["24", "30", "36", "40"],
+            "answer": 1,
+            "explanation": "The pattern increases by +4, +6, +8... So next is 20 + 10 = 30."
+        }
+    ]
+}

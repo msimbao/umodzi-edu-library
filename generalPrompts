@@ -1,0 +1,13 @@
+/=========================================
+
+General Prompts for Question Generation
+
+/=========================================
+
+
+1. General Question Generation 
+
+DESC: This is the most important format to tell the system so that it generates tests with same json format for slotting into the library
+
+make a dictionary that has the following keys: id, title, subject, grade and questions. The questions be a list of dictionaries with each dictionary having the keys: question, options, answer, explanation. the answer should be the index of the correct answer in the questions array. Make a quiz for grade 7 math learners that is 20 questions long using this format.
+

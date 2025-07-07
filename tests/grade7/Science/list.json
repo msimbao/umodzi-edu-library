@@ -3,21 +3,21 @@
         "id": "20250707_1",
         "title": "Science Basics 1",
         "difficulty": "medium",
-        "cost": "Free",
+        "cost": "free",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Science/files/20250707_1.json"
     },
     {
         "id": "20250707_2",
         "title": "Science Basics 2",
         "difficulty": "easy",
-        "cost": "Free",
+        "cost": "free",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Science/files/20250707_2.json"
     },
     {
         "id": "20250707_3",
         "title": "Science Basics 3",
         "difficulty": "easy",
-        "cost" : "Free",
+        "cost" : "free",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Science/files/20250707_3.json"
     }
 ]

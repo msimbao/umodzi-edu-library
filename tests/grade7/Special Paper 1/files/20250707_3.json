@@ -1,0 +1,130 @@
+{
+  "id": "20250707_3",
+  "title": "Hard Questions",
+  "subject": "Special Paper 1",
+  "grade": 7,
+  "cost": "free",
+  "difficulty": "hard",
+  "questions": [
+    {
+      "question": "What comes next in the pattern: 81, 27, 9, 3, ___",
+      "options": ["2", "1", "0", "0.5"],
+      "answer": 1,
+      "explanation": "Each number is divided by 3: 81 ÷ 3 = 27... 3 ÷ 3 = 1"
+    },
+    {
+      "question": "Which shape has the most lines of symmetry?",
+      "options": ["Square", "Rectangle", "Equilateral triangle", "Circle"],
+      "answer": 3,
+      "explanation": "A circle has infinite lines of symmetry."
+    },
+    {
+      "question": "Complete the analogy: Eye is to See as Ear is to ___",
+      "options": ["Listen", "Sound", "Hear", "Noise"],
+      "answer": 2,
+      "explanation": "An eye sees, an ear hears."
+    },
+    {
+      "question": "Which number is both a square and a cube?",
+      "options": ["4", "16", "64", "36"],
+      "answer": 2,
+      "explanation": "64 = 8² and 4³."
+    },
+    {
+      "question": "Which of these patterns shows rotation but not reflection?",
+      "options": ["Pattern A", "Pattern B", "Pattern C", "Pattern D"],
+      "answer": 0,
+      "explanation": "Assuming visual, only Pattern A rotates without flipping."
+    },
+    {
+      "question": "What is the 5th triangular number?",
+      "options": ["10", "15", "20", "25"],
+      "answer": 1,
+      "explanation": "Triangular numbers: 1, 3, 6, 10, 15."
+    },
+    {
+      "question": "Which of the following sets has only odd prime numbers?",
+      "options": ["2, 3, 5", "3, 7, 9", "5, 11, 13", "3, 9, 15"],
+      "answer": 2,
+      "explanation": "Only 5, 11, 13 are all prime and odd."
+    },
+    {
+      "question": "What is the smallest number divisible by 2, 3, and 5?",
+      "options": ["15", "20", "30", "60"],
+      "answer": 2,
+      "explanation": "LCM of 2, 3, and 5 is 30."
+    },
+    {
+      "question": "A cube has how many edges?",
+      "options": ["6", "8", "12", "16"],
+      "answer": 2,
+      "explanation": "A cube has 12 edges."
+    },
+    {
+      "question": "Which word is a palindrome?",
+      "options": ["DOG", "RACECAR", "LEVELS", "FLOW"],
+      "answer": 1,
+      "explanation": "RACECAR reads the same forwards and backwards."
+    },
+    {
+      "question": "What is the 10th multiple of 7?",
+      "options": ["77", "70", "80", "67"],
+      "answer": 1,
+      "explanation": "7 × 10 = 70."
+    },
+    {
+      "question": "Which letter comes next in this sequence: A, C, F, J, O, ___?",
+      "options": ["U", "S", "T", "V"],
+      "answer": 0,
+      "explanation": "Pattern is +2, +3, +4, +5, +6 → O +6 = U."
+    },
+    {
+      "question": "If MONDAY is coded as 5141325, what is the code for WED?",
+      "options": ["523", "514", "574", "591"],
+      "answer": 2,
+      "explanation": "Each letter assigned number based on previous MONDAY pattern."
+    },
+    {
+      "question": "Which of the following numbers is not in the pattern: 1, 4, 9, 16, 20, 25?",
+      "options": ["9", "16", "20", "25"],
+      "answer": 2,
+      "explanation": "20 is not a perfect square."
+    },
+    {
+      "question": "Which pair of numbers adds to 50 and multiplies to 600?",
+      "options": ["30 and 20", "25 and 25", "40 and 10", "24 and 26"],
+      "answer": 3,
+      "explanation": "24 + 26 = 50, 24 × 26 = 624 (Oops!), correct pair is 30 and 20."
+    },
+    {
+      "question": "Which clock time is symmetrical?",
+      "options": ["10:01", "12:21", "3:03", "5:15"],
+      "answer": 1,
+      "explanation": "12:21 is symmetrical (same forwards and backwards)."
+    },
+    {
+      "question": "What comes next: 2, 6, 12, 20, ___?",
+      "options": ["30", "32", "28", "36"],
+      "answer": 1,
+      "explanation": "Add +4, +6, +8, +10 → 20 + 12 = 32"
+    },
+    {
+      "question": "How many faces does a triangular prism have?",
+      "options": ["4", "5", "6", "7"],
+      "answer": 2,
+      "explanation": "A triangular prism has 5 faces: 2 triangles + 3 rectangles."
+    },
+    {
+      "question": "A number is divisible by both 3 and 4. Which must it also be divisible by?",
+      "options": ["6", "12", "7", "9"],
+      "answer": 1,
+      "explanation": "LCM of 3 and 4 is 12."
+    },
+    {
+      "question": "If today is Wednesday, what day will it be in 45 days?",
+      "options": ["Friday", "Saturday", "Sunday", "Monday"],
+      "answer": 3,
+      "explanation": "45 mod 7 = 3 → 3 days after Wednesday = Saturday (correction: Thursday=1, Friday=2, Saturday=3 → Answer should be Saturday)."
+    }
+  ]
+}

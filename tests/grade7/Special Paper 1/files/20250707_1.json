@@ -1,0 +1,130 @@
+{
+  "id": "20250707_01",
+  "title": "Practice 1",
+  "subject": "Special Paper 1",
+  "grade": 7,
+  "cost": "free",
+  "difficulty": "medium",
+  "questions": [
+    {
+      "question": "What number comes next in the series: 2, 4, 8, 16, ___?",
+      "options": ["18", "24", "32", "20"],
+      "answer": 2,
+      "explanation": "The pattern doubles each time: 2×2=4, 4×2=8, 8×2=16, so 16×2=32."
+    },
+    {
+      "question": "Which shape is different from the rest?",
+      "options": ["Square", "Rectangle", "Circle", "Triangle"],
+      "answer": 2,
+      "explanation": "Circle has no straight sides, unlike the others."
+    },
+    {
+      "question": "Find the odd one out: 3, 5, 7, 9, 11",
+      "options": ["3", "5", "7", "9"],
+      "answer": 3,
+      "explanation": "9 is not a prime number, others are."
+    },
+    {
+      "question": "If a clock shows 3:15, what angle is between the hour and minute hands?",
+      "options": ["0°", "7.5°", "90°", "45°"],
+      "answer": 1,
+      "explanation": "At 3:15, the angle is 7.5° between hands."
+    },
+    {
+      "question": "Which number is missing? 1, 4, 9, 16, ___, 36",
+      "options": ["20", "25", "30", "27"],
+      "answer": 1,
+      "explanation": "These are squares: 1², 2², 3², 4², 5²=25, 6²=36."
+    },
+    {
+      "question": "Find the next letter in the sequence: A, C, F, J, O, ___",
+      "options": ["Q", "U", "V", "W"],
+      "answer": 1,
+      "explanation": "Alphabet gaps increase: +1, +2, +3... O +6 = U."
+    },
+    {
+      "question": "Which of the following is a mirror image of 'F'?",
+      "options": ["Ƒ", "ᖴ", "𐰴", "ɟ"],
+      "answer": 0,
+      "explanation": "Ƒ is the mirrored version of F."
+    },
+    {
+      "question": "Which number is next? 121, 144, 169, ___",
+      "options": ["182", "196", "188", "205"],
+      "answer": 1,
+      "explanation": "11²=121, 12²=144, 13²=169, 14²=196."
+    },
+    {
+      "question": "What is the missing number in: 5, 10, 20, ___, 80",
+      "options": ["25", "30", "40", "50"],
+      "answer": 2,
+      "explanation": "Multiplying by 2: 5×2=10, 10×2=20, 20×2=40..."
+    },
+    {
+      "question": "If all Bloops are Razzies and all Razzies are Lazzies, are all Bloops Lazzies?",
+      "options": ["Yes", "No", "Only some", "Can't tell"],
+      "answer": 0,
+      "explanation": "Logical deduction: if A→B and B→C, then A→C."
+    },
+    {
+      "question": "Which pair of numbers add up to 100?",
+      "options": ["50 and 45", "60 and 35", "55 and 45", "70 and 25"],
+      "answer": 2,
+      "explanation": "55 + 45 = 100."
+    },
+    {
+      "question": "Complete the pattern: 2, 6, 12, 20, ___",
+      "options": ["24", "28", "30", "32"],
+      "answer": 3,
+      "explanation": "Pattern adds +4, +6, +8, +10 → 20+12=32."
+    },
+    {
+      "question": "Which word does not belong: Apple, Banana, Carrot, Mango",
+      "options": ["Apple", "Banana", "Carrot", "Mango"],
+      "answer": 2,
+      "explanation": "Carrot is a vegetable; the rest are fruits."
+    },
+    {
+      "question": "What is the mirror image of the number 12?",
+      "options": ["12", "21", "ƖƧ", "Z1"],
+      "answer": 2,
+      "explanation": "ƖƧ resembles a mirrored 12."
+    },
+    {
+      "question": "If BOX is coded as CPY, what is CAT coded as?",
+      "options": ["DBU", "CBU", "DAU", "DBV"],
+      "answer": 0,
+      "explanation": "Each letter shifted +1: C→D, A→B, T→U → DBU."
+    },
+    {
+      "question": "Which number is 1/4 of 100?",
+      "options": ["10", "25", "50", "40"],
+      "answer": 1,
+      "explanation": "100 ÷ 4 = 25."
+    },
+    {
+      "question": "Which shape has exactly 3 sides?",
+      "options": ["Circle", "Square", "Triangle", "Pentagon"],
+      "answer": 2,
+      "explanation": "A triangle has 3 sides."
+    },
+    {
+      "question": "What comes next: Mon, Tue, Wed, ___",
+      "options": ["Fri", "Thu", "Sat", "Sun"],
+      "answer": 1,
+      "explanation": "The sequence follows days of the week."
+    },
+    {
+      "question": "What is half of 0.6?",
+      "options": ["0.3", "0.06", "0.36", "0.12"],
+      "answer": 0,
+      "explanation": "0.6 ÷ 2 = 0.3."
+    },
+    {
+      "question": "If Peter is taller than Paul, and Paul is taller than John, who is shortest?",
+      "options": ["Peter", "Paul", "John", "Can't tell"],
+      "answer": 2,
+      "explanation": "John is shortest."
+    }
+  ]
+}

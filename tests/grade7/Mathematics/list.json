@@ -15,7 +15,7 @@
     },
        {
         "id": "grade7_math_003",
-        "title": "Sentences",
+        "title": "Hard Math",
         "difficulty": "hard",
         "cost": "free",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Mathematics/files/mathG7003.json"

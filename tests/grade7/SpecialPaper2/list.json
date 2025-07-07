@@ -1,24 +1,10 @@
 [
     {
         "id": "20250707_1",
-        "title": "Image Practice 1",
-        "difficulty": "easy",
+        "title": "Hard Logic",
+        "difficulty": "hard",
         "cost": "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7001.json"
-    },
-    {
-        "id": "20250707_2",
-        "title": "Image Practice 2",
-        "difficulty": "easy",
-        "cost": "premium",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7002.json"
-    },
-    {
-        "id": "20250707_3",
-        "title": "Fundamentals",
-        "difficulty": "easy",
-        "cost" : "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7003.json"
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/SpecialPaper2/files/20250707_1.json"
     }
 
 ]

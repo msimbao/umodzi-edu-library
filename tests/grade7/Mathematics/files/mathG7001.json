@@ -1,130 +1,130 @@
 {
-    "id": "math7_001",
-    "title": "Arithmetic 1",
-    "subject": "Mathematics",
-    "grade": 7,
-    "cost" : "Free",
-    "difficulty": "easy",
-    "questions": [
-        {
-            "question": "What is the value of 5² + 3 × 4 - 6?",
-            "options": ["19", "23", "25", "31"],
-            "answer": 0,
-            "explanation": "Following order of operations: 25 + 12 - 6 = 31 - 6 = 19"
-        },
-        {
-            "question": "Which of these numbers is a prime number?",
-            "options": ["15", "21", "29", "33"],
-            "answer": 2,
-            "explanation": "29 is only divisible by 1 and itself, making it prime."
-        },
-        {
-            "question": "What is 3/4 expressed as a decimal?",
-            "options": ["0.25", "0.34", "0.75", "1.33"],
-            "answer": 2,
-            "explanation": "3 divided by 4 equals 0.75"
-        },
-        {
-            "question": "If x + 7 = 15, what is the value of x?",
-            "options": ["6", "7", "8", "9"],
-            "answer": 2,
-            "explanation": "Subtract 7 from both sides: x = 15 - 7 = 8"
-        },
-        {
-            "question": "What is the area of a rectangle with length 8 cm and width 5 cm?",
-            "options": ["13 cm²", "26 cm²", "35 cm²", "40 cm²"],
-            "answer": 3,
-            "explanation": "Area = length × width = 8 × 5 = 40 cm²"
-        },
-        {
-            "question": "Which fraction is equivalent to 0.6?",
-            "options": ["1/6", "3/5", "2/3", "6/10"],
-            "answer": 1,
-            "explanation": "0.6 = 6/10 which simplifies to 3/5"
-        },
-        {
-            "question": "What is the perimeter of a square with side length 6 cm?",
-            "options": ["12 cm", "18 cm", "24 cm", "36 cm"],
-            "answer": 2,
-            "explanation": "Perimeter = 4 × side = 4 × 6 = 24 cm"
-        },
-        {
-            "question": "Solve: 2(x - 3) = 10",
-            "options": ["4", "5", "6", "8"],
-            "answer": 3,
-            "explanation": "Divide both sides by 2: x - 3 = 5, then add 3: x = 8"
-        },
-        {
-            "question": "What is the least common multiple (LCM) of 4 and 6?",
-            "options": ["2", "12", "18", "24"],
-            "answer": 1,
-            "explanation": "Multiples of 4: 4,8,12...; multiples of 6: 6,12...; LCM is 12"
-        },
-        {
-            "question": "Which of these is a right angle?",
-            "options": ["45°", "90°", "120°", "180°"],
-            "answer": 1,
-            "explanation": "A right angle measures exactly 90 degrees"
-        },
-        {
-            "question": "What is 25% of 80?",
-            "options": ["15", "20", "25", "30"],
-            "answer": 1,
-            "explanation": "25% = 1/4, and 80 ÷ 4 = 20"
-        },
-        {
-            "question": "What is the mean of these numbers: 5, 7, 9, 11?",
-            "options": ["7", "8", "9", "10"],
-            "answer": 1,
-            "explanation": "Mean = (5+7+9+11)/4 = 32/4 = 8"
-        },
-        {
-            "question": "How many centimeters are in 3.5 meters?",
-            "options": ["35 cm", "105 cm", "350 cm", "3500 cm"],
-            "answer": 2,
-            "explanation": "1 meter = 100 cm, so 3.5 × 100 = 350 cm"
-        },
-        {
-            "question": "What is the next number in the sequence: 2, 5, 10, 17, ___?",
-            "options": ["24", "26", "28", "34"],
-            "answer": 1,
-            "explanation": "The pattern adds consecutive odd numbers (3,5,7...) so next is 17+9=26"
-        },
-        {
-            "question": "What is the greatest common factor (GCF) of 18 and 24?",
-            "options": ["2", "3", "6", "8"],
-            "answer": 2,
-            "explanation": "Factors of 18: 1,2,3,6,9,18; factors of 24: 1,2,3,4,6,8,12,24; GCF is 6"
-        },
-        {
-            "question": "If a triangle has angles measuring 45° and 45°, what is the measure of the third angle?",
-            "options": ["45°", "60°", "90°", "180°"],
-            "answer": 2,
-            "explanation": "Sum of angles is 180°, so 180 - 45 - 45 = 90°"
-        },
-        {
-            "question": "What is 7/8 - 1/2?",
-            "options": ["3/8", "1/2", "5/8", "3/4"],
-            "answer": 0,
-            "explanation": "Convert to common denominator: 7/8 - 4/8 = 3/8"
-        },
-        {
-            "question": "Which of these represents 0.00045 in scientific notation?",
-            "options": ["4.5 × 10⁻³", "4.5 × 10⁻⁴", "4.5 × 10⁻⁵", "45 × 10⁻⁵"],
-            "answer": 1,
-            "explanation": "Move decimal 4 places right: 4.5 × 10⁻⁴"
-        },
-        {
-            "question": "What is the probability of rolling an even number on a standard die?",
-            "options": ["1/6", "1/3", "1/2", "2/3"],
-            "answer": 2,
-            "explanation": "Even numbers (2,4,6) out of 6 possible outcomes: 3/6 = 1/2"
-        },
-        {
-            "question": "What is the value of y in the equation 2y + 5 = 17?",
-            "options": ["5", "6", "7", "8"],
-            "answer": 1,
-            "explanation": "Subtract 5: 2y = 12, then divide by 2: y = 6"
-        }
-    ]
+  "id": "grade7_math_001",
+  "title": "Arithmetic 1",
+  "subject": "Mathematics",
+  "grade": 7,
+  "difficulty" : "Easy",
+  "cost" : "free",
+  "questions": [
+    {
+      "question": "What is the value of 3²?",
+      "options": ["6", "9", "12", "3"],
+      "answer": 1,
+      "explanation": "3 squared means 3 × 3 = 9."
+    },
+    {
+      "question": "What is 25% of 200?",
+      "options": ["25", "50", "75", "100"],
+      "answer": 1,
+      "explanation": "25% of 200 is (25/100) × 200 = 50."
+    },
+    {
+      "question": "What is the area of a rectangle with length 8 cm and width 3 cm?",
+      "options": ["11 cm²", "24 cm²", "16 cm²", "21 cm²"],
+      "answer": 1,
+      "explanation": "Area = length × width = 8 × 3 = 24 cm²."
+    },
+    {
+      "question": "Which number is a prime number?",
+      "options": ["15", "21", "13", "18"],
+      "answer": 2,
+      "explanation": "13 has only two factors: 1 and 13."
+    },
+    {
+      "question": "What is the greatest common factor (GCF) of 18 and 24?",
+      "options": ["3", "6", "12", "9"],
+      "answer": 1,
+      "explanation": "The GCF of 18 and 24 is 6."
+    },
+    {
+      "question": "Simplify: 3(2x + 4)",
+      "options": ["6x + 4", "2x + 12", "6x + 12", "5x + 4"],
+      "answer": 2,
+      "explanation": "Distribute: 3 × 2x + 3 × 4 = 6x + 12."
+    },
+    {
+      "question": "What is the value of x in the equation 2x + 5 = 13?",
+      "options": ["3", "4", "5", "6"],
+      "answer": 1,
+      "explanation": "2x + 5 = 13 → 2x = 8 → x = 4."
+    },
+    {
+      "question": "What is the median of 3, 7, 9, 2, 5?",
+      "options": ["5", "6", "7", "4"],
+      "answer": 0,
+      "explanation": "Ordered: 2, 3, 5, 7, 9 → Median is 5."
+    },
+    {
+      "question": "How many degrees are there in a right angle?",
+      "options": ["45°", "90°", "180°", "360°"],
+      "answer": 1,
+      "explanation": "A right angle is 90 degrees."
+    },
+    {
+      "question": "If the radius of a circle is 7 cm, what is the diameter?",
+      "options": ["14 cm", "21 cm", "7 cm", "3.5 cm"],
+      "answer": 0,
+      "explanation": "Diameter = 2 × radius = 14 cm."
+    },
+    {
+      "question": "What is the next number in the pattern: 2, 4, 8, 16, ___?",
+      "options": ["18", "24", "32", "20"],
+      "answer": 2,
+      "explanation": "Each number is multiplied by 2: next is 16 × 2 = 32."
+    },
+    {
+      "question": "What is 7/10 as a decimal?",
+      "options": ["0.7", "0.07", "0.17", "7.0"],
+      "answer": 0,
+      "explanation": "7 divided by 10 is 0.7."
+    },
+    {
+      "question": "What is 45 ÷ 5?",
+      "options": ["8", "9", "7", "6"],
+      "answer": 1,
+      "explanation": "45 divided by 5 is 9."
+    },
+    {
+      "question": "Solve: 6 + 2 × 3",
+      "options": ["24", "30", "12", "12"],
+      "answer": 2,
+      "explanation": "Follow order of operations: 2 × 3 = 6, then 6 + 6 = 12."
+    },
+    {
+      "question": "Which of the following is a multiple of 9?",
+      "options": ["14", "27", "25", "20"],
+      "answer": 1,
+      "explanation": "27 is divisible by 9."
+    },
+    {
+      "question": "What is the value of 5³?",
+      "options": ["15", "25", "125", "75"],
+      "answer": 2,
+      "explanation": "5 × 5 × 5 = 125."
+    },
+    {
+      "question": "What is the perimeter of a square with side length 6 cm?",
+      "options": ["12 cm", "18 cm", "24 cm", "36 cm"],
+      "answer": 2,
+      "explanation": "Perimeter = 4 × side = 4 × 6 = 24 cm."
+    },
+    {
+      "question": "What is 2/5 + 3/5?",
+      "options": ["1", "5", "3/10", "1/5"],
+      "answer": 0,
+      "explanation": "Add like fractions: 2/5 + 3/5 = 5/5 = 1."
+    },
+    {
+      "question": "A triangle has angles 40° and 70°. What is the third angle?",
+      "options": ["60°", "70°", "80°", "50°"],
+      "answer": 3,
+      "explanation": "Sum of angles = 180°. So third = 180 - (40 + 70) = 70°."
+    },
+    {
+      "question": "What is 0.5 × 0.2?",
+      "options": ["0.1", "0.01", "1", "0.25"],
+      "answer": 0,
+      "explanation": "0.5 × 0.2 = 0.1."
+    }
+  ]
 }

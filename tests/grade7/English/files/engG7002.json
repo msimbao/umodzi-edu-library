@@ -3,6 +3,8 @@
   "title": "Comprehension & Usage",
   "subject": "English",
   "grade": "7",
+  "cost" : "free",
+  "difficulty" : "easy",
   "questions": [
     {
       "question": "What is the main idea of a story?",

@@ -3,6 +3,8 @@
   "title": "Grammar & Vocabulary Mastery",
   "subject": "English",
   "grade": "7",
+  "cost" : "free",
+  "difficulty" : "easy",
   "questions": [
     {
       "question": "Choose the correct verb: She ____ very fast.",

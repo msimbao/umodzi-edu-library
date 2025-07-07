@@ -1,16 +1,23 @@
 [
     {
-        "id": "zm_math7_001",
+        "id": "grade7_math_001",
         "title": "Arithmetic 1",
-        "difficulty": "Easy",
-        "cost": "Free",
+        "difficulty": "easy",
+        "cost": "free",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Mathematics/files/mathG7001.json"
     },
     {
-        "id": "zm_math7_001",
+        "id": "grade7_math_002",
         "title": "Sentences",
-        "difficulty": "Medium",
-        "cost": "Free",
+        "difficulty": "medium",
+        "cost": "free",
         "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Mathematics/files/mathG7002.json"
+    },
+       {
+        "id": "grade7_math_003",
+        "title": "Sentences",
+        "difficulty": "hard",
+        "cost": "free",
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Mathematics/files/mathG7003.json"
     }
 ]

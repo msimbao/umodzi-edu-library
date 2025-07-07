@@ -3,7 +3,9 @@
   "title": "Writing & Sentence Structure",
   "subject": "English",
   "grade": "7",
-  "questions": [
+  "cost" : "free",
+  "difficulty" : "easy",
+   "questions": [
     {
       "question": "Which punctuation is used at the end of a command?",
       "options": [

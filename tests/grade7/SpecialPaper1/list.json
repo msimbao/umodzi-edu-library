@@ -1,0 +1,23 @@
+[
+    {
+        "id": "20250707_1",
+        "title": "Practice 1",
+        "difficulty": "medium",
+        "cost": "free",
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/SpecialPaper1/files/20250707_1.json"
+    },
+    {
+        "id": "20250707_2",
+        "title": "Practice 2",
+        "difficulty": "hard",
+        "cost": "premium",
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/SpecialPaper1/files/20250707_2.json"
+    },
+    {
+        "id": "20250707_3",
+        "title": "Practice 3",
+        "difficulty": "hard",
+        "cost": "free",
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/SpecialPaper1/files/20250707_3.json"
+    },
+]

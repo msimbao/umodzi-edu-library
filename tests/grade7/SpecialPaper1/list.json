@@ -1,24 +1,23 @@
 [
     {
-        "id": "eng-g7-001",
-        "title": "Basic Grammar",
-        "difficulty": "easy",
+        "id": "20250707_1",
+        "title": "Practice 1",
+        "difficulty": "medium",
         "cost": "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7001.json"
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/SpecialPaper1/files/20250707_1.json"
     },
     {
-        "id": "eng-g7-002",
-        "title": "Comprehension",
-        "difficulty": "easy",
+        "id": "20250707_2",
+        "title": "Practice 2",
+        "difficulty": "hard",
         "cost": "premium",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7002.json"
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/SpecialPaper1/files/20250707_2.json"
     },
     {
-        "id": "eng-g7-003",
-        "title": "Writing",
-        "difficulty": "easy",
-        "cost" : "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7003.json"
+        "id": "20250707_3",
+        "title": "Practice 3",
+        "difficulty": "hard",
+        "cost": "free",
+        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/SpecialPaper1/files/20250707_3.json"
     }
-
 ]

@@ -2,62 +2,40 @@
   "id": "eng-g7-001",
   "title": "Grammar & Vocabulary Mastery",
   "subject": "English",
-  "grade": "7",
-  "cost" : "free",
-  "difficulty" : "easy",
+  "grade": 7,
+  "description": "In this test, you will find English grammar questions in multiple choice format for grade 7 learners",
+  "difficulty": "easy",
+  "cost": "0",
+  "totalQuestions": 20,
+  "estimatedTime": "30 minutes",
   "questions": [
     {
       "question": "Choose the correct verb: She ____ very fast.",
-      "options": [
-        "run",
-        "ran",
-        "runs",
-        "running"
-      ],
+      "options": ["run", "ran", "runs", "running"],
       "answer": 2,
       "explanation": "'She' needs the singular verb 'runs' in the present tense."
     },
     {
       "question": "Which word is a noun?",
-      "options": [
-        "quick",
-        "run",
-        "happiness",
-        "slowly"
-      ],
+      "options": ["quick", "run", "happiness", "slowly"],
       "answer": 2,
       "explanation": "'Happiness' is a thing (idea), so it's a noun."
     },
     {
       "question": "What is the antonym of 'polite'?",
-      "options": [
-        "rude",
-        "kind",
-        "soft",
-        "shy"
-      ],
+      "options": ["rude", "kind", "soft", "shy"],
       "answer": 0,
       "explanation": "'Rude' is the opposite of 'polite'."
     },
     {
       "question": "Which word is an adverb?",
-      "options": [
-        "loud",
-        "quickly",
-        "happy",
-        "teacher"
-      ],
+      "options": ["loud", "quickly", "happy", "teacher"],
       "answer": 1,
       "explanation": "Adverbs describe verbs and often end in '-ly'."
     },
     {
       "question": "Identify the preposition: The cat is under the table.",
-      "options": [
-        "cat",
-        "under",
-        "is",
-        "table"
-      ],
+      "options": ["cat", "under", "is", "table"],
       "answer": 1,
       "explanation": "'Under' shows position, so it\u2019s a preposition."
     },
@@ -74,45 +52,25 @@
     },
     {
       "question": "Choose the correct pronoun: ____ is my best friend.",
-      "options": [
-        "Her",
-        "She",
-        "Them",
-        "They"
-      ],
+      "options": ["Her", "She", "Them", "They"],
       "answer": 1,
       "explanation": "'She' is the subject pronoun needed here."
     },
     {
       "question": "Which word is misspelled?",
-      "options": [
-        "becuase",
-        "friend",
-        "school",
-        "family"
-      ],
+      "options": ["becuase", "friend", "school", "family"],
       "answer": 0,
       "explanation": "Correct spelling is 'because'."
     },
     {
       "question": "What is a synonym for 'intelligent'?",
-      "options": [
-        "smart",
-        "lazy",
-        "silly",
-        "boring"
-      ],
+      "options": ["smart", "lazy", "silly", "boring"],
       "answer": 0,
       "explanation": "A synonym is a word with the same meaning."
     },
     {
       "question": "Complete the sentence: They ____ playing football.",
-      "options": [
-        "was",
-        "is",
-        "are",
-        "be"
-      ],
+      "options": ["was", "is", "are", "be"],
       "answer": 2,
       "explanation": "'They' takes the verb 'are'."
     },
@@ -129,45 +87,25 @@
     },
     {
       "question": "Identify the conjunction: I like tea and coffee.",
-      "options": [
-        "like",
-        "tea",
-        "and",
-        "coffee"
-      ],
+      "options": ["like", "tea", "and", "coffee"],
       "answer": 2,
       "explanation": "A conjunction joins two words or phrases."
     },
     {
       "question": "Choose the correct article: I saw ____ elephant.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "some"
-      ],
+      "options": ["a", "an", "the", "some"],
       "answer": 1,
       "explanation": "Use 'an' before vowel sounds like 'elephant'."
     },
     {
       "question": "What is the plural of 'child'?",
-      "options": [
-        "childs",
-        "childes",
-        "children",
-        "childrens"
-      ],
+      "options": ["childs", "childes", "children", "childrens"],
       "answer": 2,
       "explanation": "It's an irregular plural."
     },
     {
       "question": "Which word is an interjection?",
-      "options": [
-        "Wow!",
-        "Run",
-        "Walk",
-        "Never"
-      ],
+      "options": ["Wow!", "Run", "Walk", "Never"],
       "answer": 0,
       "explanation": "'Wow!' expresses emotion, making it an interjection."
     },
@@ -184,23 +122,13 @@
     },
     {
       "question": "Find the correct contraction: He is not here.",
-      "options": [
-        "Heisn't",
-        "He not's",
-        "He isn't",
-        "He'sn't"
-      ],
+      "options": ["Heisn't", "He not's", "He isn't", "He'sn't"],
       "answer": 2,
       "explanation": "The correct contraction of 'He is not' is 'He isn't'."
     },
     {
       "question": "Which is a compound word?",
-      "options": [
-        "sun",
-        "shine",
-        "sunshine",
-        "light"
-      ],
+      "options": ["sun", "shine", "sunshine", "light"],
       "answer": 2,
       "explanation": "'Sunshine' is made from two words: sun + shine."
     },

@@ -2,23 +2,38 @@
     {
         "id": "eng-g7-001",
         "title": "Basic Grammar",
+        "subject": "English",
+        "grade" : 7,
+        "description": "In this test, you will find English grammar questions in multiple choice format for grade 7 learners",
         "difficulty": "easy",
-        "cost": "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7001.json"
+        "cost": "0",
+        "totalQuestions": 20,
+        "estimatedTime": "30 minutes",
+        "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7001.json"
     },
     {
         "id": "eng-g7-002",
         "title": "Comprehension",
+         "subject": "English",
+        "grade" : 7,
+        "description": "In this test, you will find English comprehension questions in multiple choice format for grade 7 learners",
         "difficulty": "easy",
-        "cost": "premium",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7002.json"
+        "cost": "0",
+        "totalQuestions": 20,
+        "estimatedTime": "30 minutes",
+        "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7002.json"
     },
     {
         "id": "eng-g7-003",
         "title": "Writing",
+        "subject": "English",
+        "grade" : 7,
+        "description": "In this test, you will find English writing questions in multiple choice format for grade 7 learners",
         "difficulty": "easy",
-        "cost" : "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/English/files/engG7003.json"
+        "cost": "0",
+        "totalQuestions": 20,
+        "estimatedTime": "30 minutes",
+        "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7003.json"
     }
 
 ]

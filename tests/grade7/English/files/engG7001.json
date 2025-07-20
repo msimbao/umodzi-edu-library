@@ -7,7 +7,7 @@
   "difficulty": "easy",
   "cost": "0",
   "totalQuestions": 20,
-  "estimatedTime": "30 minutes",
+  "estimatedTime": 30,
   "questions": [
     {
       "question": "Choose the correct verb: She ____ very fast.",

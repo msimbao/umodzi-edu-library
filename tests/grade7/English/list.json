@@ -6,9 +6,9 @@
         "grade" : 7,
         "description": "In this test, you will find English grammar questions in multiple choice format for grade 7 learners",
         "difficulty": "easy",
-        "cost": "0",
+        "cost": 0,
         "totalQuestions": 20,
-        "estimatedTime": "30 minutes",
+        "estimatedTime": 30,
         "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7001.json"
     },
     {
@@ -18,9 +18,9 @@
         "grade" : 7,
         "description": "In this test, you will find English comprehension questions in multiple choice format for grade 7 learners",
         "difficulty": "easy",
-        "cost": "0",
+        "cost": 0,
         "totalQuestions": 20,
-        "estimatedTime": "30 minutes",
+        "estimatedTime": 30,
         "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7002.json"
     },
     {
@@ -30,9 +30,9 @@
         "grade" : 7,
         "description": "In this test, you will find English writing questions in multiple choice format for grade 7 learners",
         "difficulty": "easy",
-        "cost": "0",
+        "cost": 0,
         "totalQuestions": 20,
-        "estimatedTime": "30 minutes",
+        "estimatedTime": 30,
         "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7003.json"
     }
 

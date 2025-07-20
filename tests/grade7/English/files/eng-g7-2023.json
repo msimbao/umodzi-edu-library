@@ -19,126 +19,126 @@
     },
     {
       "question": "Zacheaus climbed a tree to see Jesus ___ he was short.",
-      "options": ["A and", "B because", "C but", "D yet"],
+      "options": ["and", "because", "but", "yet"],
       "answer": 1,
       "explanation": "The correct answer is 'because' as it explains the reason for Zacheaus climbing the tree."
     },
     {
       "question": "The children are now old enough to look after ___",
-      "options": ["A himself.", "B itself.", "C ourselves.", "D themselves."],
+      "options": ["himself.", "itself.", "ourselves.", "themselves."],
       "answer": 3,
       "explanation": "The correct answer is 'themselves' as it refers to the children looking after themselves."
     },
     {
       "question": "The new learner ___ came yesterday is in Grade 6.",
-      "options": ["A which", "B who", "C whom", "D whose"],
+      "options": ["which", "who", "whom", "whose"],
       "answer": 1,
       "explanation": "The correct answer is 'who' as it refers to the new learner."
     },
     {
       "question": "Sibeso is not only pretty ___ kind and friendly too.",
-      "options": ["A yet", "B so", "C but", "D and"],
+      "options": ["yet", "so", "but", "and"],
       "answer": 2,
       "explanation": "The correct answer is 'but' as it completes the correlative conjunction 'not only___but also'."
     },
     {
       "question": "I will be helping my parents ___ household chores during the holiday.",
-      "options": ["A at", "B of", "C to", "D with"],
+      "options": ["at", "of", "to", "with"],
       "answer": 3,
       "explanation": "The correct answer is 'with' as it indicates assistance in doing something."
     },
     {
       "question": "Mrs Kasusu has formed a kitchen party ___ for her daughter who will be getting married in the next three months.",
-      "options": ["A board", "B committee", "C crowd", "D mob"],
+      "options": ["board", "committee", "crowd", "mob"],
       "answer": 1,
       "explanation": "The correct answer is 'committee' as it refers to a group organized for a specific purpose."
     },
     {
       "question": "Moono is never late for classes. He is ___ on time.",
-      "options": ["A always", "B rarely", "C sometimes", "D usually"],
+      "options": ["always", "rarely", "sometimes", "usually"],
       "answer": 0,
       "explanation": "The correct answer is 'always' as it indicates consistency in being on time."
     },
     {
       "question": "I am sure that ___ have a lot of fresh vegetables in the garden.",
-      "options": ["A he", "B it", "C she", "D we"],
+      "options": ["he", "it", "she", "we"],
       "answer": 3,
       "explanation": "The correct answer is 'we' as it refers to the speaker and others."
     },
     {
       "question": "Amongst the three patients, Zuba has the ___ eyes.",
-      "options": ["A paler", "B palest", "C more paler", "D most palest"],
+      "options": ["paler", "palest", "more paler", "most palest"],
       "answer": 1,
       "explanation": "The correct answer is 'palest' as it is the superlative form of 'pale'."
     },
     {
       "question": "They are walking too fast and I cannot keep ___ with them.",
-      "options": ["A up", "B on", "C in", "D by"],
+      "options": ["up", "on", "in", "by"],
       "answer": 0,
       "explanation": "The correct answer is 'up' as it completes the phrasal verb 'keep up'."
     },
     {
       "question": "Kateya and Kofya ___ cattle last year.",
       "options": [
-        "A are herding",
-        "B is herding",
-        "C was herding",
-        "D were herding"
+        "are herding",
+        "is herding",
+        "was herding",
+        "were herding"
       ],
       "answer": 3,
       "explanation": "The correct answer is 'were herding' as it matches the plural subject and past tense."
     },
     {
       "question": "Kawang’u was ___ than the other boys in class.",
-      "options": ["A more smarter", "B most smart", "C smarter", "D smartest"],
+      "options": ["more smarter", "most smart", "smarter", "smartest"],
       "answer": 2,
       "explanation": "The correct answer is 'smarter' as it is the comparative form of 'smart'."
     },
     {
       "question": "One of the table manners is not to ___ with food in the mouth.",
-      "options": ["A talks", "B talking", "C talked", "D talk"],
+      "options": ["talks", "talking", "talked", "talk"],
       "answer": 3,
       "explanation": "The correct answer is 'talk' as it follows the infinitive form 'to talk'."
     },
     {
       "question": "The choir sang ___ at the concert.",
-      "options": ["A smooth", "B smoother", "C smoothiest", "D smoothly"],
+      "options": ["smooth", "smoother", "smoothiest", "smoothly"],
       "answer": 3,
       "explanation": "The correct answer is 'smoothly' as it is the adverb describing how the choir sang."
     },
     {
       "question": "By the time the wildlife officers got to the river, the boy who almost ___ had been rescued.",
-      "options": ["A drown", "B drowned", "C drowning", "D drowns"],
+      "options": ["drown", "drowned", "drowning", "drowns"],
       "answer": 1,
       "explanation": "The correct answer is 'drowned' as it is the past participle form of 'drown'."
     },
     {
       "question": "___ you like it or not, I will go to visit my friends.",
-      "options": ["A If", "B Unless", "C Until", "D Whether"],
+      "options": ["If", "Unless", "Until", "Whether"],
       "answer": 3,
       "explanation": "The correct answer is 'Whether' as it introduces a choice between alternatives."
     },
     {
       "question": "I sat ___ the head boy during assembly.",
-      "options": ["A among", "B beside", "C besides", "D between"],
+      "options": ["among", "beside", "besides", "between"],
       "answer": 1,
       "explanation": "The correct answer is 'beside' as it indicates sitting next to someone."
     },
     {
       "question": "Mr Mwale was attacked by a ___ of thieves.",
-      "options": ["A bunch", "B crowd", "C gang", "D team"],
+      "options": ["bunch", "crowd", "gang", "team"],
       "answer": 2,
       "explanation": "The correct answer is 'gang' as it refers to a group of criminals."
     },
     {
       "question": "We should work together like ___ of ants.",
-      "options": ["A an army", "B a flock", "C a pride", "D a swarm"],
+      "options": ["an army", "a flock", "a pride", "a swarm"],
       "answer": 3,
       "explanation": "The correct answer is 'a swarm' as it refers to a group of ants."
     },
     {
       "question": "It was a ___ game. Kamwala Secondary School beat Sioma Secondary School by two goals to nil.",
-      "options": ["A one side", "B one sided", "C one sider", "D one sides"],
+      "options": ["one side", "one sided", "one sider", "one sides"],
       "answer": 1,
       "explanation": "The correct answer is 'one sided' as it describes a game dominated by one team."
     },
@@ -151,36 +151,36 @@
     },
     {
       "question": "“That snake is very ___!” exclaimed Peter.",
-      "options": ["A dangerous", "B dangerous", "C dangerous", "D dangerous"],
+      "options": ["dangerous", "dangerous", "dangerous", "dangerous"],
       "answer": 0,
       "explanation": "The correct answer is 'dangerous' as it is the correctly spelled word."
     },
     {
       "question": "That pregnant women should not eat eggs is a ___",
       "options": [
-        "A misconception",
-        "B misconception",
-        "C misconception",
-        "D misconception"
+        "misconception",
+        "misconception",
+        "misconception",
+        "misconception"
       ],
       "answer": 0,
       "explanation": "The correct answer is 'misconception' as it is the correctly spelled word."
     },
     {
       "question": "Have you ever ___ why some people wake up late in the morning?",
-      "options": ["A wandered", "B wondered", "C wondered", "D wondered"],
+      "options": ["wandered", "wondered", "wondered", "wondered"],
       "answer": 1,
       "explanation": "The correct answer is 'wondered' as it is the correctly spelled word."
     },
     {
       "question": "The police officers were given ___ information on the expected robbery.",
-      "options": ["A adequate", "B adequate", "C adequate", "D adequate"],
+      "options": ["adequate", "adequate", "adequate", "adequate"],
       "answer": 0,
       "explanation": "The correct answer is 'adequate' as it is the correctly spelled word."
     },
     {
       "question": "My parents often advise me not to ___ with my friends.",
-      "options": ["A quarrel", "B quarrell", "C quarrel", "D quarrell"],
+      "options": ["quarrel", "quarrell", "quarrel", "quarrell"],
       "answer": 0,
       "explanation": "The correct answer is 'quarrel' as it is the correctly spelled word."
     },
@@ -194,10 +194,10 @@
     {
       "question": "Which sentence is correctly punctuated?",
       "options": [
-        "A The Bible was translated into Chitonga Cinyanja Luvale and Icibemba.",
-        "B The Bible was translated into Chitonga, Cinyanja, Luvale and Icibemba.",
-        "C The Bible was translated into, Chitonga Cinyanja Luvale and Icibemba.",
-        "D The Bible, was translated, into Chitonga Cinyanja Luvale and, Icibemba."
+        "The Bible was translated into Chitonga Cinyanja Luvale and Icibemba.",
+        "The Bible was translated into Chitonga, Cinyanja, Luvale and Icibemba.",
+        "The Bible was translated into, Chitonga Cinyanja Luvale and Icibemba.",
+        "The Bible, was translated, into Chitonga Cinyanja Luvale and, Icibemba."
       ],
       "answer": 1,
       "explanation": "The correct answer is B as it uses commas correctly to separate items in a list."
@@ -205,10 +205,10 @@
     {
       "question": "Which sentence is correctly punctuated?",
       "options": [
-        "A The First Lady's Independence Day attire was nice.",
-        "B The First Ladys Independence Day attire was nice.",
-        "C The First Lady's, Independence Day attire was nice.",
-        "D The First Ladys' Independence Day attire was nice."
+        "The First Lady's Independence Day attire was nice.",
+        "The First Ladys Independence Day attire was nice.",
+        "The First Lady's, Independence Day attire was nice.",
+        "The First Ladys' Independence Day attire was nice."
       ],
       "answer": 0,
       "explanation": "The correct answer is A as it correctly uses the possessive form 'Lady's'."
@@ -216,10 +216,10 @@
     {
       "question": "Which sentence is correctly punctuated?",
       "options": [
-        "A take this map in case you lose your way.",
-        "B Take this map in case you lose your way?",
-        "C Take this map in case you lose your way.",
-        "D take this map in case you lose your way!"
+        "take this map in case you lose your way.",
+        "Take this map in case you lose your way?",
+        "Take this map in case you lose your way.",
+        "take this map in case you lose your way!"
       ],
       "answer": 2,
       "explanation": "The correct answer is C as it starts with a capital letter and ends with a period."
@@ -227,10 +227,10 @@
     {
       "question": "Which sentence is correctly punctuated?",
       "options": [
-        "A Your mother is very dear to you, isn't she?",
-        "B Your mother is very dear, to you isn't she?",
-        "C Your mother is very dear to you! isn't she?",
-        "D Your mother is very dear to you. isn't she?"
+        "Your mother is very dear to you, isn't she?",
+        "Your mother is very dear, to you isn't she?",
+        "Your mother is very dear to you! isn't she?",
+        "Your mother is very dear to you. isn't she?"
       ],
       "answer": 0,
       "explanation": "The correct answer is A as it correctly uses a comma and question mark."
@@ -238,10 +238,10 @@
     {
       "question": "Which sentence is correctly punctuated?",
       "options": [
-        "A \"Aha! There comes our teacher!\" said Patra.",
-        "B Aha! There comes our teacher. \"said Patra.",
-        "C Aha! \"There comes our teacher.\" said Patra.",
-        "D \"Aha! There comes our teacher,\" said Patra."
+        "\"Aha! There comes our teacher!\" said Patra.",
+        "Aha! There comes our teacher. \"said Patra.",
+        "Aha! \"There comes our teacher.\" said Patra.",
+        "\"Aha! There comes our teacher,\" said Patra."
       ],
       "answer": 3,
       "explanation": "The correct answer is D as it correctly places the comma and quotation marks."
@@ -256,10 +256,10 @@
     {
       "question": "Mary managed to attend the interview despite being late. The sentence means that Mary ___ interview.",
       "options": [
-        "A attended the",
-        "B did not attend the",
-        "C missed the",
-        "D was not late for the"
+        "attended the",
+        "did not attend the",
+        "missed the",
+        "was not late for the"
       ],
       "answer": 0,
       "explanation": "The correct answer is 'attended the' as 'despite being late' indicates she still attended."
@@ -267,27 +267,27 @@
     {
       "question": "Commercial farming is growing crops and raising livestock mainly for sale. The word livestock means animals that are ___",
       "options": [
-        "A kept on a farm.",
-        "B producers of milk.",
-        "C ready for sale.",
-        "D resistant to diseases."
+        "kept on a farm.",
+        "producers of milk.",
+        "ready for sale.",
+        "resistant to diseases."
       ],
       "answer": 0,
       "explanation": "The correct answer is 'kept on a farm' as livestock refers to farm animals."
     },
     {
       "question": "The soldiers demolished some illegal structures built near the railway line. To demolish is to ___",
-      "options": ["A modernise.", "B improve.", "C destroy.", "D build."],
+      "options": ["modernise.", "improve.", "destroy.", "build."],
       "answer": 2,
       "explanation": "The correct answer is 'destroy' as 'demolish' means to tear down or destroy."
     },
     {
       "question": "John was not certain whether Susan was telling the truth. This sentence means ___",
       "options": [
-        "A John doubted if Susan was telling the truth.",
-        "B John was sure that Susan was telling the truth.",
-        "C Susan was lying.",
-        "D Susan was telling the truth."
+        "John doubted if Susan was telling the truth.",
+        "John was sure that Susan was telling the truth.",
+        "Susan was lying.",
+        "Susan was telling the truth."
       ],
       "answer": 0,
       "explanation": "The correct answer is 'John doubted if Susan was telling the truth' as 'not certain' implies doubt."
@@ -295,10 +295,10 @@
     {
       "question": "If it had not been for our goalkeeper’s carelessness, we would have won the match. This sentence means ___",
       "options": [
-        "A the goalkeeper helped us.",
-        "B the goalkeeper left the match.",
-        "C we lost the match.",
-        "D we won the match."
+        "the goalkeeper helped us.",
+        "the goalkeeper left the match.",
+        "we lost the match.",
+        "we won the match."
       ],
       "answer": 2,
       "explanation": "The correct answer is 'we lost the match' as the sentence implies the goalkeeper's mistake caused the loss."
@@ -306,27 +306,27 @@
     {
       "question": "Scientists and engineers invent machines to make our work easier. To invent is to ___",
       "options": [
-        "A change parts of the machines.",
-        "B design something new.",
-        "C improve on something.",
-        "D repair old machines."
+        "change parts of the machines.",
+        "design something new.",
+        "improve on something.",
+        "repair old machines."
       ],
       "answer": 1,
       "explanation": "The correct answer is 'design something new' as 'invent' means to create something original."
     },
     {
       "question": "The criminals were spotted at the river. The word spotted means ___",
-      "options": ["A arrested.", "B attacked.", "C seen.", "D shot."],
+      "options": ["arrested.", "attacked.", "seen.", "shot."],
       "answer": 2,
       "explanation": "The correct answer is 'seen' as 'spotted' means to notice or see something."
     },
     {
       "question": "“I would rather starve than steal,” said Chiyembekezo. The sentence means Chiyembekezo would prefer ___",
       "options": [
-        "A both starving and stealing.",
-        "B neither starving nor stealing.",
-        "C starving to stealing.",
-        "D stealing to starving."
+        "both starving and stealing.",
+        "neither starving nor stealing.",
+        "starving to stealing.",
+        "stealing to starving."
       ],
       "answer": 2,
       "explanation": "The correct answer is 'starving to stealing' as 'would rather___than' expresses a preference for one over the other."
@@ -341,10 +341,10 @@
     {
       "question": "Which paragraph has the sentences in the best order?",
       "options": [
-        "A Immediately, she ran out of the house to buy some biscuits. Yesterday, mother told Chikumbi to clean the house. Unfortunately, she lost the money on her way to the shop. While she was cleaning, she found a one kwacha coin under the table. This made her unhappy.",
-        "B While she was cleaning, she found a one kwacha coin under the table. Unfortunately, she lost the money on her way to the shop. This made her unhappy. Immediately, she ran out of the house to buy some biscuits. Yesterday, mother told Chikumbi to clean the house.",
-        "C Yesterday, mother told Chikumbi to clean the house. Unfortunately, she lost the money on her way to the shop. This made her unhappy. Immediately, she ran out of the house to buy some biscuits. While she was cleaning, she found a one kwacha coin under the table.",
-        "D Yesterday, mother told Chikumbi to clean the house. While she was cleaning, she found a one kwacha coin under the table. Immediately, she ran out of the house to buy some biscuits. Unfortunately, she lost the money on her way to the shop. This made her unhappy."
+        "Immediately, she ran out of the house to buy some biscuits. Yesterday, mother told Chikumbi to clean the house. Unfortunately, she lost the money on her way to the shop. While she was cleaning, she found a one kwacha coin under the table. This made her unhappy.",
+        "While she was cleaning, she found a one kwacha coin under the table. Unfortunately, she lost the money on her way to the shop. This made her unhappy. Immediately, she ran out of the house to buy some biscuits. Yesterday, mother told Chikumbi to clean the house.",
+        "Yesterday, mother told Chikumbi to clean the house. Unfortunately, she lost the money on her way to the shop. This made her unhappy. Immediately, she ran out of the house to buy some biscuits. While she was cleaning, she found a one kwacha coin under the table.",
+        "Yesterday, mother told Chikumbi to clean the house. While she was cleaning, she found a one kwacha coin under the table. Immediately, she ran out of the house to buy some biscuits. Unfortunately, she lost the money on her way to the shop. This made her unhappy."
       ],
       "answer": 3,
       "explanation": "The correct answer is D as it presents the events in chronological order."
@@ -352,10 +352,10 @@
     {
       "question": "Which paragraph has the sentences in the best order?",
       "options": [
-        "A Of the six, four are females while two are males. Taizya is the last born in a family of six. As for the females, only one is married while the other one is still at school. All the males are married and are in employment.",
-        "B Taizya is the last born in a family of six. All the males are married and are in employment. Of the six, four are females while two are males. As for the females, only one is married while the other one is still at school.",
-        "C Taizya is the last born in a family of six. All the males are married and are in employment. As for the females, only one is married while the other one is still at school. Of the six, four are females while two are males.",
-        "D Taizya is the last born in a family of six. Of the six, four are females while two are males. All the males are married and are in employment. As for the females, only one is married while the other one is still at school."
+        "Of the six, four are females while two are males. Taizya is the last born in a family of six. As for the females, only one is married while the other one is still at school. All the males are married and are in employment.",
+        "Taizya is the last born in a family of six. All the males are married and are in employment. Of the six, four are females while two are males. As for the females, only one is married while the other one is still at school.",
+        "Taizya is the last born in a family of six. All the males are married and are in employment. As for the females, only one is married while the other one is still at school. Of the six, four are females while two are males.",
+        "Taizya is the last born in a family of six. Of the six, four are females while two are males. All the males are married and are in employment. As for the females, only one is married while the other one is still at school."
       ],
       "answer": 3,
       "explanation": "The correct answer is D as it logically introduces Taizya, describes the family composition, and then provides details about the males and females."
@@ -363,10 +363,10 @@
     {
       "question": "Which paragraph has the sentences in the best order?",
       "options": [
-        "A One day, Shuko was very hungry. He went to the kitchen, cooked rice and ate. He sat outside waiting for his mother to come and cook for him. He then realised he could cook rice.",
-        "B One day, Shuko was very hungry. He sat outside waiting for his mother to come and cook for him. He went to the kitchen, cooked rice and ate. He then realised he could cook rice.",
-        "C One day, Shuko was very hungry. He sat outside waiting for his mother to come and cook for him. He then realised he could cook rice. He went to the kitchen, cooked rice and ate.",
-        "D He sat outside waiting for his mother to come and cook for him. One day, Shuko was very hungry. He went to the kitchen, cooked rice and ate. He then realised he could cook rice."
+        "One day, Shuko was very hungry. He went to the kitchen, cooked rice and ate. He sat outside waiting for his mother to come and cook for him. He then realised he could cook rice.",
+        "One day, Shuko was very hungry. He sat outside waiting for his mother to come and cook for him. He went to the kitchen, cooked rice and ate. He then realised he could cook rice.",
+        "One day, Shuko was very hungry. He sat outside waiting for his mother to come and cook for him. He then realised he could cook rice. He went to the kitchen, cooked rice and ate.",
+        "He sat outside waiting for his mother to come and cook for him. One day, Shuko was very hungry. He went to the kitchen, cooked rice and ate. He then realised he could cook rice."
       ],
       "answer": 2,
       "explanation": "The correct answer is C as it follows the logical sequence of Shuko's actions and realization."
@@ -374,10 +374,10 @@
     {
       "question": "Which paragraph has the sentences in the best order?",
       "options": [
-        "A At times, they are forced to sell their property such as land cheaply to rich people. Poor people are easily exploited. This denies them the right to own property. They are usually made to do jobs which endanger their health.",
-        "B At times, they are forced to sell their property such as land cheaply to rich people. They are usually made to do jobs which endanger their health. This denies them the right to own property. Poor people are easily exploited.",
-        "C Poor people are easily exploited. They are usually made to do jobs which endanger their health. At times, they are forced to sell their property such as land cheaply to rich people. This denies them the right to own property.",
-        "D Poor people are easily exploited. This denies them the right to own property. At times, they are forced to sell their property such as land cheaply to rich people. They are usually made to do jobs which endanger their health."
+        "At times, they are forced to sell their property such as land cheaply to rich people. Poor people are easily exploited. This denies them the right to own property. They are usually made to do jobs which endanger their health.",
+        "At times, they are forced to sell their property such as land cheaply to rich people. They are usually made to do jobs which endanger their health. This denies them the right to own property. Poor people are easily exploited.",
+        "Poor people are easily exploited. They are usually made to do jobs which endanger their health. At times, they are forced to sell their property such as land cheaply to rich people. This denies them the right to own property.",
+        "Poor people are easily exploited. This denies them the right to own property. At times, they are forced to sell their property such as land cheaply to rich people. They are usually made to do jobs which endanger their health."
       ],
       "answer": 2,
       "explanation": "The correct answer is C as it starts with the general statement about exploitation, then provides specific examples, and concludes with the consequence."
@@ -385,10 +385,10 @@
     {
       "question": "Which paragraph has the sentences in the best order?",
       "options": [
-        "A Agriculture is one of the oldest occupations on earth. It is also a source of income for the majority of people. It is concerned with growing of crops and rearing of livestock. It provides food and raw materials for many industries.",
-        "B Agriculture is one of the oldest occupations on earth. It is concerned with growing of crops and rearing of livestock. It provides food and raw materials for many industries. It is also a source of income for the majority of people.",
-        "C It is concerned with growing of crops and rearing of livestock. It provides food and raw materials for many industries. It is also a source of income for the majority of people. Agriculture is one of the oldest occupations on earth.",
-        "D It provides food and raw materials for many industries. Agriculture is one of the oldest occupations on earth. It is also a source of income for the majority of people. It is concerned with growing of crops and rearing of livestock."
+        "Agriculture is one of the oldest occupations on earth. It is also a source of income for the majority of people. It is concerned with growing of crops and rearing of livestock. It provides food and raw materials for many industries.",
+        "Agriculture is one of the oldest occupations on earth. It is concerned with growing of crops and rearing of livestock. It provides food and raw materials for many industries. It is also a source of income for the majority of people.",
+        "It is concerned with growing of crops and rearing of livestock. It provides food and raw materials for many industries. It is also a source of income for the majority of people. Agriculture is one of the oldest occupations on earth.",
+        "It provides food and raw materials for many industries. Agriculture is one of the oldest occupations on earth. It is also a source of income for the majority of people. It is concerned with growing of crops and rearing of livestock."
       ],
       "answer": 1,
       "explanation": "The correct answer is B as it logically introduces agriculture, describes its activities, and then lists its benefits."
@@ -396,10 +396,10 @@
     {
       "question": "Which paragraph has the sentences in the best order?",
       "options": [
-        "A As the canoe moved quickly over the water, we could hear the warriors singing their war-song. The paddlers put their paddles in the water and the great war canoe began to move towards us. Between the paddlers sat the warriors, each one holding a spear. We could see the points of spears shining as they were shaken by the approaching war boys.",
-        "B Between the paddlers sat the warriors, each one holding a spear. The paddlers put their paddles in the water and the great war canoe began to move towards us. As the canoe moved quickly over the water, we could hear the warriors singing their war-song. We could see the points of spears shining as they were shaken by the approaching war boys.",
-        "C The paddlers put their paddles in the water and the great war canoe began to move towards us. Between the paddlers sat the warriors, each one holding a spear. As the canoe moved quickly over the water, we could hear the warriors singing their war-song. We could see the points of spears shining as they were shaken by the approaching war boys.",
-        "D The paddlers put their paddles in the water and the great war canoe began to move towards us. We could see the points of spears shining as they were shaken by the approaching war boys. Between the paddlers sat the warriors, each holding a spear. As the canoe moved quickly over the water, we could hear the warriors singing their war-song."
+        "As the canoe moved quickly over the water, we could hear the warriors singing their war-song. The paddlers put their paddles in the water and the great war canoe began to move towards us. Between the paddlers sat the warriors, each one holding a spear. We could see the points of spears shining as they were shaken by the approaching war boys.",
+        "Between the paddlers sat the warriors, each one holding a spear. The paddlers put their paddles in the water and the great war canoe began to move towards us. As the canoe moved quickly over the water, we could hear the warriors singing their war-song. We could see the points of spears shining as they were shaken by the approaching war boys.",
+        "The paddlers put their paddles in the water and the great war canoe began to move towards us. Between the paddlers sat the warriors, each one holding a spear. As the canoe moved quickly over the water, we could hear the warriors singing their war-song. We could see the points of spears shining as they were shaken by the approaching war boys.",
+        "The paddlers put their paddles in the water and the great war canoe began to move towards us. We could see the points of spears shining as they were shaken by the approaching war boys. Between the paddlers sat the warriors, each holding a spear. As the canoe moved quickly over the water, we could hear the warriors singing their war-song."
       ],
       "answer": 2,
       "explanation": "The correct answer is C as it follows the sequence of the canoe's movement, the warriors' actions, and the sensory observations."
@@ -407,10 +407,10 @@
     {
       "question": "Which paragraph has the sentences in the best order?",
       "options": [
-        "A Football is played all over the world. The organisation that runs it is the Federation Internationale de Football Association (FIFA) and it is based in Switzerland. The Football Association of Zambia (FAZ) has members in all ten provinces of Zambia. In Zambia, football is run by the Football Association of Zambia (FAZ).",
-        "B Football is played all over the world. The organisation that runs it is the Federation Internationale de Football Association (FIFA) and it is based in Switzerland. In Zambia, football is run by the Football Association of Zambia (FAZ). The Football Association of Zambia (FAZ) has members in all the ten provinces of Zambia.",
-        "C In Zambia, football is run by the Football Association of Zambia (FAZ). The Football Association of Zambia (FAZ) has members in all the ten provinces of Zambia. Football is played all over the world. The organisation that runs it is the Federation Internationale de Football Association (FIFA) and it is based in Switzerland.",
-        "D In Zambia, football is run by the Football Association of Zambia (FAZ). Football is played all over the world. The organisation that runs it is the Federation Internationale de Football Association (FIFA) and it is based in Switzerland. The Football Association of Zambia (FAZ) has members in all the ten provinces of Zambia."
+        "Football is played all over the world. The organisation that runs it is the Federation Internationale de Football Association (FIFA) and it is based in Switzerland. The Football Association of Zambia (FAZ) has members in all ten provinces of Zambia. In Zambia, football is run by the Football Association of Zambia (FAZ).",
+        "Football is played all over the world. The organisation that runs it is the Federation Internationale de Football Association (FIFA) and it is based in Switzerland. In Zambia, football is run by the Football Association of Zambia (FAZ). The Football Association of Zambia (FAZ) has members in all the ten provinces of Zambia.",
+        "In Zambia, football is run by the Football Association of Zambia (FAZ). The Football Association of Zambia (FAZ) has members in all the ten provinces of Zambia. Football is played all over the world. The organisation that runs it is the Federation Internationale de Football Association (FIFA) and it is based in Switzerland.",
+        "In Zambia, football is run by the Football Association of Zambia (FAZ). Football is played all over the world. The organisation that runs it is the Federation Internationale de Football Association (FIFA) and it is based in Switzerland. The Football Association of Zambia (FAZ) has members in all the ten provinces of Zambia."
       ],
       "answer": 1,
       "explanation": "The correct answer is B as it starts with the global context, introduces FIFA, and then narrows down to Zambia and FAZ's role."
@@ -432,10 +432,10 @@
     {
       "question": "According to the text, why was ancestor Kaulu angry with the villagers? They …",
       "options": [
-        "A bewitched the boy.",
-        "B did not give him some beer.",
-        "C did not understand what the calabash said.",
-        "D offered him some beer."
+        "bewitched the boy.",
+        "did not give him some beer.",
+        "did not understand what the calabash said.",
+        "offered him some beer."
       ],
       "answer": 1,
       "explanation": "The correct answer is 'did not give him some beer' as the text states that Kaulu was angry because they did not offer him beer."
@@ -443,10 +443,10 @@
     {
       "question": "Which of the following was not done by the witchdoctor in the process of helping the boy?",
       "options": [
-        "A Carrying him outside.",
-        "B Dancing around him.",
-        "C Giving him medicine.",
-        "D Spitting on his face."
+        "Carrying him outside.",
+        "Dancing around him.",
+        "Giving him medicine.",
+        "Spitting on his face."
       ],
       "answer": 2,
       "explanation": "The correct answer is 'Giving him medicine' as the text does not mention the witchdoctor giving medicine to the boy."
@@ -454,10 +454,10 @@
     {
       "question": "According to the text, it can be concluded that the boy was sick because ___",
       "options": [
-        "A he was bewitched.",
-        "B the ancestor was angry.",
-        "C the witchdoctor danced around him.",
-        "D they did not give him beer."
+        "he was bewitched.",
+        "the ancestor was angry.",
+        "the witchdoctor danced around him.",
+        "they did not give him beer."
       ],
       "answer": 1,
       "explanation": "The correct answer is 'the ancestor was angry' as the text attributes the boy's illness to Kaulu's anger over not receiving beer."
@@ -465,17 +465,17 @@
     {
       "question": "According to the text, the word quivering means ___",
       "options": [
-        "A dancing fast.",
-        "B dancing slowly.",
-        "C shaking slightly.",
-        "D shaking very fast."
+        "dancing fast.",
+        "dancing slowly.",
+        "shaking slightly.",
+        "shaking very fast."
       ],
       "answer": 2,
       "explanation": "The correct answer is 'shaking slightly' as 'quivering' describes a slight, rapid shaking motion."
     },
     {
       "question": "Traditionally, calabashes are often used as ___",
-      "options": ["A containers.", "B drums.", "C plates.", "D pots."],
+      "options": ["containers.", "drums.", "plates.", "pots."],
       "answer": 0,
       "explanation": "The correct answer is 'containers' as calabashes are commonly used to hold liquids or other items."
     },
@@ -488,31 +488,31 @@
     },
     {
       "question": "According to the passage, the word **hatchlings** means young animals that have recently emerged from the ___",
-      "options": ["A womb.", "B water.", "C leaves.", "D eggs."],
+      "options": ["womb.", "water.", "leaves.", "eggs."],
       "answer": 3,
       "explanation": "The correct answer is 'eggs' as 'hatchlings' refers to young animals that have hatched from eggs."
     },
     {
       "question": "The crocodile’s jaw has a high sense of ___",
-      "options": ["A touch.", "B taste.", "C smell.", "D sight."],
+      "options": ["touch.", "taste.", "smell.", "sight."],
       "answer": 0,
       "explanation": "The correct answer is 'touch' as the text describes the crocodile's jaw as being highly sensitive to touch."
     },
     {
       "question": "To which group of animals does the crocodile belong?",
-      "options": ["A Amphibians", "B Fish", "C Mammals", "D Reptiles"],
+      "options": ["Amphibians", "Fish", "Mammals", "Reptiles"],
       "answer": 3,
       "explanation": "The correct answer is 'Reptiles' as crocodiles are classified as large semiaquatic reptiles."
     },
     {
       "question": "The text is about the crocodile’s ___",
-      "options": ["A jaw.", "B mouth.", "C power.", "D teeth."],
+      "options": ["jaw.", "mouth.", "power.", "teeth."],
       "answer": 0,
       "explanation": "The correct answer is 'jaw' as the text focuses on the crocodile's jaw, its power, and sensitivity."
     },
     {
       "question": "The prefix **semi** in the word ‘semiaquatic’ means ___",
-      "options": ["A whole.", "B two.", "C one.", "D half."],
+      "options": ["whole.", "two.", "one.", "half."],
       "answer": 3,
       "explanation": "The correct answer is 'half' as the prefix 'semi-' means partial or half."
     },
@@ -533,40 +533,40 @@
     },
     {
       "question": "How many members are in this class?",
-      "options": ["A Eight", "B Nineteen", "C Twelve", "D Twenty"],
+      "options": ["Eight", "Nineteen", "Twelve", "Twenty"],
       "answer": 1,
       "explanation": "The correct answer is 'Nineteen' as the diagram lists 19 names."
     },
     {
       "question": "Which game is the most played by the members of this class?",
-      "options": ["A Basketball", "B Football", "C Netball", "D Volleyball"],
+      "options": ["Basketball", "Football", "Netball", "Volleyball"],
       "answer": 2,
       "explanation": "The correct answer is 'Netball' as the diagram shows the most names under Netball."
     },
     {
       "question": "Which members of this class play all the three games?",
       "options": [
-        "A Brenda and Bweupe",
-        "B Chola and Elizabeth",
-        "C Linda and Lengwe",
-        "D Natasha and Kelly"
+        "Brenda and Bweupe",
+        "Chola and Elizabeth",
+        "Linda and Lengwe",
+        "Natasha and Kelly"
       ],
       "answer": 3,
       "explanation": "The correct answer is 'Natasha and Kelly' as they are listed under all three games in the diagram."
     },
     {
       "question": "What is the difference between members who play netball only and those who play volleyball only?",
-      "options": ["A Two", "B One", "C Nine", "D Eleven"],
+      "options": ["Two", "One", "Nine", "Eleven"],
       "answer": 0,
       "explanation": "The correct answer is 'Two' as the diagram shows a difference of two members between the two groups."
     },
     {
       "question": "Which members play volleyball as well as netball for extra-curricular activities?",
       "options": [
-        "A Chola, Elizabeth, Linda, Lengwe, Natasha and Kelly.",
-        "B Esther, Busišive, Sarah, Natasha, Kelly, Linda and Lengwe.",
-        "C Linda, Lengwe, Natasha and Kelly.",
-        "D Natasha, Kelly, Lisa, Mapenzi, Chanda and Kapiji."
+        "Chola, Elizabeth, Linda, Lengwe, Natasha and Kelly.",
+        "Esther, Busišive, Sarah, Natasha, Kelly, Linda and Lengwe.",
+        "Linda, Lengwe, Natasha and Kelly.",
+        "Natasha, Kelly, Lisa, Mapenzi, Chanda and Kapiji."
       ],
       "answer": 2,
       "explanation": "The correct answer is 'Linda, Lengwe, Natasha and Kelly' as they are listed under both Volleyball and Netball in the diagram."

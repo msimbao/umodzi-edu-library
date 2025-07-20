@@ -1,39 +1,50 @@
 [
-    {
-        "id": "eng-g7-001",
-        "title": "Basic Grammar",
-        "subject": "English",
-        "grade" : 7,
-        "description": "In this test, you will find English grammar questions in multiple choice format for grade 7 learners",
-        "difficulty": "easy",
-        "cost": 0,
-        "totalQuestions": 20,
-        "estimatedTime": 30,
-        "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7001.json"
-    },
-    {
-        "id": "eng-g7-002",
-        "title": "Comprehension",
-         "subject": "English",
-        "grade" : 7,
-        "description": "In this test, you will find English comprehension questions in multiple choice format for grade 7 learners",
-        "difficulty": "easy",
-        "cost": 0,
-        "totalQuestions": 20,
-        "estimatedTime": 30,
-        "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7002.json"
-    },
-    {
-        "id": "eng-g7-003",
-        "title": "Writing",
-        "subject": "English",
-        "grade" : 7,
-        "description": "In this test, you will find English writing questions in multiple choice format for grade 7 learners",
-        "difficulty": "easy",
-        "cost": 0,
-        "totalQuestions": 20,
-        "estimatedTime": 30,
-        "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7003.json"
-    }
-
+  {
+    "id": "TDE1/G7/2023",
+    "title": "ECZ English – 2023",
+    "subject": "English Language",
+    "grade": 7,
+    "description": "This examination paper consists of two sections: Section A (Parts 1-4) and Section B (Parts 1-2), covering grammar, vocabulary, punctuation, comprehension, and paragraph organization.",
+    "difficulty": "medium",
+    "cost" : 0,
+    "total_questions": 60,
+    "estimated_time": 90,
+    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7001.json"
+  },
+  {
+    "id": "eng-g7-001",
+    "title": "Basic Grammar",
+    "subject": "English",
+    "grade": 7,
+    "description": "In this test, you will find English grammar questions in multiple choice format for grade 7 learners",
+    "difficulty": "easy",
+    "cost": 0,
+    "totalQuestions": 20,
+    "estimatedTime": 30,
+    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7001.json"
+  },
+  {
+    "id": "eng-g7-002",
+    "title": "Comprehension",
+    "subject": "English",
+    "grade": 7,
+    "description": "In this test, you will find English comprehension questions in multiple choice format for grade 7 learners",
+    "difficulty": "easy",
+    "cost": 0,
+    "totalQuestions": 20,
+    "estimatedTime": 30,
+    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7002.json"
+  },
+  {
+    "id": "eng-g7-003",
+    "title": "Writing",
+    "subject": "English",
+    "grade": 7,
+    "description": "In this test, you will find English writing questions in multiple choice format for grade 7 learners",
+    "difficulty": "easy",
+    "cost": 0,
+    "totalQuestions": 20,
+    "estimatedTime": 30,
+    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7003.json"
+  }
 ]

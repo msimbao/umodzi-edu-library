@@ -10,36 +10,43 @@
   "estimatedTime": 30,
   "questions": [
     {
+      "id: string": "eng-g7-001-1",
       "question": "Choose the correct verb: She ____ very fast.",
       "options": ["run", "ran", "runs", "running"],
       "answer": 2,
       "explanation": "'She' needs the singular verb 'runs' in the present tense."
     },
     {
+      "id: string": "eng-g7-001-2",
       "question": "Which word is a noun?",
       "options": ["quick", "run", "happiness", "slowly"],
       "answer": 2,
       "explanation": "'Happiness' is a thing (idea), so it's a noun."
     },
     {
+      "id: string": "eng-g7-001-3",
       "question": "What is the antonym of 'polite'?",
       "options": ["rude", "kind", "soft", "shy"],
       "answer": 0,
       "explanation": "'Rude' is the opposite of 'polite'."
     },
     {
+      "id: string": "eng-g7-001-4",
       "question": "Which word is an adverb?",
       "options": ["loud", "quickly", "happy", "teacher"],
       "answer": 1,
       "explanation": "Adverbs describe verbs and often end in '-ly'."
     },
     {
+      "id: string": "eng-g7-001-5",
+
       "question": "Identify the preposition: The cat is under the table.",
       "options": ["cat", "under", "is", "table"],
       "answer": 1,
       "explanation": "'Under' shows position, so it\u2019s a preposition."
     },
     {
+      "id: string": "eng-g7-001-6",
       "question": "Select the correct sentence.",
       "options": [
         "He go to school.",
@@ -51,30 +58,35 @@
       "explanation": "Correct subject-verb agreement: 'He goes...'"
     },
     {
+      "id: string": "eng-g7-001-7",
       "question": "Choose the correct pronoun: ____ is my best friend.",
       "options": ["Her", "She", "Them", "They"],
       "answer": 1,
       "explanation": "'She' is the subject pronoun needed here."
     },
     {
+      "id: string": "eng-g7-001-8",
       "question": "Which word is misspelled?",
       "options": ["becuase", "friend", "school", "family"],
       "answer": 0,
       "explanation": "Correct spelling is 'because'."
     },
     {
+      "id: string": "eng-g7-001-9",
       "question": "What is a synonym for 'intelligent'?",
       "options": ["smart", "lazy", "silly", "boring"],
       "answer": 0,
       "explanation": "A synonym is a word with the same meaning."
     },
     {
+      "id: string": "eng-g7-001-10",
       "question": "Complete the sentence: They ____ playing football.",
       "options": ["was", "is", "are", "be"],
       "answer": 2,
       "explanation": "'They' takes the verb 'are'."
     },
     {
+      "id: string": "eng-g7-001-11",
       "question": "Which sentence is in the future tense?",
       "options": [
         "She dances well.",
@@ -86,30 +98,40 @@
       "explanation": "Future tense uses 'will'."
     },
     {
+      "id: string": "eng-g7-001-12",
+
       "question": "Identify the conjunction: I like tea and coffee.",
       "options": ["like", "tea", "and", "coffee"],
       "answer": 2,
       "explanation": "A conjunction joins two words or phrases."
     },
     {
+      "id: string": "eng-g7-001-13",
+
       "question": "Choose the correct article: I saw ____ elephant.",
       "options": ["a", "an", "the", "some"],
       "answer": 1,
       "explanation": "Use 'an' before vowel sounds like 'elephant'."
     },
     {
+      "id: string": "eng-g7-001-14",
+
       "question": "What is the plural of 'child'?",
       "options": ["childs", "childes", "children", "childrens"],
       "answer": 2,
       "explanation": "It's an irregular plural."
     },
     {
+      "id: string": "eng-g7-001-15",
+
       "question": "Which word is an interjection?",
       "options": ["Wow!", "Run", "Walk", "Never"],
       "answer": 0,
       "explanation": "'Wow!' expresses emotion, making it an interjection."
     },
     {
+      "id: string": "eng-g7-001-16",
+
       "question": "Which is a complete sentence?",
       "options": [
         "Running through the field.",
@@ -121,18 +143,24 @@
       "explanation": "A complete sentence has a subject and a verb."
     },
     {
+      "id: string": "eng-g7-001-17",
+
       "question": "Find the correct contraction: He is not here.",
       "options": ["Heisn't", "He not's", "He isn't", "He'sn't"],
       "answer": 2,
       "explanation": "The correct contraction of 'He is not' is 'He isn't'."
     },
     {
+      "id: string": "eng-g7-001-18",
+
       "question": "Which is a compound word?",
       "options": ["sun", "shine", "sunshine", "light"],
       "answer": 2,
       "explanation": "'Sunshine' is made from two words: sun + shine."
     },
     {
+      "id: string": "eng-g7-001-19",
+
       "question": "Which is an example of a question?",
       "options": [
         "What time is it?",
@@ -144,6 +172,8 @@
       "explanation": "It asks something and ends with a question mark."
     },
     {
+      "id: string": "eng-g7-001-20",
+
       "question": "Choose the sentence with correct capitalization.",
       "options": [
         "i live in zambia.",

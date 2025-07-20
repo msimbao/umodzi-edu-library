@@ -2,9 +2,12 @@
   "id": "eng-g7-002",
   "title": "Comprehension & Usage",
   "subject": "English",
-  "grade": "7",
-  "cost" : "premium",
-  "difficulty" : "easy",
+  "grade": 7,
+  "description": "In this test, you will find English comprehension questions in multiple choice format for grade 7 learners",
+  "difficulty": "easy",
+  "cost": "0",
+  "totalQuestions": 20,
+  "estimatedTime": 30,
   "questions": [
     {
       "question": "What is the main idea of a story?",

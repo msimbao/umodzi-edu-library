@@ -2,9 +2,12 @@
   "id": "eng-g7-003",
   "title": "Writing & Sentence Structure",
   "subject": "English",
-  "grade": "7",
-  "cost" : "free",
-  "difficulty" : "easy",
+  "grade": 7,
+  "description": "In this test, you will find English writing questions in multiple choice format for grade 7 learners",
+  "difficulty": "easy",
+  "cost": "0",
+  "totalQuestions": 20,
+  "estimatedTime": 30,
    "questions": [
     {
       "question": "Which punctuation is used at the end of a command?",

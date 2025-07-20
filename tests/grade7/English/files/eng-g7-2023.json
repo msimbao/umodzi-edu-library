@@ -6,8 +6,8 @@
   "description": "This examination paper consists of two sections: Section A (Parts 1-4) and Section B (Parts 1-2), covering grammar, vocabulary, punctuation, comprehension, and paragraph organization",
   "difficulty": "medium",
   "cost" : 0,
-  "total_questions": 60,
-  "estimated_time": 90,
+  "totalQuestions": 60,
+  "estimatedTime": 90,
   "questions": [
      {
       "question": "SECTION A: \n  Part 1: 1 - 20 \n Each question contains a sentence from which a word or group of words is missing in the space show. Below each sentence are four words or groups of words. Only one of the words or group of words will make the sentence right. You have to choose it.",

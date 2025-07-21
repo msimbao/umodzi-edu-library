@@ -11,7 +11,7 @@
   "questions": [
     {
       "id": "introduction",
-      "questions": "This is a **Grade 7 English mock exam** designed to help you prepare for the ECZ final paper. It includes comprehension, grammar, sentence construction, and vocabulary sections. The paper has 15 questions. Read each question carefully and choose the best answer.",
+      "question": "This is a **Grade 7 English mock exam** designed to help you prepare for the ECZ final paper. It includes comprehension, grammar, sentence construction, and vocabulary sections. The paper has 15 questions. Read each question carefully and choose the best answer.",
       "options": [],
       "image": "",
       "answer": 0,
@@ -20,7 +20,7 @@
     },
     {
       "id": "comprehension_intro",
-      "questions": "**SECTION A: COMPREHENSION**\nRead the passage below and answer the questions that follow.",
+      "question": "**SECTION A: COMPREHENSION**\nRead the passage below and answer the questions that follow.",
       "options": [],
       "image": "",
       "answer": 0,
@@ -29,7 +29,7 @@
     },
     {
       "id": "passage1",
-      "questions": "It was a bright Monday morning when Linda woke up excited. It was her first day at a new school. She had spent the whole weekend preparing her uniform and packing her bag. As she walked to school with her mother, Linda could not stop smiling. She hoped to make new friends and enjoy her lessons. When they reached the school gate, she turned to her mother and said, **“Thank you for everything, Mum.”** Her mother gave her a big hug and whispered, **“Be brave and kind.”**",
+      "question": "It was a bright Monday morning when Linda woke up excited. It was her first day at a new school. She had spent the whole weekend preparing her uniform and packing her bag. As she walked to school with her mother, Linda could not stop smiling. She hoped to make new friends and enjoy her lessons. When they reached the school gate, she turned to her mother and said, **“Thank you for everything, Mum.”** Her mother gave her a big hug and whispered, **“Be brave and kind.”**",
       "options": [],
       "image": "",
       "answer": 0,
@@ -38,7 +38,7 @@
     },
     {
       "id": 1,
-      "questions": "Why was Linda excited on Monday morning?",
+      "question": "Why was Linda excited on Monday morning?",
       "options": [
         "She was visiting her grandmother.",
         "She was starting at a new school.",
@@ -52,7 +52,7 @@
     },
     {
       "id": 2,
-      "questions": "How did Linda prepare for school over the weekend?",
+      "question": "How did Linda prepare for school over the weekend?",
       "options": [
         "By watching TV and resting.",
         "By cooking meals.",
@@ -66,7 +66,7 @@
     },
     {
       "id": 3,
-      "questions": "What advice did Linda's mother give her?",
+      "question": "What advice did Linda's mother give her?",
       "options": [
         "Be smart and quick.",
         "Be brave and kind.",
@@ -80,7 +80,7 @@
     },
     {
       "id": "grammar_intro",
-      "questions": "**SECTION B: GRAMMAR**\nChoose the correct option to complete each sentence.",
+      "question": "**SECTION B: GRAMMAR**\nChoose the correct option to complete each sentence.",
       "options": [],
       "image": "",
       "answer": 0,
@@ -89,7 +89,7 @@
     },
     {
       "id": 4,
-      "questions": "She __ a story when the lights went out.",
+      "question": "She __ a story when the lights went out.",
       "options": ["reads", "read", "was reading", "is reading"],
       "image": "",
       "answer": 2,
@@ -98,7 +98,7 @@
     },
     {
       "id": 5,
-      "questions": "The boys __ football every Saturday.",
+      "question": "The boys __ football every Saturday.",
       "options": ["plays", "played", "play", "playing"],
       "image": "",
       "answer": 2,
@@ -107,7 +107,7 @@
     },
     {
       "id": 6,
-      "questions": "If I __ early, I will catch the bus.",
+      "question": "If I __ early, I will catch the bus.",
       "options": ["wake", "woke", "wakes", "woken"],
       "image": "",
       "answer": 0,
@@ -116,7 +116,7 @@
     },
     {
       "id": "vocab_intro",
-      "questions": "**SECTION C: VOCABULARY**\nChoose the word that best completes the sentence.",
+      "question": "**SECTION C: VOCABULARY**\nChoose the word that best completes the sentence.",
       "options": [],
       "image": "",
       "answer": 0,
@@ -125,7 +125,7 @@
     },
     {
       "id": 7,
-      "questions": "My father is a __ at the hospital.",
+      "question": "My father is a __ at the hospital.",
       "options": ["teacher", "pilot", "doctor", "driver"],
       "image": "",
       "answer": 2,
@@ -134,7 +134,7 @@
     },
     {
       "id": 8,
-      "questions": "The __ is shining brightly today.",
+      "question": "The __ is shining brightly today.",
       "options": ["moon", "sun", "star", "cloud"],
       "image": "",
       "answer": 1,
@@ -143,7 +143,7 @@
     },
     {
       "id": 9,
-      "questions": "A person who writes books is called an __.",
+      "question": "A person who writes books is called an __.",
       "options": ["actor", "author", "artist", "auditor"],
       "image": "",
       "answer": 1,
@@ -152,7 +152,7 @@
     },
     {
       "id": 10,
-      "questions": "We keep our money in a __.",
+      "question": "We keep our money in a __.",
       "options": ["library", "bank", "hospital", "school"],
       "image": "",
       "answer": 1,
@@ -161,7 +161,7 @@
     },
     {
       "id": "construction_intro",
-      "questions": "**SECTION D: SENTENCE CONSTRUCTION**\nChoose the sentence that is correctly punctuated or structured.",
+      "question": "**SECTION D: SENTENCE CONSTRUCTION**\nChoose the sentence that is correctly punctuated or structured.",
       "options": [],
       "image": "",
       "answer": 0,
@@ -170,7 +170,7 @@
     },
     {
       "id": 11,
-      "questions": "Which sentence is correctly punctuated?",
+      "question": "Which sentence is correctly punctuated?",
       "options": [
         "Where are you going",
         "where are you going?",
@@ -184,7 +184,7 @@
     },
     {
       "id": 12,
-      "questions": "Which of the following is a correct sentence?",
+      "question": "Which of the following is a correct sentence?",
       "options": [
         "She can sings very well.",
         "He can to swim.",
@@ -198,7 +198,7 @@
     },
     {
       "id": 13,
-      "questions": "Which sentence is written in the past tense?",
+      "question": "Which sentence is written in the past tense?",
       "options": [
         "I eat my lunch now.",
         "I will eat my lunch.",
@@ -212,7 +212,7 @@
     },
     {
       "id": 14,
-      "questions": "Which sentence is an exclamation?",
+      "question": "Which sentence is an exclamation?",
       "options": [
         "Where is my pen?",
         "What a beautiful dress!",
@@ -226,7 +226,7 @@
     },
     {
       "id": 15,
-      "questions": "Choose the sentence that uses a contraction.",
+      "question": "Choose the sentence that uses a contraction.",
       "options": [
         "He is not here.",
         "He isn't here.",

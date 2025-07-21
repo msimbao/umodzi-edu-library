@@ -12,7 +12,7 @@
   "questions": [
     {
       "id": "intro",
-      "questions": "This **Grade 7 Mathematics mock test** will assess your skills in numbers, operations, money, and shapes. It contains 15 questions. Take your time and choose the correct answer for each.",
+      "question": "This **Grade 7 Mathematics mock test** will assess your skills in numbers, operations, money, and shapes. It contains 15 questions. Take your time and choose the correct answer for each.",
       "options": [],
       "image": "",
       "answer": 0,
@@ -21,7 +21,7 @@
     },
     {
       "id": 1,
-      "questions": "What is the value of 345 + 678?",
+      "question": "What is the value of 345 + 678?",
       "options": ["923", "1023", "1013", "1003"],
       "image": "",
       "answer": 2,
@@ -30,7 +30,7 @@
     },
     {
       "id": 2,
-      "questions": "What is 950 − 428?",
+      "question": "What is 950 − 428?",
       "options": ["522", "512", "518", "528"],
       "image": "",
       "answer": 0,
@@ -39,7 +39,7 @@
     },
     {
       "id": 3,
-      "questions": "Multiply: 24 × 8",
+      "question": "Multiply: 24 × 8",
       "options": ["182", "192", "198", "186"],
       "image": "",
       "answer": 1,
@@ -48,7 +48,7 @@
     },
     {
       "id": 4,
-      "questions": "Divide: 144 ÷ 12",
+      "question": "Divide: 144 ÷ 12",
       "options": ["10", "12", "14", "16"],
       "image": "",
       "answer": 1,
@@ -57,7 +57,7 @@
     },
     {
       "id": 5,
-      "questions": "What is the place value of 5 in 3,542?",
+      "question": "What is the place value of 5 in 3,542?",
       "options": ["Thousands", "Hundreds", "Tens", "Units"],
       "image": "",
       "answer": 1,
@@ -66,7 +66,7 @@
     },
     {
       "id": "money_intro",
-      "questions": "**SECTION B: MONEY & TIME**",
+      "question": "**SECTION B: MONEY & TIME**",
       "options": [],
       "image": "",
       "answer": 0,
@@ -75,7 +75,7 @@
     },
     {
       "id": 6,
-      "questions": "If a pencil costs K3.50, how much do 4 pencils cost?",
+      "question": "If a pencil costs K3.50, how much do 4 pencils cost?",
       "options": ["K12.00", "K13.00", "K14.00", "K14.50"],
       "image": "",
       "answer": 3,
@@ -84,7 +84,7 @@
     },
     {
       "id": 7,
-      "questions": "A bus leaves at 10:45 a.m. and arrives at 1:15 p.m. How long is the journey?",
+      "question": "A bus leaves at 10:45 a.m. and arrives at 1:15 p.m. How long is the journey?",
       "options": ["2 hours", "2 hours 30 mins", "3 hours", "3 hours 30 mins"],
       "image": "",
       "answer": 1,
@@ -93,7 +93,7 @@
     },
     {
       "id": "fractions_intro",
-      "questions": "**SECTION C: FRACTIONS & DECIMALS**",
+      "question": "**SECTION C: FRACTIONS & DECIMALS**",
       "options": [],
       "image": "",
       "answer": 0,
@@ -102,7 +102,7 @@
     },
     {
       "id": 8,
-      "questions": "What is 1/2 + 1/4?",
+      "question": "What is 1/2 + 1/4?",
       "options": ["3/4", "2/4", "1/3", "1/6"],
       "image": "",
       "answer": 0,
@@ -111,7 +111,7 @@
     },
     {
       "id": 9,
-      "questions": "Which is greater: 0.6 or 0.56?",
+      "question": "Which is greater: 0.6 or 0.56?",
       "options": ["0.6", "0.56", "They are equal", "Cannot compare"],
       "image": "",
       "answer": 0,
@@ -120,7 +120,7 @@
     },
     {
       "id": 10,
-      "questions": "Convert 0.75 to a fraction.",
+      "question": "Convert 0.75 to a fraction.",
       "options": ["3/4", "1/2", "1/4", "2/3"],
       "image": "",
       "answer": 0,
@@ -129,7 +129,7 @@
     },
     {
       "id": "geometry_intro",
-      "questions": "**SECTION D: GEOMETRY & SHAPES**",
+      "question": "**SECTION D: GEOMETRY & SHAPES**",
       "options": [],
       "image": "",
       "answer": 0,
@@ -138,7 +138,7 @@
     },
     {
       "id": 11,
-      "questions": "A triangle has angles 90°, 45° and __?",
+      "question": "A triangle has angles 90°, 45° and __?",
       "options": ["45°", "60°", "90°", "30°"],
       "image": "",
       "answer": 0,
@@ -147,7 +147,7 @@
     },
     {
       "id": 12,
-      "questions": "Which shape has four equal sides and four right angles?",
+      "question": "Which shape has four equal sides and four right angles?",
       "options": ["Rectangle", "Rhombus", "Square", "Trapezium"],
       "image": "",
       "answer": 2,
@@ -156,7 +156,7 @@
     },
     {
       "id": 13,
-      "questions": "Find the perimeter of a rectangle with length 6 cm and width 4 cm.",
+      "question": "Find the perimeter of a rectangle with length 6 cm and width 4 cm.",
       "options": ["20 cm", "24 cm", "18 cm", "22 cm"],
       "image": "",
       "answer": 0,
@@ -165,7 +165,7 @@
     },
     {
       "id": 14,
-      "questions": "What is the name of a 6-sided shape?",
+      "question": "What is the name of a 6-sided shape?",
       "options": ["Pentagon", "Hexagon", "Heptagon", "Octagon"],
       "image": "",
       "answer": 1,
@@ -174,7 +174,7 @@
     },
     {
       "id": 15,
-      "questions": "Look at the image and name the angle shown.",
+      "question": "Look at the image and name the angle shown.",
       "options": ["Acute", "Right", "Obtuse", "Reflex"],
       "image": "data:image/png;base64,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ejwej7761a/q5ptv1owZM5SXl+dYB2AeQj1HxONxlZWVKZFIWDUTBudef/11/eQnP9GqVav05ptvOtY8Ho9uuOEG3XTTTaqqqsrqEP8w//nPf9TR0aEnn3xSf/zjH93LOvfcc/X1r39dt9xyiy666CL3MgBDEOo5JBwOq7q62rGLzdbBuZdeeklLlizRr371K/eSZs6cqZkzZ+qGG25wL+WEbdu2qa2tTatWrdI///lP97LKysrU1NSk2267TUVFRe5lAFmMUM8xK1as0Ny5cx21bBmc27dvn9rb2/XII49ow4YNVj0/P19XXnmlbrrpJs2cOZNBMZuenh49+eST+vnPf66BgQHH2plnnqk777xTc+fO5e8ZYAhCPQc1NzertbXVUcvkwbn33ntPjz/+uB577DHH9HpJSYlaWlrU3Nyss88+2/YTSOfZZ5/Vk08+qV/+8peO+qmnnqqWlhbdeeedOu200xxrALILoZ6DUqmUqqurFQ6HrVpxcbF6enoUCARsnSfXG2+8oYcfflg//elP9f7771v10tJS3XnnnbrllltUXFxs+wkcibfeeksPPfSQWltbHS/aOeWUU/SNb3xDd911l8466yzbTwDIFoR6jkokEiorK1M8HrdqPp9PkUjkhH4vO51kMqnvfe97evzxxx0T3ZWVlfr2t7+tL3/5y0xyj4KBgQEtWbJEy5Yt07vvvmvVx40bp5tvvlkLFizQhRdeaPsJAJmOUM9h0WhUFRUVjjvXKysr1dXVpYKCAlvnibF//349/vjjWrRokRUyY8aMUX19ve666y5NnTrV9RMYDbt27dLy5cv1yCOPaPv27VZ9zJgxamlp0fe//32NHz/e9hMAMhWhnuM6Ojo0a9YsR23OnDlasWKFo3a8dXZ26vbbb9emTZusWk1NjZYsWcJXsE6QPXv2qK2tTQ8++KC2bdtm1c866ywtWbJEM2fOtHUDyEjDyHnz588fluT4tXz5cnfbcbF58+bhmpoax1/7kksuGe7u7na34gRJpVLDDz/88PCECRMc/7/MmDFjeOvWre52ABmEnTrS3sFeUFCgrq4uVVZW2jpHTzKZ1D333KPly5db5+Zer1f33Xef5syZk3XfmzfRv//9b33nO9/R008/bdXGjRun+fPna+HChXzHHchAhDokpb+D3ev1KhKJyOfz2TqPXWdnp2688Ua9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",
       "answer": 2,

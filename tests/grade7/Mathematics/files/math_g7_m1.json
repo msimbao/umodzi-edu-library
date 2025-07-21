@@ -12,37 +12,37 @@
     {
       "id": 1,
       "non_question": true,
-      "questions": "**Welcome to the Grade 7 Mathematics Model Exam!**\n\nThis paper contains 60 questions to be answered in 90 minutes. It covers the following sections:\n\n- Whole Numbers\n- Fractions and Decimals\n- Algebra\n- Geometry\n- Measurement\n- Data Handling\n- Word Problems\n\nAnswer all questions. Use rough paper for working if needed."
+      "question": "**Welcome to the Grade 7 Mathematics Model Exam!**\n\nThis paper contains 60 questions to be answered in 90 minutes. It covers the following sections:\n\n- Whole Numbers\n- Fractions and Decimals\n- Algebra\n- Geometry\n- Measurement\n- Data Handling\n- Word Problems\n\nAnswer all questions. Use rough paper for working if needed."
     },
     {
       "id": 2,
       "non_question": true,
-      "questions": "**Section 1: Whole Numbers**\n\nThis section tests your understanding of place value, rounding, and operations with whole numbers."
+      "question": "**Section 1: Whole Numbers**\n\nThis section tests your understanding of place value, rounding, and operations with whole numbers."
     },
     {
       "id": 3,
-      "questions": "What is the value of the digit 5 in the number 35,478?",
+      "question": "What is the value of the digit 5 in the number 35,478?",
       "options": ["5", "50", "500", "5,000"],
       "answer": 3,
       "explanation": "The digit 5 is in the thousands place, so its value is 5,000."
     },
     {
       "id": 4,
-      "questions": "Round 6,842 to the nearest hundred.",
+      "question": "Round 6,842 to the nearest hundred.",
       "options": ["6,800", "6,840", "6,900", "7,000"],
       "answer": 2,
       "explanation": "The tens digit is 4, so we round down to 6,800."
     },
     {
       "id": 5,
-      "questions": "What is 432 ÷ 12?",
+      "question": "What is 432 ÷ 12?",
       "options": ["34", "36", "38", "40"],
       "answer": 1,
       "explanation": "432 ÷ 12 = 36."
     },
     {
       "id": 6,
-      "questions": "Which number is a multiple of both 6 and 9?",
+      "question": "Which number is a multiple of both 6 and 9?",
       "options": ["18", "27", "36", "45"],
       "answer": 2,
       "explanation": "36 is the least common multiple of 6 and 9."
@@ -50,32 +50,32 @@
     {
       "id": 7,
       "non_question": true,
-      "questions": "**Section 2: Fractions and Decimals**\n\nThis section tests your ability to compare, simplify, and compute with fractions and decimals."
+      "question": "**Section 2: Fractions and Decimals**\n\nThis section tests your ability to compare, simplify, and compute with fractions and decimals."
     },
     {
       "id": 8,
-      "questions": "Which of these fractions is equivalent to 3/4?",
+      "question": "Which of these fractions is equivalent to 3/4?",
       "options": ["6/8", "9/12", "12/20", "15/25"],
       "answer": 0,
       "explanation": "3/4 = 6/8 when multiplied by 2."
     },
     {
       "id": 9,
-      "questions": "What is 0.75 as a fraction in simplest form?",
+      "question": "What is 0.75 as a fraction in simplest form?",
       "options": ["3/4", "7/10", "1/2", "2/3"],
       "answer": 0,
       "explanation": "0.75 = 75/100 = 3/4 after simplifying."
     },
     {
       "id": 10,
-      "questions": "Add: 2/5 + 3/10 = ...",
+      "question": "Add: 2/5 + 3/10 = ...",
       "options": ["5/10", "7/10", "1", "4/5"],
       "answer": 1,
       "explanation": "Convert 2/5 to 4/10 then add: 4/10 + 3/10 = 7/10."
     },
     {
       "id": 11,
-      "questions": "What is 1.2 × 0.3?",
+      "question": "What is 1.2 × 0.3?",
       "options": ["0.36", "3.6", "0.9", "0.18"],
       "answer": 0,
       "explanation": "1.2 × 0.3 = 0.36."
@@ -83,32 +83,32 @@
     {
       "id": 12,
       "non_question": true,
-      "questions": "**Section 3: Algebra**\n\nThis section tests your understanding of patterns, variables, and simple equations."
+      "question": "**Section 3: Algebra**\n\nThis section tests your understanding of patterns, variables, and simple equations."
     },
     {
       "id": 13,
-      "questions": "Simplify: 3a + 4a",
+      "question": "Simplify: 3a + 4a",
       "options": ["7", "7a", "12a", "a7"],
       "answer": 1,
       "explanation": "3a + 4a = 7a."
     },
     {
       "id": 14,
-      "questions": "Solve for x: x + 7 = 12",
+      "question": "Solve for x: x + 7 = 12",
       "options": ["3", "5", "7", "12"],
       "answer": 1,
       "explanation": "x = 12 - 7 = 5."
     },
     {
       "id": 15,
-      "questions": "Which of the following is a correct expression for: __three more than twice a number__?",
+      "question": "Which of the following is a correct expression for: __three more than twice a number__?",
       "options": ["2x + 3", "3x + 2", "x + 5", "2 + 3x"],
       "answer": 0,
       "explanation": "Twice a number is 2x. Three more than that is 2x + 3."
     },
     {
       "id": 16,
-      "questions": "If a = 2 and b = 3, what is the value of ab + b?",
+      "question": "If a = 2 and b = 3, what is the value of ab + b?",
       "options": ["5", "6", "9", "12"],
       "answer": 2,
       "explanation": "ab + b = (2×3) + 3 = 6 + 3 = 9."
@@ -116,32 +116,32 @@
     {
       "id": 17,
       "non_question": true,
-      "questions": "**Section 4: Geometry**\n\nThis section includes shapes, angles, and symmetry."
+      "question": "**Section 4: Geometry**\n\nThis section includes shapes, angles, and symmetry."
     },
     {
       "id": 18,
-      "questions": "How many sides does a regular hexagon have?",
+      "question": "How many sides does a regular hexagon have?",
       "options": ["5", "6", "7", "8"],
       "answer": 1,
       "explanation": "A hexagon has 6 sides."
     },
     {
       "id": 19,
-      "questions": "What is the sum of the angles in a triangle?",
+      "question": "What is the sum of the angles in a triangle?",
       "options": ["90°", "180°", "270°", "360°"],
       "answer": 1,
       "explanation": "The angles in a triangle always add up to 180°."
     },
     {
       "id": 20,
-      "questions": "Which shape has exactly one line of symmetry?",
+      "question": "Which shape has exactly one line of symmetry?",
       "options": ["Rectangle", "Square", "Circle", "Isosceles triangle"],
       "answer": 3,
       "explanation": "An isosceles triangle has one line of symmetry."
     },
     {
       "id": 21,
-      "questions": "What is the name of a 3D shape with 6 square faces?",
+      "question": "What is the name of a 3D shape with 6 square faces?",
       "options": ["Cube", "Cuboid", "Square", "Tetrahedron"],
       "answer": 0,
       "explanation": "A cube has 6 equal square faces."
@@ -149,32 +149,32 @@
     {
       "id": 22,
       "non_question": true,
-      "questions": "**Section 5: Measurement**\n\nThis section includes perimeter, area, volume, and time."
+      "question": "**Section 5: Measurement**\n\nThis section includes perimeter, area, volume, and time."
     },
     {
       "id": 23,
-      "questions": "What is the area of a rectangle 5 cm long and 3 cm wide?",
+      "question": "What is the area of a rectangle 5 cm long and 3 cm wide?",
       "options": ["15 cm²", "8 cm²", "16 cm²", "12 cm²"],
       "answer": 0,
       "explanation": "Area = length × width = 5 × 3 = 15 cm²."
     },
     {
       "id": 24,
-      "questions": "How many millilitres are in 2.5 litres?",
+      "question": "How many millilitres are in 2.5 litres?",
       "options": ["250 ml", "2,500 ml", "250,000 ml", "25 ml"],
       "answer": 1,
       "explanation": "1 litre = 1,000 ml. 2.5 × 1,000 = 2,500 ml."
     },
     {
       "id": 25,
-      "questions": "What is the perimeter of a square with side 7 cm?",
+      "question": "What is the perimeter of a square with side 7 cm?",
       "options": ["14 cm", "28 cm", "21 cm", "49 cm"],
       "answer": 1,
       "explanation": "Perimeter = 4 × side = 4 × 7 = 28 cm."
     },
     {
       "id": 26,
-      "questions": "How many minutes are in 3.5 hours?",
+      "question": "How many minutes are in 3.5 hours?",
       "options": ["180", "200", "210", "220"],
       "answer": 2,
       "explanation": "3.5 hours × 60 = 210 minutes."
@@ -182,18 +182,18 @@
     {
       "id": 27,
       "non_question": true,
-      "questions": "**Section 6: Data Handling**\n\nThis section includes reading graphs, mode, median, and interpreting data."
+      "question": "**Section 6: Data Handling**\n\nThis section includes reading graphs, mode, median, and interpreting data."
     },
     {
       "id": 28,
-      "questions": "What is the mode of these numbers: 4, 6, 4, 8, 4, 6, 7?",
+      "question": "What is the mode of these numbers: 4, 6, 4, 8, 4, 6, 7?",
       "options": ["4", "6", "7", "8"],
       "answer": 0,
       "explanation": "Mode is the number that appears most often. 4 appears 3 times."
     },
     {
       "id": 29,
-      "questions": "What is the median of: 3, 5, 7, 9, 11?",
+      "question": "What is the median of: 3, 5, 7, 9, 11?",
       "options": ["5", "7", "9", "11"],
       "answer": 1,
       "explanation": "Median is the middle value in an ordered list. Here, it's 7."
@@ -201,40 +201,40 @@
     {
       "id": 30,
       "non_question": true,
-      "questions": "**Section 7: Word Problems & Reasoning**\n\nThe remaining questions will be practical problems requiring calculations and logical thinking."
+      "question": "**Section 7: Word Problems & Reasoning**\n\nThe remaining questions will be practical problems requiring calculations and logical thinking."
     }
     [
     {
       "id": 31,
-      "questions": "A shop sold 245 books in January and 387 books in February. How many books were sold in total?",
+      "question": "A shop sold 245 books in January and 387 books in February. How many books were sold in total?",
       "options": ["622", "632", "642", "652"],
       "answer": 1,
       "explanation": "245 + 387 = 632 books."
     },
     {
       "id": 32,
-      "questions": "Martha had K150. She bought a pen for K25 and a book for K65. How much money does she have left?",
+      "question": "Martha had K150. She bought a pen for K25 and a book for K65. How much money does she have left?",
       "options": ["K40", "K50", "K60", "K70"],
       "answer": 0,
       "explanation": "150 - (25 + 65) = 150 - 90 = K60."
     },
     {
       "id": 33,
-      "questions": "A bus departs Lusaka at 07:15 and arrives in Kabwe at 09:45. How long is the journey?",
+      "question": "A bus departs Lusaka at 07:15 and arrives in Kabwe at 09:45. How long is the journey?",
       "options": ["2 hours", "2 hours 15 minutes", "2 hours 30 minutes", "3 hours"],
       "answer": 2,
       "explanation": "From 07:15 to 09:45 is 2 hours and 30 minutes."
     },
     {
       "id": 34,
-      "questions": "A tank holds 12 litres of water. How many 750 ml bottles can be filled completely from the tank?",
+      "question": "A tank holds 12 litres of water. How many 750 ml bottles can be filled completely from the tank?",
       "options": ["16", "18", "20", "24"],
       "answer": 3,
       "explanation": "12 litres = 12,000 ml. 12,000 ÷ 750 = 16 bottles."
     },
     {
       "id": 35,
-      "questions": "A field is 20 m long and 15 m wide. What is its area?",
+      "question": "A field is 20 m long and 15 m wide. What is its area?",
       "options": ["300 m²", "350 m²", "400 m²", "450 m²"],
       "answer": 0,
       "explanation": "Area = length × width = 20 × 15 = 300 m²."
@@ -242,12 +242,12 @@
     {
       "id": 36,
       "non_question": true,
-      "questions": "**Comprehension Passage: Interpreting a Table**\n\nThe table below shows the number of mangoes sold by 4 pupils in one week.\n\n| Name   | Monday | Tuesday | Wednesday | Thursday | Friday |\n|--------|--------|---------|-----------|----------|--------|\n| John   | 15     | 12      | 14        | 10       | 16     |\n| Mary   | 20     | 22      | 18        | 25       | 30     |\n| Peter  | 10     | 8       | 9         | 7        | 11     |\n| Grace  | 18     | 15      | 17        | 16       | 19     |\n\nUse the table to answer the next questions."
+      "question": "**Comprehension Passage: Interpreting a Table**\n\nThe table below shows the number of mangoes sold by 4 pupils in one week.\n\n| Name   | Monday | Tuesday | Wednesday | Thursday | Friday |\n|--------|--------|---------|-----------|----------|--------|\n| John   | 15     | 12      | 14        | 10       | 16     |\n| Mary   | 20     | 22      | 18        | 25       | 30     |\n| Peter  | 10     | 8       | 9         | 7        | 11     |\n| Grace  | 18     | 15      | 17        | 16       | 19     |\n\nUse the table to answer the next questions."
     },
     {
       "id": 37,
       "follow_up": true,
-      "questions": "Who sold the most mangoes on Friday?",
+      "question": "Who sold the most mangoes on Friday?",
       "options": ["John", "Mary", "Peter", "Grace"],
       "answer": 1,
       "explanation": "Mary sold 30 mangoes on Friday, more than anyone else."
@@ -255,7 +255,7 @@
     {
       "id": 38,
       "follow_up": true,
-      "questions": "How many mangoes did Grace sell altogether?",
+      "question": "How many mangoes did Grace sell altogether?",
       "options": ["85", "80", "75", "90"],
       "answer": 0,
       "explanation": "18 + 15 + 17 + 16 + 19 = 85."
@@ -263,7 +263,7 @@
     {
       "id": 39,
       "follow_up": true,
-      "questions": "On which day were the least mangoes sold in total?",
+      "question": "On which day were the least mangoes sold in total?",
       "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
       "answer": 3,
       "explanation": "Thursday totals: 10+25+7+16 = 58, the least among the days."
@@ -271,140 +271,140 @@
     {
       "id": 40,
       "follow_up": true,
-      "questions": "What was the total number of mangoes sold by all pupils on Wednesday?",
+      "question": "What was the total number of mangoes sold by all pupils on Wednesday?",
       "options": ["58", "60", "65", "70"],
       "answer": 2,
       "explanation": "14+18+9+17 = 58."
     },
     {
       "id": 41,
-      "questions": "A rectangle has a perimeter of 30 cm. If the width is 5 cm, what is the length?",
+      "question": "A rectangle has a perimeter of 30 cm. If the width is 5 cm, what is the length?",
       "options": ["10 cm", "15 cm", "20 cm", "25 cm"],
       "answer": 0,
       "explanation": "P = 2(l + w); 30 = 2(l + 5); l = 10 cm."
     },
     {
       "id": 42,
-      "questions": "Multiply: 0.4 × 0.3 = ...",
+      "question": "Multiply: 0.4 × 0.3 = ...",
       "options": ["0.07", "0.12", "0.16", "0.14"],
       "answer": 1,
       "explanation": "0.4 × 0.3 = 0.12."
     },
     {
       "id": 43,
-      "questions": "Which is the smallest of the following fractions?",
+      "question": "Which is the smallest of the following fractions?",
       "options": ["1/2", "2/3", "3/4", "1/4"],
       "answer": 3,
       "explanation": "1/4 is the smallest."
     },
     {
       "id": 44,
-      "questions": "A bus uses 10 litres of fuel per 100 km. How much fuel is needed for 350 km?",
+      "question": "A bus uses 10 litres of fuel per 100 km. How much fuel is needed for 350 km?",
       "options": ["35 L", "30 L", "40 L", "45 L"],
       "answer": 0,
       "explanation": "350 ÷ 100 = 3.5; 3.5 × 10 = 35 L."
     },
     {
       "id": 45,
-      "questions": "What is the missing number? 5, 10, __, 20, 25",
+      "question": "What is the missing number? 5, 10, __, 20, 25",
       "options": ["12", "13", "15", "17"],
       "answer": 2,
       "explanation": "The pattern increases by 5: 5, 10, 15, 20, 25."
     },
     {
       "id": 46,
-      "questions": "Which number is both a multiple of 4 and a factor of 32?",
+      "question": "Which number is both a multiple of 4 and a factor of 32?",
       "options": ["8", "12", "16", "24"],
       "answer": 0,
       "explanation": "8 is a multiple of 4 and a factor of 32."
     },
     {
       "id": 47,
-      "questions": "A school has 450 pupils. If 3/5 are girls, how many girls are there?",
+      "question": "A school has 450 pupils. If 3/5 are girls, how many girls are there?",
       "options": ["270", "280", "300", "310"],
       "answer": 0,
       "explanation": "3/5 × 450 = 270 girls."
     },
     {
       "id": 48,
-      "questions": "What is 15% of 80?",
+      "question": "What is 15% of 80?",
       "options": ["10", "12", "15", "18"],
       "answer": 3,
       "explanation": "15% × 80 = (15/100) × 80 = 12."
     },
     {
       "id": 49,
-      "questions": "How many edges does a cube have?",
+      "question": "How many edges does a cube have?",
       "options": ["8", "10", "12", "14"],
       "answer": 2,
       "explanation": "A cube has 12 edges."
     },
     {
       "id": 50,
-      "questions": "Which of the following angles is an acute angle?",
+      "question": "Which of the following angles is an acute angle?",
       "options": ["30°", "90°", "120°", "180°"],
       "answer": 0,
       "explanation": "An acute angle is less than 90°."
     },
     {
       "id": 51,
-      "questions": "What is the product of 12 and 11?",
+      "question": "What is the product of 12 and 11?",
       "options": ["121", "132", "143", "144"],
       "answer": 1,
       "explanation": "12 × 11 = 132."
     },
     {
       "id": 52,
-      "questions": "Convert 3/5 into a decimal.",
+      "question": "Convert 3/5 into a decimal.",
       "options": ["0.2", "0.4", "0.6", "0.8"],
       "answer": 2,
       "explanation": "3 ÷ 5 = 0.6."
     },
     {
       "id": 53,
-      "questions": "What is the value of x if 5x = 45?",
+      "question": "What is the value of x if 5x = 45?",
       "options": ["7", "8", "9", "10"],
       "answer": 2,
       "explanation": "x = 45 ÷ 5 = 9."
     },
     {
       "id": 54,
-      "questions": "If a bottle costs K12.50, what is the cost of 4 bottles?",
+      "question": "If a bottle costs K12.50, what is the cost of 4 bottles?",
       "options": ["K50.00", "K52.00", "K48.00", "K46.00"],
       "answer": 2,
       "explanation": "12.50 × 4 = K50.00."
     },
     {
       "id": 55,
-      "questions": "What is the next square number after 36?",
+      "question": "What is the next square number after 36?",
       "options": ["42", "45", "49", "50"],
       "answer": 2,
       "explanation": "Next perfect square after 36 is 49 (7²)."
     },
     {
       "id": 56,
-      "questions": "What is the mean of these numbers: 6, 8, 10, 12?",
+      "question": "What is the mean of these numbers: 6, 8, 10, 12?",
       "options": ["9", "10", "8", "11"],
       "answer": 0,
       "explanation": "(6 + 8 + 10 + 12) ÷ 4 = 36 ÷ 4 = 9."
     },
     {
       "id": 57,
-      "questions": "What is the difference between 2.5 km and 1,500 m?",
+      "question": "What is the difference between 2.5 km and 1,500 m?",
       "options": ["1.0 km", "1.5 km", "2.0 km", "1.8 km"],
       "answer": 0,
       "explanation": "2.5 km = 2,500 m. 2,500 - 1,500 = 1,000 m = 1.0 km."
     },
     {
       "id": 58,
-      "questions": "Which of the following has the highest value?",
+      "question": "Which of the following has the highest value?",
       "options": ["0.9", "3/4", "7/10", "0.85"],
       "answer": 0,
       "explanation": "0.9 > 0.85 > 0.75 > 0.7"
     },
     {
       "id": 59,
-      "questions": "What is the square root of 81?",
+      "question": "What is the square root of 81?",
       "options": ["9", "8", "7", "6"],
       "answer": 0,
       "explanation": "√81 = 9."
@@ -412,7 +412,7 @@
     {
       "id": 60,
       "non_question": true,
-      "questions": "**End of Exam**\n\nYou have reached the end of the Grade 7 Mathematics model exam. Review your answers if you still have time. __Good luck!__"
+      "question": "**End of Exam**\n\nYou have reached the end of the Grade 7 Mathematics model exam. Review your answers if you still have time. __Good luck!__"
     }
 ]
 }

@@ -151,7 +151,7 @@
     },
     {
       "question": "“That snake is very ___!” exclaimed Peter.",
-      "options": ["dangerous", "dangerous", "dangerous", "dangerous"],
+      "options": ["dangerous", "dengerous", "dangerus", "dengirous"],
       "answer": 0,
       "explanation": "The correct answer is 'dangerous' as it is the correctly spelled word."
     },
@@ -159,28 +159,28 @@
       "question": "That pregnant women should not eat eggs is a ___",
       "options": [
         "misconception",
-        "misconception",
-        "misconception",
-        "misconception"
+        "miscinception",
+        "missconception",
+        "missconciption"
       ],
       "answer": 0,
       "explanation": "The correct answer is 'misconception' as it is the correctly spelled word."
     },
     {
       "question": "Have you ever ___ why some people wake up late in the morning?",
-      "options": ["wandered", "wondered", "wondered", "wondered"],
+      "options": ["wandered", "wondered", "wendered", "wundered"],
       "answer": 1,
       "explanation": "The correct answer is 'wondered' as it is the correctly spelled word."
     },
     {
       "question": "The police officers were given ___ information on the expected robbery.",
-      "options": ["adequate", "adequate", "adequate", "adequate"],
+      "options": ["adequate", "adiquate", "adequete", "adeqaute"],
       "answer": 0,
       "explanation": "The correct answer is 'adequate' as it is the correctly spelled word."
     },
     {
       "question": "My parents often advise me not to ___ with my friends.",
-      "options": ["quarrel", "quarrell", "quarrel", "quarrell"],
+      "options": ["quarrel", "quarrell", "quarel", "quarell"],
       "answer": 0,
       "explanation": "The correct answer is 'quarrel' as it is the correctly spelled word."
     },

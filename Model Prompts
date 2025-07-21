@@ -10,15 +10,29 @@ General Prompts for Question Generation
 DESC: This is the most important format to tell the system so that it generates tests with same json format for slotting into the library
 
 
-follow this format: dictionary with the following keys and variable types: id (string), title (string), subject (string), grade (number), cost (number), description (string), difficulty (string), totalQuestions (number), estimatedTime (number), questions. Questions should be an array of dictionaries with keys and types: id (question number starting at 1 if it is a question, if it is a non_question like a section give it a name), questions (string), options (array of strings), answer (number index of correct answer), explanation (string). 
+follow this format to make a model ecz exam: dictionary with the following keys and variable types: id (string), title (string), subject (string), grade (number), cost (number), description (string), difficulty (string), totalQuestions (number), estimatedTime (number), link (string), questions (array of dictionaries).
 
-some questions should have the keys non_question=true if they are not questions but instead intermission sections explaining what questions are up next or the comprehension passage before a set of follow up questions.
+the id should be a unique string made by combining the date first three letters of subject grade and number after a dash if making multiple dictionaries e.g 20252107MATG7_1
 
- some questions are follow up quesitons that need to follow each other or follow the comprehension passage and should have the key follow_up=true
+the title should be short and concise and unique
+
+the difficulty should be either easy, medium or hard
+
+the link should be a url that is: "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade{grade}/{subject}/files/{id}.json" where {grade} {subject} and {id} are the ones you will put in the dictionary.
+
+Questions should be an array of dictionaries with keys and types: id (question number starting at 1 if it is a question, if it is a non_question like a section give it a name), questions (string), options (array of strings), image( can be blank or a string of a prompt of an image that should be there),answer (number index of correct answer), explanation (string). 
+
+some questions should have the keys non_question=true if they are not questions but instead intermission sections explaining what questions are up next or the comprehension passage before a set of follow up questions. These questions should not count towards the total question count when you are making them and their ids will just be a name.
+
+some questions are follow up quesitons that need to follow each other or follow the comprehension passage and should have the key follow_up=true
 
 if you need to make some parts bold, put the words between double asterisks, e.g **Bold text**. If you need to underline some words, put the words between double bottom dashes, e.g __underline__. If you need to make a blank space, use 3 dots, e.g ...
 
 the first question should always be a non_question with the summary of the quiz you are about to take.
+
+only a few questions should have images to mimic how actual past papers are made.
+
+
 
 make a model exam using this format for an english grade 7 exam for ecz zambian students that is 60 questions long and 90 minutes estimated time, it should have the following sections:
 

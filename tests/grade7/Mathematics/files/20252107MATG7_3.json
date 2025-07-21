@@ -1,0 +1,185 @@
+{
+  "id": "20252107MATG7_3",
+  "title": "Grade 7 Mathematics Mock Exam 3",
+  "subject": "Mathematics",
+  "grade": 7,
+  "cost": 0,
+  "description": "Algebra, probability, negative numbers, and symmetry problems for Grade 7 learners.",
+  "difficulty": "hard",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Mathematics/files/20252107MATG7_3.json",
+  "questions": [
+    {
+      "id": "intro",
+      "questions": "Welcome to **Grade 7 Mathematics Mock Exam 3**. This paper includes algebra, simple probability, operations with integers, and symmetry. There are 15 questions. Think carefully before answering.",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 1,
+      "questions": "Solve for x: 3x = 12",
+      "options": ["3", "4", "5", "6"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Divide both sides by 3: x = 12 ÷ 3 = 4.",
+      "follow_up": false
+    },
+    {
+      "id": 2,
+      "questions": "What is the value of x in the equation: x + 7 = 15?",
+      "options": ["6", "7", "8", "9"],
+      "image": "",
+      "answer": 2,
+      "explanation": "x = 15 − 7 = 8.",
+      "follow_up": false
+    },
+    {
+      "id": 3,
+      "questions": "Which expression is equal to: 2 × (x + 3)?",
+      "options": ["2x + 3", "x + 6", "2x + 6", "x + 3"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Use distributive property: 2×x + 2×3 = 2x + 6.",
+      "follow_up": false
+    },
+    {
+      "id": 4,
+      "questions": "If y = 5, what is the value of 3y − 2?",
+      "options": ["13", "12", "15", "17"],
+      "image": "",
+      "answer": 0,
+      "explanation": "3×5 − 2 = 15 − 2 = 13.",
+      "follow_up": false
+    },
+    {
+      "id": "negatives_intro",
+      "questions": "**SECTION B: INTEGERS (NEGATIVE & POSITIVE NUMBERS)**",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 5,
+      "questions": "What is −5 + 9?",
+      "options": ["−4", "0", "4", "5"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Start at −5, move 9 steps right: −5 + 9 = 4.",
+      "follow_up": false
+    },
+    {
+      "id": 6,
+      "questions": "Simplify: −7 − 3",
+      "options": ["−10", "−4", "4", "10"],
+      "image": "",
+      "answer": 0,
+      "explanation": "−7 − 3 = −10.",
+      "follow_up": false
+    },
+    {
+      "id": 7,
+      "questions": "Simplify: 6 − (−2)",
+      "options": ["4", "6", "8", "−8"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Subtracting a negative is addition: 6 + 2 = 8.",
+      "follow_up": false
+    },
+    {
+      "id": 8,
+      "questions": "What is the product of −3 and 4?",
+      "options": ["−7", "−12", "12", "−1"],
+      "image": "",
+      "answer": 1,
+      "explanation": "−3 × 4 = −12.",
+      "follow_up": false
+    },
+    {
+      "id": "probability_intro",
+      "questions": "**SECTION C: PROBABILITY**",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 9,
+      "questions": "A bag contains 3 red balls and 2 green balls. What is the probability of picking a red ball?",
+      "options": ["2/5", "3/5", "1/2", "1/3"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Total balls = 5; red = 3. Probability = 3/5.",
+      "follow_up": false
+    },
+    {
+      "id": 10,
+      "questions": "Which of the following events is certain to happen?",
+      "options": ["Sun rises in the west", "Sun sets in the east", "Sun rises in the east", "It rains every day"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The sun always rises in the east – a certain event.",
+      "follow_up": false
+    },
+    {
+      "id": 11,
+      "questions": "A coin is tossed once. What is the probability of getting a tail?",
+      "options": ["0", "1/4", "1/2", "1"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Two outcomes: head or tail. 1/2 chance for each.",
+      "follow_up": false
+    },
+    {
+      "id": "symmetry_intro",
+      "questions": "**SECTION D: SYMMETRY & TRANSFORMATIONS**",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 12,
+      "questions": "Which of the following shapes has **4 lines of symmetry**?",
+      "options": ["Rectangle", "Square", "Trapezium", "Parallelogram"],
+      "image": "",
+      "answer": 1,
+      "explanation": "A square has 4 lines of symmetry.",
+      "follow_up": false
+    },
+    {
+      "id": 13,
+      "questions": "Which transformation turns a shape around a fixed point?",
+      "options": ["Reflection", "Rotation", "Translation", "Symmetry"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Rotation turns a shape around a point.",
+      "follow_up": false
+    },
+    {
+      "id": 14,
+      "questions": "Which transformation slides a shape without turning it?",
+      "options": ["Reflection", "Rotation", "Translation", "Enlargement"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Translation is a slide without rotation.",
+      "follow_up": false
+    },
+    {
+      "id": 15,
+      "questions": "Which of the following letters has only one line of symmetry?",
+      "options": ["A", "O", "X", "H"],
+      "image": "",
+      "answer": 0,
+      "explanation": "**A** has 1 vertical line of symmetry.",
+      "follow_up": false
+    }
+  ]
+}

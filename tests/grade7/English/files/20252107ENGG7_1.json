@@ -1,0 +1,242 @@
+{
+  "id": "20252107ENGG7_1",
+  "title": "Grade 7 English Mock Exam 1",
+  "subject": "English",
+  "grade": 7,
+  "cost": 0,
+  "description": "A mock ECZ Grade 7 English exam covering comprehension, grammar, vocabulary, and sentence construction.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "questions": [
+    {
+      "id": "introduction",
+      "questions": "This is a **Grade 7 English mock exam** designed to help you prepare for the ECZ final paper. It includes comprehension, grammar, sentence construction, and vocabulary sections. The paper has 15 questions. Read each question carefully and choose the best answer.",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": "comprehension_intro",
+      "questions": "**SECTION A: COMPREHENSION**\nRead the passage below and answer the questions that follow.",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": "passage1",
+      "questions": "It was a bright Monday morning when Linda woke up excited. It was her first day at a new school. She had spent the whole weekend preparing her uniform and packing her bag. As she walked to school with her mother, Linda could not stop smiling. She hoped to make new friends and enjoy her lessons. When they reached the school gate, she turned to her mother and said, **“Thank you for everything, Mum.”** Her mother gave her a big hug and whispered, **“Be brave and kind.”**",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 1,
+      "questions": "Why was Linda excited on Monday morning?",
+      "options": [
+        "She was visiting her grandmother.",
+        "She was starting at a new school.",
+        "She had finished all her homework.",
+        "It was her birthday."
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Linda was excited because it was her first day at a new school.",
+      "follow_up": true
+    },
+    {
+      "id": 2,
+      "questions": "How did Linda prepare for school over the weekend?",
+      "options": [
+        "By watching TV and resting.",
+        "By cooking meals.",
+        "By cleaning the house.",
+        "By preparing her uniform and packing her bag."
+      ],
+      "image": "",
+      "answer": 3,
+      "explanation": "The passage says Linda prepared her uniform and packed her bag.",
+      "follow_up": true
+    },
+    {
+      "id": 3,
+      "questions": "What advice did Linda's mother give her?",
+      "options": [
+        "Be smart and quick.",
+        "Be brave and kind.",
+        "Do not be late.",
+        "Study hard and eat well."
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Her mother said, 'Be brave and kind.'",
+      "follow_up": true
+    },
+    {
+      "id": "grammar_intro",
+      "questions": "**SECTION B: GRAMMAR**\nChoose the correct option to complete each sentence.",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 4,
+      "questions": "She __ a story when the lights went out.",
+      "options": ["reads", "read", "was reading", "is reading"],
+      "image": "",
+      "answer": 2,
+      "explanation": "'Was reading' is the correct past continuous tense for an interrupted action.",
+      "follow_up": false
+    },
+    {
+      "id": 5,
+      "questions": "The boys __ football every Saturday.",
+      "options": ["plays", "played", "play", "playing"],
+      "image": "",
+      "answer": 2,
+      "explanation": "'Play' is the correct present simple form for plural subjects.",
+      "follow_up": false
+    },
+    {
+      "id": 6,
+      "questions": "If I __ early, I will catch the bus.",
+      "options": ["wake", "woke", "wakes", "woken"],
+      "image": "",
+      "answer": 0,
+      "explanation": "The first conditional uses 'If + present simple, will + verb'.",
+      "follow_up": false
+    },
+    {
+      "id": "vocab_intro",
+      "questions": "**SECTION C: VOCABULARY**\nChoose the word that best completes the sentence.",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 7,
+      "questions": "My father is a __ at the hospital.",
+      "options": ["teacher", "pilot", "doctor", "driver"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Doctors work at hospitals.",
+      "follow_up": false
+    },
+    {
+      "id": 8,
+      "questions": "The __ is shining brightly today.",
+      "options": ["moon", "sun", "star", "cloud"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The sun shines during the day.",
+      "follow_up": false
+    },
+    {
+      "id": 9,
+      "questions": "A person who writes books is called an __.",
+      "options": ["actor", "author", "artist", "auditor"],
+      "image": "",
+      "answer": 1,
+      "explanation": "An author is someone who writes books.",
+      "follow_up": false
+    },
+    {
+      "id": 10,
+      "questions": "We keep our money in a __.",
+      "options": ["library", "bank", "hospital", "school"],
+      "image": "",
+      "answer": 1,
+      "explanation": "A bank is a place for keeping money.",
+      "follow_up": false
+    },
+    {
+      "id": "construction_intro",
+      "questions": "**SECTION D: SENTENCE CONSTRUCTION**\nChoose the sentence that is correctly punctuated or structured.",
+      "options": [],
+      "image": "",
+      "answer": 0,
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 11,
+      "questions": "Which sentence is correctly punctuated?",
+      "options": [
+        "Where are you going",
+        "where are you going?",
+        "Where are you going?",
+        "Where are you Going?"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "The correct sentence starts with a capital and ends with a question mark.",
+      "follow_up": false
+    },
+    {
+      "id": 12,
+      "questions": "Which of the following is a correct sentence?",
+      "options": [
+        "She can sings very well.",
+        "He can to swim.",
+        "They are playing in the garden.",
+        "I goes to school."
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "'They are playing in the garden.' is grammatically correct.",
+      "follow_up": false
+    },
+    {
+      "id": 13,
+      "questions": "Which sentence is written in the past tense?",
+      "options": [
+        "I eat my lunch now.",
+        "I will eat my lunch.",
+        "I ate my lunch.",
+        "I am eating my lunch."
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "'I ate my lunch.' is in past tense.",
+      "follow_up": false
+    },
+    {
+      "id": 14,
+      "questions": "Which sentence is an exclamation?",
+      "options": [
+        "Where is my pen?",
+        "What a beautiful dress!",
+        "I am going to school.",
+        "Please help me with this."
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Exclamations express strong feelings and end with an exclamation mark.",
+      "follow_up": false
+    },
+    {
+      "id": 15,
+      "questions": "Choose the sentence that uses a contraction.",
+      "options": [
+        "He is not here.",
+        "He isn't here.",
+        "He was not here.",
+        "He is here."
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "'Isn't' is a contraction of 'is not'.",
+      "follow_up": false
+    }
+  ]
+}

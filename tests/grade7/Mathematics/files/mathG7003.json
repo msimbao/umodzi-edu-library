@@ -1,11 +1,18 @@
 {
-  "id": "grade7_math_003",
-  "title": "Hard Math",
-  "subject": "Mathematics",
-  "grade": 7,
-  "difficulty": "hard",
-  "cost": "free",
+    "id": "grade7_math_003",
+    "title": "Hard Math",
+    "subject": "Mathematics",
+    "grade": 7,
+    "cost": 0,
+    "description": "A comprehensive Grade 7 ECZ Mathematics test covering a blend of difficult topics",
+    "difficulty": "hard",
+    "totalQuestions": 20,
+    "estimatedTime": 30,
   "questions": [
+        {
+      "question":    "This test is a comprehensive Grade 7 Mathematics test with various arithmetic questions",
+      "non_question" : true
+    },
     {
       "question": "Solve for x: 3x - 7 = 2x + 5",
       "options": ["x = 12", "x = -12", "x = 1", "x = -1"],

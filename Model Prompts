@@ -10,7 +10,7 @@ General Prompts for Question Generation
 DESC: This is the most important format to tell the system so that it generates tests with same json format for slotting into the library
 
 
-follow this format: dictionary with the following keys and variable types: id (string), title (string), subject (string), grade (string), cost (number), description (string), difficulty (string), totalQuestions (number), estimatedTime (number), questions. Questions should be an array of dictionaries with keys and types: id (question number starting at 1), questions (string), options (array of strings), answer (number index of correct answer), explanation (string). 
+follow this format: dictionary with the following keys and variable types: id (string), title (string), subject (string), grade (number), cost (number), description (string), difficulty (string), totalQuestions (number), estimatedTime (number), questions. Questions should be an array of dictionaries with keys and types: id (question number starting at 1 if it is a question, if it is a non_question like a section give it a name), questions (string), options (array of strings), answer (number index of correct answer), explanation (string). 
 
 some questions should have the keys non_question=true if they are not questions but instead intermission sections explaining what questions are up next or the comprehension passage before a set of follow up questions.
 

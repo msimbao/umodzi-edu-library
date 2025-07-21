@@ -1,23 +1,50 @@
 [
-    {
-        "id": "grade7_math_001",
-        "title": "Arithmetic 1",
-        "difficulty": "easy",
-        "cost": "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Mathematics/files/mathG7001.json"
-    },
-    {
-        "id": "grade7_math_002",
-        "title": "Sentences",
-        "difficulty": "medium",
-        "cost": "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Mathematics/files/mathG7002.json"
-    },
-       {
-        "id": "grade7_math_003",
-        "title": "Hard Math",
-        "difficulty": "hard",
-        "cost": "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade7/Mathematics/files/mathG7003.json"
-    }
+  {
+    "id": "grade7_math_001",
+    "title": "Arithmetic 1",
+    "subject": "Mathematics",
+    "grade": 7,
+    "cost": 0,
+    "description": "A comprehensive Grade 7 Mathematics test with various arithmetic questions",
+    "difficulty": "easy",
+    "totalQuestions": 20,
+    "estimatedTime": 30,
+    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Mathematics/files/mathG7001.json"
+  },
+  {
+    "id": "grade7_math_002",
+    "title": "Sentences",
+    "subject": "Mathematics",
+    "grade": 7,
+    "cost": 0,
+    "description": "A comprehensive blend of Grade 7 Mathematics questions in sentence form",
+    "difficulty": "medium",
+    "totalQuestions": 20,
+    "estimatedTime": 30,
+    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Mathematics/files/mathG7002.json"
+  },
+  {
+    "id": "grade7_math_003",
+    "title": "Hard Math",
+    "subject": "Mathematics",
+    "grade": 7,
+    "cost": 0,
+    "description": "A comprehensive Grade 7 ECZ Mathematics test covering a blend of difficult topics",
+    "difficulty": "hard",
+    "totalQuestions": 20,
+    "estimatedTime": 30,
+    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Mathematics/files/mathG7003.json"
+  },
+  {
+  "id": "math-grade7-ecz-model-exam-001",
+  "title": "ECZ Model Paper 1",
+  "subject": "Mathematics",
+  "grade": 7,
+  "cost": 0,
+  "description": "This is a model exam for Grade 7 ECZ Mathematics. It covers key topics such as Numbers, Fractions, Algebra, Geometry, Measurement, and Data Handling. Prepare to solve problems involving calculations, word problems, and reasoning.",
+  "difficulty": "medium",
+  "totalQuestions": 50,
+  "estimatedTime": 90,
+    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Mathematics/files/math_g7_m1.json"
+  }
 ]

@@ -2,10 +2,10 @@
   {  "id": "eng_g7_m1",
   "title": "ECZ Model Paper 1",
   "subject": "English",
-  "grade": "7",
+  "grade": 7,
   "cost": 0,
   "description": "A comprehensive Grade 7 English examination following the ECZ Zambian curriculum format. This exam covers grammar, vocabulary, spelling, punctuation, comprehension, and paragraph organization skills essential for Grade 7 students.",
-  "difficulty": "intermediate",
+  "difficulty": "hard",
   "totalQuestions": 60,
   "estimatedTime": 90,
   "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/eng_g7_m1.json"
@@ -17,7 +17,7 @@
     "grade": 7,
     "description": "This examination paper consists of two sections: Section A (Parts 1-4) and Section B (Parts 1-2), covering grammar, vocabulary, punctuation, comprehension, and paragraph organization.",
     "difficulty": "medium",
-    "cost" : 0,
+    "cost" : 15,
     "totalQuestions": 60,
     "estimatedTime": 90,
     "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/eng-g7-2023.json"

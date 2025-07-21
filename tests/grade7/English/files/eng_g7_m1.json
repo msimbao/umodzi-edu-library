@@ -1,12 +1,12 @@
 {
   "id": "eng_g7_m1",
-  "title": "ECZ Model Paper 1",
+  "title": "ECZ G7 Eng Model Paper 1",
   "subject": "English",
-  "grade": "7",
+  "grade": 7,
   "cost": 0,
   "description": "A comprehensive Grade 7 English examination following the ECZ Zambian curriculum format. This exam covers grammar, vocabulary, spelling, punctuation, comprehension, and paragraph organization skills essential for Grade 7 students.",
   "difficulty": "intermediate",
-  "totalQuestions": 60,
+  "totalQuestions": 53,
   "estimatedTime": 90,
   "questions": [
     {
@@ -31,7 +31,6 @@
       "options": ["was", "were", "is", "are"],
       "answer": 1,
       "explanation": "The subject 'children' is plural, so the past continuous tense requires 'were' as the auxiliary verb.",
-      "follow_up": true
     },
     {
       "id": 4,
@@ -39,7 +38,6 @@
       "options": ["wash", "washed", "washing", "washes"],
       "answer": 0,
       "explanation": "After 'to' we use the base form of the verb (infinitive without 'to').",
-      "follow_up": true
     },
     {
       "id": 5,
@@ -47,7 +45,6 @@
       "options": ["lying", "laying", "lies", "lay"],
       "answer": 0,
       "explanation": "'Lying' is the present participle of 'lie' (to be in a horizontal position), which is correct here.",
-      "follow_up": true
     },
     {
       "id": 6,
@@ -55,7 +52,6 @@
       "options": ["or", "nor", "and", "but"],
       "answer": 1,
       "explanation": "'Neither' is always followed by 'nor' in correlative conjunctions.",
-      "follow_up": true
     },
     {
       "id": 7,
@@ -63,7 +59,6 @@
       "options": ["so", "such", "very", "too"],
       "answer": 0,
       "explanation": "'So' is used before adverbs (clearly) in the structure 'so + adverb + that'.",
-      "follow_up": true
     },
     {
       "id": 8,
@@ -71,7 +66,6 @@
       "options": ["has", "have", "had", "having"],
       "answer": 2,
       "explanation": "Past perfect tense uses 'had' + past participle to show an action completed before another past action.",
-      "follow_up": true
     },
     {
       "id": 9,
@@ -79,7 +73,6 @@
       "options": ["more", "most", "the most", "the more"],
       "answer": 2,
       "explanation": "Superlative form requires 'the most' when comparing more than two people or things.",
-      "follow_up": true
     },
     {
       "id": 10,
@@ -87,7 +80,6 @@
       "options": ["some", "any", "many", "few"],
       "answer": 0,
       "explanation": "'Some' is used in positive statements and requests, especially with uncountable nouns like 'information'.",
-      "follow_up": true
     },
     {
       "id": 11,
@@ -95,7 +87,6 @@
       "options": ["finished", "have finished", "had finished", "finishing"],
       "answer": 2,
       "explanation": "Past perfect tense 'had finished' shows the homework was completed before the teacher's arrival (both past events).",
-      "follow_up": true
     },
     {
       "id": 12,
@@ -103,7 +94,6 @@
       "options": ["at", "in", "on", "by"],
       "answer": 0,
       "explanation": "'At' is used with specific locations like banks, schools, and offices.",
-      "follow_up": true
     },
     {
       "id": 13,
@@ -111,7 +101,6 @@
       "options": ["rain", "rains", "will rain", "rained"],
       "answer": 1,
       "explanation": "In first conditional sentences, we use simple present tense after 'if' and future tense in the main clause.",
-      "follow_up": true
     },
     {
       "id": 14,
@@ -119,7 +108,6 @@
       "options": ["hide", "hid", "hidden", "hiding"],
       "answer": 1,
       "explanation": "Simple past tense 'hid' is correct for a completed action in the past.",
-      "follow_up": true
     },
     {
       "id": 15,
@@ -127,7 +115,6 @@
       "options": ["good", "well", "better", "best"],
       "answer": 2,
       "explanation": "Comparative form 'better' is used when comparing two people's abilities.",
-      "follow_up": true
     },
     {
       "id": 16,
@@ -135,7 +122,6 @@
       "options": ["about", "for", "with", "to"],
       "answer": 0,
       "explanation": "The adjective 'excited' is followed by the preposition 'about'.",
-      "follow_up": true
     },
     {
       "id": 17,
@@ -143,7 +129,6 @@
       "options": ["tell", "told", "tells", "telling"],
       "answer": 1,
       "explanation": "Simple past tense 'told' is correct for actions that happened regularly in the past.",
-      "follow_up": true
     },
     {
       "id": 18,
@@ -151,7 +136,6 @@
       "options": ["was", "were", "is", "are"],
       "answer": 1,
       "explanation": "'Were' is the correct past tense form for plural subjects like 'people'.",
-      "follow_up": true
     },
     {
       "id": 19,
@@ -159,7 +143,6 @@
       "options": ["ride", "rides", "rode", "riding"],
       "answer": 1,
       "explanation": "Simple present tense with third person singular requires 's' ending: 'rides'.",
-      "follow_up": true
     },
     {
       "id": 20,
@@ -167,7 +150,6 @@
       "options": ["to", "for", "at", "on"],
       "answer": 1,
       "explanation": "The verb 'wait' is followed by the preposition 'for' when indicating what we're waiting for.",
-      "follow_up": true
     },
     {
       "id": 21,
@@ -175,7 +157,6 @@
       "options": ["help", "helped", "helping", "helps"],
       "answer": 0,
       "explanation": "After modal verbs like 'could', we use the base form of the verb.",
-      "follow_up": true
     },
     {
       "id": 22,
@@ -191,7 +172,6 @@
       "options": ["begining", "beginning", "beggining", "beginnnig"],
       "answer": 1,
       "explanation": "'Beginning' is spelled with double 'n' in the middle and single 'n' at the end.",
-      "follow_up": true
     },
     {
       "id": 24,
@@ -199,7 +179,6 @@
       "options": ["serius", "serious", "seriuos", "seriouss"],
       "answer": 1,
       "explanation": "'Serious' is spelled with 'i' before 'o' and ends with single 's'.",
-      "follow_up": true
     },
     {
       "id": 25,
@@ -207,7 +186,6 @@
       "options": ["necesary", "neccessary", "necessary", "necessarry"],
       "answer": 2,
       "explanation": "'Necessary' has one 'c' and double 's' in the middle.",
-      "follow_up": true
     },
     {
       "id": 26,
@@ -215,7 +193,6 @@
       "options": ["favourite", "favorit", "favrit", "favurite"],
       "answer": 0,
       "explanation": "'Favourite' (British spelling) includes 'ou' in the middle and ends with 'ite'.",
-      "follow_up": true
     },
     {
       "id": 27,
@@ -223,7 +200,6 @@
       "options": ["beutiful", "beatiful", "beautiful", "beautifull"],
       "answer": 2,
       "explanation": "'Beautiful' has 'eau' at the beginning and ends with single 'l'.",
-      "follow_up": true
     },
     {
       "id": 28,
@@ -244,7 +220,6 @@
       ],
       "answer": 1,
       "explanation": "A comma should separate the reporting verb from direct speech, and the period goes inside the quotation marks.",
-      "follow_up": true
     },
     {
       "id": 30,
@@ -257,7 +232,6 @@
       ],
       "answer": 2,
       "explanation": "Items in a series are separated by commas, and no colon is needed after 'are'.",
-      "follow_up": true
     },
     {
       "id": 31,
@@ -270,7 +244,6 @@
       ],
       "answer": 1,
       "explanation": "In letter greetings, a comma follows the salutation in informal letters.",
-      "follow_up": true
     },
     {
       "id": 32,
@@ -283,7 +256,6 @@
       ],
       "answer": 1,
       "explanation": "An apostrophe and 's' show possession for a single student.",
-      "follow_up": true
     },
     {
       "id": 33,
@@ -296,7 +268,6 @@
       ],
       "answer": 2,
       "explanation": "A comma separates an introductory phrase from the main clause.",
-      "follow_up": true
     },
     {
       "id": 34,
@@ -312,7 +283,6 @@
       "options": ["quickly", "at a slow pace", "loudly", "carefully"],
       "answer": 1,
       "explanation": "'Slowly' means at a slow pace or not quickly.",
-      "follow_up": true
     },
     {
       "id": 36,
@@ -320,7 +290,6 @@
       "options": ["happy", "excited", "very tired", "hungry"],
       "answer": 2,
       "explanation": "'Exhausted' means extremely tired or worn out.",
-      "follow_up": true
     },
     {
       "id": 37,
@@ -328,7 +297,6 @@
       "options": ["new", "very old", "beautiful", "tall"],
       "answer": 1,
       "explanation": "'Ancient' means very old or from a long time ago.",
-      "follow_up": true
     },
     {
       "id": 38,
@@ -336,7 +304,6 @@
       "options": ["shouted", "spoke very quietly", "sang", "wrote"],
       "answer": 1,
       "explanation": "'Whispered' means spoke in a very quiet voice.",
-      "follow_up": true
     },
     {
       "id": 39,
@@ -344,7 +311,6 @@
       "options": ["punished", "ignored", "complimented", "questioned"],
       "answer": 2,
       "explanation": "'Praised' means complimented or expressed approval.",
-      "follow_up": true
     },
     {
       "id": 40,
@@ -365,7 +331,6 @@
       ],
       "answer": 0,
       "explanation": "The logical sequence follows the actual order of baking: gathering ingredients, mixing, baking, then decorating.",
-      "follow_up": true
     },
     {
       "id": 42,
@@ -378,7 +343,6 @@
       ],
       "answer": 2,
       "explanation": "The logical sequence: expecting visitors (context), hearing knock, opening door, being surprised by the package.",
-      "follow_up": true
     },
     {
       "id": 43,
@@ -391,7 +355,6 @@
       ],
       "answer": 1,
       "explanation": "Logical sequence: lion appears, roars, animals run, forest becomes quiet.",
-      "follow_up": true
     },
     {
       "id": 44,
@@ -404,7 +367,6 @@
       ],
       "answer": 2,
       "explanation": "Chronological order: practice (preparation), match day, game performance, result.",
-      "follow_up": true
     },
     {
       "id": 45,
@@ -417,7 +379,6 @@
       ],
       "answer": 1,
       "explanation": "Chronological sequence: studying, results announcement, passing, feeling proud.",
-      "follow_up": true
     },
     {
       "id": 46,
@@ -430,7 +391,6 @@
       ],
       "answer": 1,
       "explanation": "Logical sequence: fire starts, someone calls brigade, brigade arrives, fire extinguished.",
-      "follow_up": true
     },
     {
       "id": 47,
@@ -443,7 +403,6 @@
       ],
       "answer": 1,
       "explanation": "Logical progression: decision made, funding obtained, project completed, children using playground.",
-      "follow_up": true
     },
     {
       "id": 48,
@@ -454,8 +413,15 @@
       "non_question": true
     },
     {
+        "id": "Test1",
+        "question": " **TEXT 1** \n\n Greenwood Primary School has a beautiful garden behind the main building. The garden was started five years ago by Mrs. Banda, the science teacher, with help from Grade 7 students. Today, the garden has many different vegetables including tomatoes, onions, cabbage, and carrots. There are also fruit trees like mangoes and oranges.\n\nEvery morning before classes begin, students take turns watering the plants. They also help with weeding and harvesting the vegetables. The school uses the vegetables in the feeding program, which provides lunch for all students. Any extra vegetables are sold to parents and the money is used to buy seeds and garden tools.\n\nThe garden has taught students many important lessons. They have learned about different types of plants, how plants grow, and the importance of taking care of the environment. Students also learn to work together as a team. Mrs. Banda says the garden project has been very successful and plans to expand it next year.",
+        "answer":0,
+        "options":[],
+        "non_question":true,
+    }
+    {
       "id": 49,
-      "question": "**TEXT 1**\n\nGreenwood Primary School has a beautiful garden behind the main building. The garden was started five years ago by Mrs. Banda, the science teacher, with help from Grade 7 students. Today, the garden has many different vegetables including tomatoes, onions, cabbage, and carrots. There are also fruit trees like mangoes and oranges.\n\nEvery morning before classes begin, students take turns watering the plants. They also help with weeding and harvesting the vegetables. The school uses the vegetables in the feeding program, which provides lunch for all students. Any extra vegetables are sold to parents and the money is used to buy seeds and garden tools.\n\nThe garden has taught students many important lessons. They have learned about different types of plants, how plants grow, and the importance of taking care of the environment. Students also learn to work together as a team. Mrs. Banda says the garden project has been very successful and plans to expand it next year.\n\nWho started the school garden?",
+      "question": "Who started the school garden?",
       "options": ["The headteacher", "Mrs. Banda", "Grade 7 students only", "The school committee"],
       "answer": 1,
       "explanation": "The text clearly states that 'The garden was started five years ago by Mrs. Banda, the science teacher, with help from Grade 7 students.'",
@@ -487,7 +453,7 @@
     },
     {
       "id": 53,
-      "question": "**TEXT 2: The Lost Puppy**\n\nRead the passage below and answer questions 53-57.",
+      "question": "**TEXT 2: The Lost Puppy**\n\nRead the passage below and answer questions 53-57. \n\nLast Saturday morning, eight-year-old Chanda was playing in her yard when she heard a soft whimpering sound coming from behind the house. She followed the sound and found a small, brown puppy hiding under a bush. The puppy looked scared and hungry.\n\nChanda carefully picked up the puppy and took it inside to show her mother. 'Mum, can we keep it?' she asked hopefully. Her mother examined the puppy and noticed it was wearing a collar with a name tag that read 'Simba.' She explained to Chanda that the puppy belonged to someone else and they needed to find its owner.\n\nThey decided to walk around the neighbourhood asking people if they had lost a puppy. After visiting several houses, they met Mr. Mwanza, who lived three streets away. When he saw Simba, his face lit up with joy. 'Thank you so much!' he said. 'Simba has been missing since yesterday. My children have been crying all night.'\n\nChanda felt happy that she had helped reunite Simba with his family, even though she was a little sad to say goodbye. Mr. Mwanza thanked Chanda by giving her a box of chocolates and promising to visit with Simba soon.\n\n",
       "options": [],
       "answer": 0,
       "explanation": "Introduction to Text 2",
@@ -495,7 +461,7 @@
     },
     {
       "id": 54,
-      "question": "**TEXT 2**\n\nLast Saturday morning, eight-year-old Chanda was playing in her yard when she heard a soft whimpering sound coming from behind the house. She followed the sound and found a small, brown puppy hiding under a bush. The puppy looked scared and hungry.\n\nChanda carefully picked up the puppy and took it inside to show her mother. 'Mum, can we keep it?' she asked hopefully. Her mother examined the puppy and noticed it was wearing a collar with a name tag that read 'Simba.' She explained to Chanda that the puppy belonged to someone else and they needed to find its owner.\n\nThey decided to walk around the neighbourhood asking people if they had lost a puppy. After visiting several houses, they met Mr. Mwanza, who lived three streets away. When he saw Simba, his face lit up with joy. 'Thank you so much!' he said. 'Simba has been missing since yesterday. My children have been crying all night.'\n\nChanda felt happy that she had helped reunite Simba with his family, even though she was a little sad to say goodbye. Mr. Mwanza thanked Chanda by giving her a box of chocolates and promising to visit with Simba soon.\n\nWhere did Chanda find the puppy?",
+      "question": "Where did Chanda find the puppy?",
       "options": ["In her bedroom", "Under a bush behind the house", "In the street", "At the market"],
       "answer": 1,
       "explanation": "The text states 'She followed the sound and found a small, brown puppy hiding under a bush.'",
@@ -535,7 +501,7 @@
     },
     {
       "id": 59,
-      "question": "**TEXT 3: Traditional Zambian Games**\n\nRead the passage below and answer questions 59-61.",
+      "question": "**TEXT 3: Traditional Zambian Games**\n\nRead the passage below and answer questions 59-61.\n\nZambia has many traditional games that children have enjoyed for hundreds of years. One popular game is called 'Nsolo,' which is played with small stones or seeds on a wooden board with holes. Players take turns moving the stones around the board following special rules. The player who captures the most stones wins the game.\n\nAnother favorite game is 'Hide and Seek,' known locally as 'Chiselu.' Children take turns hiding while one person counts and then tries to find all the hidden players. This game helps children develop their problem-solving skills and learn to work as a team.\n\n'Rope skipping' or 'Ukujumpa' is especially popular among girls. They use ropes made from plant fibers or rubber and create songs to sing while jumping. Some girls can jump for many minutes without stopping, showing great skill and coordination.\n\nThese traditional games are important because they bring children together, teach them valuable life skills, and help preserve Zambian culture. Unfortunately, many children today prefer modern games and computers, so some traditional games are being forgotten. Parents and teachers are working hard to make sure these games continue to be played by future generations.\n\n",
       "options": [],
       "answer": 0,
       "explanation": "Introduction to Text 3",
@@ -543,7 +509,7 @@
     },
     {
       "id": 60,
-      "question": "**TEXT 3**\n\nZambia has many traditional games that children have enjoyed for hundreds of years. One popular game is called 'Nsolo,' which is played with small stones or seeds on a wooden board with holes. Players take turns moving the stones around the board following special rules. The player who captures the most stones wins the game.\n\nAnother favorite game is 'Hide and Seek,' known locally as 'Chiselu.' Children take turns hiding while one person counts and then tries to find all the hidden players. This game helps children develop their problem-solving skills and learn to work as a team.\n\n'Rope skipping' or 'Ukujumpa' is especially popular among girls. They use ropes made from plant fibers or rubber and create songs to sing while jumping. Some girls can jump for many minutes without stopping, showing great skill and coordination.\n\nThese traditional games are important because they bring children together, teach them valuable life skills, and help preserve Zambian culture. Unfortunately, many children today prefer modern games and computers, so some traditional games are being forgotten. Parents and teachers are working hard to make sure these games continue to be played by future generations.\n\nWhat is 'Nsolo' played with?",
+      "question": "What is 'Nsolo' played with?",
       "options": ["Wooden sticks", "Small stones or seeds", "Rubber balls", "Paper cards"],
       "answer": 1,
       "explanation": "The text states that Nsolo 'is played with small stones or seeds on a wooden board with holes.'",

@@ -1,11 +1,18 @@
 {
-  "id": "grade7_math_002",
-  "title": "Sentences",
-  "subject": "Mathematics",
-  "grade": 7,
-  "difficulty": "medium",
-  "cost": "free",
+    "id": "grade7_math_002",
+    "title": "Sentences",
+    "subject": "Mathematics",
+    "grade": 7,
+    "cost": 0,
+    "description": "A comprehensive blend of Grade 7 Mathematics questions in sentence form",
+    "difficulty": "medium",
+    "totalQuestions": 20,
+    "estimatedTime": 30,
   "questions": [
+        {
+      "question":    "This test is a comprehensive blend of Grade 7 Mathematics questions in sentence form",
+      "non_question" : true
+    },
     {
       "question": "What is the value of 3²?",
       "options": ["6", "9", "12", "3"],

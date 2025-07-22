@@ -48,31 +48,6 @@
     "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/engG7003.json"
   },
   {
-    "id": "eng_g7_m2",
-    "title": "ECZ G7 Eng Model Paper 2",
-    "subject": "English",
-    "grade": 7,
-    "cost": 0,
-    "description": "This is a full English Grade 7 ECZ-style model exam designed to help students prepare effectively for their final exams.",
-    "difficulty": "medium",
-    "totalQuestions": 45,
-    "estimatedTime": 90,
-    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/eng_g7_m2.json"
-  },
-
-  {
-    "id": "eng_g7_m1",
-    "title": "ECZ Model Paper 1",
-    "subject": "English",
-    "grade": 7,
-    "cost": 0,
-    "description": "A comprehensive Grade 7 English examination following the ECZ Zambian curriculum format. This exam covers grammar, vocabulary, spelling, punctuation, comprehension, and paragraph organization skills essential for Grade 7 students.",
-    "difficulty": "hard",
-    "totalQuestions": 60,
-    "estimatedTime": 90,
-    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/eng_g7_m1.json"
-  },
-  {
     "id": "eng-g7-2023",
     "title": "ECZ English – 2023",
     "subject": "English",

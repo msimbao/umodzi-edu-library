@@ -12,15 +12,15 @@
     "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/SocialStudies/files/20252107SOCG7_1.json"
   },
   {
-    "id": "20252107SOCG7_2",
-    "title": "Sample Test 2",
-    "subject": "Social Studies",
-    "grade": 7,
-    "cost": 0,
-    "description": "Second model ECZ Grade 7 Social Studies paper. Focuses on heritage, governance, environmental issues, and map skills. Includes multiple-choice and open-ended questions.",
-    "difficulty": "medium",
-    "totalQuestions": 15,
-    "estimatedTime": 30,
-    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/SocialStudies/files/20252107SOCG7_2.json"
+  "id": "20252307SOCG7_1",
+  "title": "Grade 7 Social Studies Mock Exam 1",
+  "subject": "SocialStudies",
+  "grade": 7,
+  "cost": 0,
+  "description": "This is a 15-question mock Social Studies exam based on the Zambian Grade 7 syllabus. It includes multiple-choice and short answer questions covering history, civics, geography, and cultural studies.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/SocialStudies/files/20252307SOCG7_1.json",
   }
 ]

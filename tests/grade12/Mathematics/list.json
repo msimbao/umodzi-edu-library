@@ -13,7 +13,7 @@
     },
     {
         "id": "20252107MATG12_2",
-  "title": "Grade 12 Mathematics Mock Exam 2",
+  "title": "Sample Test 2",
   "subject": "Mathematics",
   "grade": 12,
   "cost": 0,
@@ -22,5 +22,16 @@
   "totalQuestions": 10,
   "estimatedTime": 60,
   "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/Mathematics/files/20252107MATG12_2.json"
-    }
+    },
+    {  "id": "20252107MATG12_3",
+  "title": "Sample Test 3",
+  "subject": "Mathematics",
+  "grade": 12,
+  "cost": 0,
+  "description": "A third mock exam for Grade 12 Mathematics with well-structured questions and KaTeX-compatible math expressions using $$...$$ syntax.",
+  "difficulty": "hard",
+  "totalQuestions": 10,
+  "estimatedTime": 60,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/Mathematics/files/20252107MATG12_3.json"
+  }
 ]

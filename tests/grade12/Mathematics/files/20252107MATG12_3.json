@@ -1,0 +1,103 @@
+{
+  "id": "20252107MATG12_3",
+  "title": "Grade 12 Mathematics Mock Exam 3",
+  "subject": "Mathematics",
+  "grade": 12,
+  "cost": 0,
+  "description": "A third mock exam for Grade 12 Mathematics with well-structured questions and KaTeX-compatible math expressions using $$...$$ syntax.",
+  "difficulty": "hard",
+  "totalQuestions": 10,
+  "estimatedTime": 60,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/Mathematics/files/20252107MATG12_3.json",
+  "questions": [
+    {
+      "id": "summary",
+      "question": "This is the **third mock exam** for Grade 12 Mathematics. Topics include calculus, algebra, probability, and geometry. All math expressions are formatted for KaTeX using $$...$$.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 1,
+      "question": "Differentiate $$f(x) = 3x^3 - 5x^2 + x - 4$$",
+      "options": ["$$9x^2 - 10x + 1$$", "$$3x^2 - 10x + 1$$", "$$9x^2 + 10x + 1$$", "$$x^3 - x^2 + 1$$"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Differentiate each term: $$f'(x) = 9x^2 - 10x + 1$$."
+    },
+    {
+      "id": 2,
+      "question": "Evaluate: $$\\int_1^3 2x\\,dx$$",
+      "options": ["6", "8", "10", "12"],
+      "image": "",
+      "answer": 2,
+      "explanation": "$$\\int 2x\\,dx = x^2$$. Evaluate from 1 to 3: $$3^2 - 1^2 = 9 - 1 = 8$$."
+    },
+    {
+      "id": 3,
+      "question": "Solve for $$x$$: $$\\log_3(x) = 4$$",
+      "options": ["81", "12", "64", "9"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Rewriting: $$x = 3^4 = 81$$."
+    },
+    {
+      "id": 4,
+      "question": "If $$\\sin(\\theta) = \\frac{1}{2}$$ and $$\\theta$$ is acute, find $$\\theta$$ in degrees.",
+      "options": ["60°", "45°", "30°", "90°"],
+      "image": "",
+      "answer": 2,
+      "explanation": "$$\\theta = \\sin^{-1}(\\frac{1}{2}) = 30^\\circ$$ in the first quadrant."
+    },
+    {
+      "id": 5,
+      "question": "Simplify: $$(x^2 - 9) \\div (x + 3)$$",
+      "options": ["x - 3", "x + 3", "x^2 + 3", "x - 9"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Factor numerator: $$x^2 - 9 = (x + 3)(x - 3)$$. Cancel $$x + 3$$: result is $$x - 3$$."
+    },
+    {
+      "id": 6,
+      "question": "Find the coordinates of the vertex of the parabola $$y = x^2 - 6x + 5$$",
+      "options": ["(3, -4)", "(3, 4)", "(6, -5)", "(2, 1)"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Vertex is at $$x = \\frac{-b}{2a} = \\frac{6}{2} = 3$$. Plug into equation: $$y = 9 - 18 + 5 = -4$$. So (3, -4)."
+    },
+    {
+      "id": 7,
+      "question": "What is the solution set of $$x^2 - 4x - 5 = 0$$?",
+      "options": ["{-1, 5}", "{1, -5}", "{2, -2}", "{5, 4}"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Factor: $$(x - 5)(x + 1) = 0$$, so $$x = 5$$ or $$x = -1$$."
+    },
+    {
+      "id": 8,
+      "question": "If $$A = \\begin{bmatrix}1 & 2 \\\\ 3 & 4\\end{bmatrix}$$ and $$B = \\begin{bmatrix}0 & 1 \\\\ -1 & 0\\end{bmatrix}$$, compute $$AB$$",
+      "options": ["$$\\begin{bmatrix}-2 & 1 \\\\ -4 & 3\\end{bmatrix}$$", "$$\\begin{bmatrix}2 & 1 \\\\ -2 & 3\\end{bmatrix}$$", "$$\\begin{bmatrix}0 & 1 \\\\ 1 & 0\\end{bmatrix}$$", "$$\\begin{bmatrix}-2 & 1 \\\\ -1 & 4\\end{bmatrix}$$"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Multiply the matrices: $$AB = \\begin{bmatrix}1(0)+2(-1) & 1(1)+2(0) \\\\ 3(0)+4(-1) & 3(1)+4(0)\\end{bmatrix} = \\begin{bmatrix}-2 & 1 \\\\ -4 & 3\\end{bmatrix}$$."
+    },
+    {
+      "id": 9,
+      "question": "Calculate the area under the curve $$y = x^2$$ from $$x = 0$$ to $$x = 2$$",
+      "options": ["$$\\frac{8}{3}$$", "$$4$$", "$$2$$", "$$\\frac{4}{3}$$"],
+      "image": "",
+      "answer": 0,
+      "explanation": "$$\\int_0^2 x^2 dx = \\left[\\frac{x^3}{3}\\right]_0^2 = \\frac{8}{3} - 0 = \\frac{8}{3}$$."
+    },
+    {
+      "id": 10,
+      "question": "What is the probability of getting exactly 2 heads when tossing 3 fair coins?",
+      "options": ["$$\\frac{3}{8}$$", "$$\\frac{1}{4}$$", "$$\\frac{1}{2}$$", "$$\\frac{5}{8}$$"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Outcomes: HHH, HHT, HTH, HTT, THH, THT, TTH, TTT. Exactly 2 heads: HHT, HTH, THH → 3/8."
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "id": "20252307SOCG7_1",
+  "title": "Grade 7 Social Studies Mock Exam 1",
+  "subject": "SocialStudies",
+  "grade": 7,
+  "cost": 0,
+  "description": "This is a 15-question mock Social Studies exam based on the Zambian Grade 7 syllabus. It includes multiple-choice and short answer questions covering history, civics, geography, and cultural studies.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "questions": [
+    {
+      "id": "summary",
+      "question": "This is a **mock Grade 7 Social Studies exam**. It covers key areas including Zambian history, governance, environment, civic responsibilities, and culture. Read each question carefully. Some are multiple choice, others require a short answer.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 1,
+      "question": "Who was the first President of the Republic of Zambia?",
+      "options": ["Frederick Chiluba", "Levy Mwanawasa", "Kenneth Kaunda", "Michael Sata"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Dr. Kenneth Kaunda became the first President of Zambia in 1964 after independence from Britain."
+    },
+    {
+      "id": 2,
+      "question": "Which continent is Zambia located on?",
+      "options": ["Asia", "Europe", "Africa", "South America"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Zambia is a landlocked country in Southern Africa."
+    },
+    {
+      "id": 3,
+      "question": "State one function of the local government in Zambia.",
+      "options": [],
+      "image": "",
+      "answer": "Provision of services",
+      "explanation": "Local governments provide services such as waste collection, water supply, and local infrastructure."
+    },
+    {
+      "id": 4,
+      "question": "Which river is the longest in Zambia?",
+      "options": ["Zambezi", "Kafue", "Luangwa", "Chambeshi"],
+      "image": "",
+      "answer": 3,
+      "explanation": "The Chambeshi River is the longest river entirely within Zambia, although the Zambezi is longer overall."
+    },
+    {
+      "id": 5,
+      "question": "Name one major ethnic group in Zambia.",
+      "options": [],
+      "image": "",
+      "answer": "Bemba",
+      "explanation": "Zambia has many ethnic groups, with Bemba being one of the largest."
+    },
+    {
+      "id": 6,
+      "question": "What is the capital city of Zambia?",
+      "options": ["Kitwe", "Ndola", "Lusaka", "Livingstone"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Lusaka is the capital and largest city of Zambia."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a civic responsibility of a Zambian citizen?",
+      "options": ["Avoiding taxes", "Voting in elections", "Breaking laws", "Leaving the country"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Voting is a key responsibility of citizens in a democratic country like Zambia."
+    },
+    {
+      "id": 8,
+      "question": "Name one neighboring country to Zambia.",
+      "options": [],
+      "image": "",
+      "answer": "Zimbabwe",
+      "explanation": "Zambia shares borders with several countries including Zimbabwe, Namibia, Angola, and others."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following helps in protecting the environment?",
+      "options": ["Littering", "Deforestation", "Recycling", "Burning plastics"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Recycling reduces waste and conserves natural resources, protecting the environment."
+    },
+    {
+      "id": 10,
+      "question": "Why is it important to respect other people's cultures?",
+      "options": ["To cause conflict", "To avoid peace", "To promote unity", "To be proud"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Respecting other cultures promotes understanding, tolerance, and unity in society."
+    },
+    {
+      "id": 11,
+      "question": "State one use of a map.",
+      "options": [],
+      "image": "",
+      "answer": "To locate places",
+      "explanation": "Maps are tools used to show the location of different places and features."
+    },
+    {
+      "id": 12,
+      "question": "What does the term 'democracy' mean?",
+      "options": ["Rule by one person", "Rule by the people", "Rule by the army", "Rule by foreigners"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Democracy means a system of government where the people have the power to choose their leaders."
+    },
+    {
+      "id": 13,
+      "question": "Which holiday marks Zambia's independence?",
+      "options": ["Africa Freedom Day", "Labour Day", "Heroes Day", "Independence Day"],
+      "image": "",
+      "answer": 3,
+      "explanation": "Independence Day is celebrated on October 24th to mark Zambia's freedom from colonial rule in 1964."
+    },
+    {
+      "id": 14,
+      "question": "Name one traditional ceremony in Zambia.",
+      "options": [],
+      "image": "",
+      "answer": "Kuomboka",
+      "explanation": "The Kuomboka ceremony is a traditional Lozi festival that marks the king's movement due to seasonal flooding."
+    },
+    {
+      "id": 15,
+      "question": "Which of these is a reason why people move from rural to urban areas?",
+      "options": ["Lack of schools", "Employment opportunities", "To farm", "To avoid crowds"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Many people migrate to towns and cities seeking jobs and better living standards."
+    }
+  ]
+}

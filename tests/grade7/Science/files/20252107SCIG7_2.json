@@ -1,0 +1,183 @@
+{
+  "id": "20252107SCIG7_2",
+  "title": "Grade 7 Science Mock Exam 2",
+  "subject": "Science",
+  "grade": 7,
+  "cost": 0,
+  "description": "A second high-quality Science mock exam for Grade 7 learners based on the Zambian syllabus. Includes multiple-choice and short answer questions with detailed explanations.",
+  "difficulty": "medium",
+  "totalQuestions": 20,
+  "estimatedTime": 40,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Science/files/20252107SCIG7_2.json",
+  "questions": [
+    {
+      "id": "summary",
+      "question": "This is **Mock Exam 2** for Grade 7 Science. Topics include matter, energy, the environment, the human body, and safety. Answer all 20 questions carefully. Some require a choice, others a specific short response.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 1,
+      "question": "What is the boiling point of pure water at sea level?",
+      "options": ["0°C", "50°C", "100°C", "120°C"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Pure water boils at **100°C** at standard atmospheric pressure (sea level)."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is **NOT** a characteristic of living things?",
+      "options": ["Growth", "Breathing", "Reproduction", "Evaporation"],
+      "image": "",
+      "answer": 3,
+      "explanation": "Evaporation is a physical process, not a biological characteristic."
+    },
+    {
+      "id": 3,
+      "question": "Name one tool used for measuring temperature in science.",
+      "options": [],
+      "image": "",
+      "answer": "Thermometer",
+      "explanation": "A thermometer is used to measure temperature in degrees Celsius or Fahrenheit."
+    },
+    {
+      "id": 4,
+      "question": "Which energy source is most environmentally friendly?",
+      "options": ["Coal", "Solar", "Diesel", "Kerosene"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Solar power does not emit greenhouse gases and is renewable, making it eco-friendly."
+    },
+    {
+      "id": 5,
+      "question": "How many legs does an insect have?",
+      "options": ["Four", "Six", "Eight", "Ten"],
+      "image": "",
+      "answer": 1,
+      "explanation": "All insects have **six legs**. This is a defining feature of insects."
+    },
+    {
+      "id": 6,
+      "question": "Which sense organ is responsible for detecting sound?",
+      "options": ["Eye", "Ear", "Nose", "Skin"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The **ear** detects sound vibrations and helps us hear."
+    },
+    {
+      "id": 7,
+      "question": "Name one metal that can be attracted by a magnet.",
+      "options": [],
+      "image": "",
+      "answer": "Iron",
+      "explanation": "Iron is a magnetic material and can be attracted by a magnet."
+    },
+    {
+      "id": 8,
+      "question": "Why is it important to wash fruits before eating them?",
+      "options": ["To add taste", "To keep them cold", "To remove dirt and germs", "To make them ripe"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Washing removes harmful microbes and pesticides that can cause illness."
+    },
+    {
+      "id": 9,
+      "question": "What is the main function of the lungs in humans?",
+      "options": ["To digest food", "To filter blood", "To absorb oxygen", "To pump blood"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The lungs absorb oxygen from air and remove carbon dioxide from the blood."
+    },
+    {
+      "id": 10,
+      "question": "Name one source of protein in the human diet.",
+      "options": [],
+      "image": "",
+      "answer": "Beans",
+      "explanation": "Beans are rich in protein which is essential for body growth and repair."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following substances is a solid at room temperature?",
+      "options": ["Water", "Salt", "Oxygen", "Petrol"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Salt is a solid at room temperature. Water is liquid, and oxygen and petrol are gas and liquid respectively."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following helps plants to make food?",
+      "options": ["Sunlight", "Soil", "Rain", "Wind"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Plants use sunlight during **photosynthesis** to produce food."
+    },
+    {
+      "id": 13,
+      "question": "Why is it unsafe to touch electrical appliances with wet hands?",
+      "options": [],
+      "image": "",
+      "answer": "Water conducts electricity",
+      "explanation": "Wet hands can cause electric shock because water allows electricity to flow easily."
+    },
+    {
+      "id": 14,
+      "question": "Which part of the body helps in detecting smell?",
+      "options": ["Mouth", "Eyes", "Nose", "Skin"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The **nose** contains smell receptors that detect scents and odors."
+    },
+    {
+      "id": 15,
+      "question": "Name one environmental problem caused by cutting down too many trees.",
+      "options": [],
+      "image": "",
+      "answer": "Deforestation",
+      "explanation": "Excessive tree cutting leads to deforestation, which reduces rainfall and causes soil erosion."
+    },
+    {
+      "id": 16,
+      "question": "What type of change is melting ice?",
+      "options": ["Physical change", "Chemical change", "Permanent change", "Biological change"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Melting is a **physical change** because it does not alter the substance's chemical composition."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is **not** a good way to conserve water?",
+      "options": ["Closing taps properly", "Fixing leaks", "Using more water for cleaning", "Watering plants in the morning"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Using more water wastes it. Conservation involves reducing unnecessary use."
+    },
+    {
+      "id": 18,
+      "question": "What do we call the young one of a frog?",
+      "options": ["Chick", "Tadpole", "Larva", "Fry"],
+      "image": "",
+      "answer": 1,
+      "explanation": "A **tadpole** is the larval stage in a frog's life cycle."
+    },
+    {
+      "id": 19,
+      "question": "Why should we not dispose of plastic waste in rivers?",
+      "options": [],
+      "image": "",
+      "answer": "It pollutes water",
+      "explanation": "Plastic takes years to decompose and can harm aquatic life and water quality."
+    },
+    {
+      "id": 20,
+      "question": "Which process changes liquid water into water vapour?",
+      "options": ["Condensation", "Evaporation", "Freezing", "Melting"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Evaporation is when liquid turns to gas due to heat."
+    }
+  ]
+}

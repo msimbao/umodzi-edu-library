@@ -1,0 +1,182 @@
+{
+  "id": "20252107SCIG7_1",
+  "title": "Grade 7 Science Mock Exam 1",
+  "subject": "Science",
+  "grade": 7,
+  "cost": 0,
+  "description": "This is a 20-question mock Science exam based on the Zambian Grade 7 syllabus. It includes multiple-choice and short answer questions with high-quality, syllabus-aligned content.",
+  "difficulty": "medium",
+  "totalQuestions": 20,
+  "estimatedTime": 40,
+  "questions": [
+    {
+      "id": "summary",
+      "question": "This is a **mock Grade 7 Science exam**. You will answer questions on the environment, energy, matter, human biology, and scientific tools. Some questions are multiple choice, others require short answers. Read each question carefully and choose or write the correct answer.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 1,
+      "question": "Which part of a green plant is primarily responsible for making food through photosynthesis?",
+      "options": ["Stem", "Roots", "Leaves", "Flowers"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Leaves contain chloroplasts with chlorophyll that absorb sunlight and convert carbon dioxide and water into glucose during photosynthesis."
+    },
+    {
+      "id": 2,
+      "question": "What do we call animals that feed on both plants and other animals?",
+      "options": ["Herbivores", "Carnivores", "Omnivores", "Detritivores"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Omnivores eat both plant material and animal matter, giving them a varied diet. Examples include humans and baboons."
+    },
+    {
+      "id": 3,
+      "question": "Name the gas that is essential for human respiration.",
+      "options": [],
+      "image": "",
+      "answer": "Oxygen",
+      "explanation": "Oxygen is used in cells to release energy from food in a process called aerobic respiration."
+    },
+    {
+      "id": 4,
+      "question": "Which organ in the human body is responsible for filtering waste from the blood?",
+      "options": ["Liver", "Lungs", "Kidneys", "Stomach"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The kidneys filter urea, excess salts, and water from the blood to form urine."
+    },
+    {
+      "id": 5,
+      "question": "Which component of blood is responsible for carrying oxygen?",
+      "options": ["White blood cells", "Red blood cells", "Platelets", "Plasma"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Red blood cells contain hemoglobin, a protein that binds with oxygen and transports it around the body."
+    },
+    {
+      "id": 6,
+      "question": "State one method of making dirty water safe for drinking at home.",
+      "options": [],
+      "image": "",
+      "answer": "Boiling",
+      "explanation": "Boiling kills harmful bacteria and parasites, making water safe for consumption."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a renewable source of energy?",
+      "options": ["Coal", "Diesel", "Solar", "Petrol"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Solar energy is renewable and sustainable because it is naturally replenished and does not run out."
+    },
+    {
+      "id": 8,
+      "question": "What happens to most metals when they are heated?",
+      "options": ["They contract", "They melt immediately", "They expand", "They rust"],
+      "image": "",
+      "answer": 2,
+      "explanation": "When heated, metal particles move faster and spread apart, causing the metal to expand."
+    },
+    {
+      "id": 9,
+      "question": "Which part of the digestive system is responsible for most nutrient absorption?",
+      "options": ["Stomach", "Small intestine", "Large intestine", "Esophagus"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The inner walls of the small intestine are lined with villi that absorb nutrients into the bloodstream."
+    },
+    {
+      "id": 10,
+      "question": "Name one cause of water pollution in rural areas.",
+      "options": [],
+      "image": "",
+      "answer": "Open defecation",
+      "explanation": "Human waste from open defecation can enter water sources and spread diseases like cholera."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following substances is a mixture?",
+      "options": ["Salt", "Air", "Water", "Sugar"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Air is a mixture of gases, including nitrogen, oxygen, carbon dioxide, and others."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following materials is the best conductor of electricity?",
+      "options": ["Wood", "Copper", "Plastic", "Rubber"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Copper is a metal with free electrons that allow electric current to pass through easily."
+    },
+    {
+      "id": 13,
+      "question": "State one function of the skeleton in the human body.",
+      "options": [],
+      "image": "",
+      "answer": "Support",
+      "explanation": "The skeleton supports the body and gives it shape, allowing us to stand upright."
+    },
+    {
+      "id": 14,
+      "question": "Which method of preserving food involves removing water from it?",
+      "options": ["Freezing", "Drying", "Salting", "Canning"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Drying removes moisture, which prevents the growth of bacteria and fungi that spoil food."
+    },
+    {
+      "id": 15,
+      "question": "What is the name of the process by which plants lose water through their leaves?",
+      "options": ["Transpiration", "Respiration", "Evaporation", "Condensation"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Transpiration is the loss of water vapor through the stomata of leaves."
+    },
+    {
+      "id": 16,
+      "question": "Give one advantage of using manure instead of chemical fertilizer.",
+      "options": [],
+      "image": "",
+      "answer": "Improves soil fertility",
+      "explanation": "Manure improves soil structure and adds organic matter, which increases fertility naturally."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following best describes a habitat?",
+      "options": ["A type of plant", "A kind of climate", "The natural home of an organism", "A feeding relationship"],
+      "image": "",
+      "answer": 2,
+      "explanation": "A habitat is the place where an organism lives and finds food, water, and shelter."
+    },
+    {
+      "id": 18,
+      "question": "What is one effect of burning fossil fuels on the environment?",
+      "options": ["Soil erosion", "Acid rain", "Deforestation", "Water loss"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Fossil fuels release sulphur and nitrogen oxides which can combine with rainwater to form acid rain."
+    },
+    {
+      "id": 19,
+      "question": "State one reason why it is important to wash hands before eating.",
+      "options": [],
+      "image": "",
+      "answer": "To remove germs",
+      "explanation": "Washing hands removes germs that could cause diseases like diarrhoea and typhoid."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following shows an example of a reversible change?",
+      "options": ["Burning paper", "Boiling water", "Rusting iron", "Cooking an egg"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Boiling water is reversible because when cooled, steam condenses back into water."
+    }
+  ]
+}

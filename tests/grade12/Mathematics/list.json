@@ -1,9 +1,14 @@
 [
     {
-        "id": "20250708_1",
-        "title": "Easy Maths",
-        "difficulty": "easy",
-        "cost": "free",
-        "link": "https://raw.githubusercontent.com/msimbao/umodziLibrary/refs/heads/main/tests/grade12/Mathematics/files/20250708_1.json"
+  "id": "20252107MATG12_1",
+  "title": "Grade 12 Mathematics Mock Exam 1",
+  "subject": "Mathematics",
+  "grade": 12,
+  "cost": 0,
+  "description": "A 10-question Grade 12 Mathematics mock exam based on the Zambian syllabus. Includes detailed explanations to strengthen conceptual understanding.",
+  "difficulty": "hard",
+  "totalQuestions": 10,
+  "estimatedTime": 60,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/Mathematics/files/20252107MATG12_1.json",
     }
 ]

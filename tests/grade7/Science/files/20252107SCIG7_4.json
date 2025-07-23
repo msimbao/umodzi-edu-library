@@ -1,0 +1,182 @@
+{
+  "id": "20252107SCIG7_4",
+  "title": "Grade 7 Science Mock Exam 4",
+  "subject": "Science",
+  "grade": 7,
+  "cost": 0,
+  "description": "This is the fourth mock Science exam for Grade 7 Zambian learners. It covers key areas such as energy, the environment, matter, and human health with multiple-choice and short-answer questions.",
+  "difficulty": "medium",
+  "totalQuestions": 20,
+  "estimatedTime": 40,
+  "questions": [
+    {
+      "id": "summary",
+      "question": "This is the **fourth mock Grade 7 Science exam**. The questions test your understanding of key science concepts such as matter, energy, the human body, environment, and safety. Read each question carefully and choose or write the correct answer.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 1,
+      "question": "Which type of change results in the formation of a new substance?",
+      "options": ["Physical change", "Temporary change", "Chemical change", "Reversible change"],
+      "image": "",
+      "answer": 2,
+      "explanation": "A chemical change produces a new substance and is often irreversible, like burning wood."
+    },
+    {
+      "id": 2,
+      "question": "What is the function of the heart in the human body?",
+      "options": [],
+      "image": "",
+      "answer": "To pump blood",
+      "explanation": "The heart pumps oxygenated and deoxygenated blood throughout the body using its chambers and valves."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following best describes condensation?",
+      "options": ["Water turning into steam", "Steam changing into water droplets", "Ice melting into water", "Rainfall being absorbed into the soil"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Condensation is when water vapor in the air cools and changes back into liquid water."
+    },
+    {
+      "id": 4,
+      "question": "What is one way to prevent soil erosion in farming areas?",
+      "options": [],
+      "image": "",
+      "answer": "Planting cover crops",
+      "explanation": "Cover crops reduce the impact of rain on the soil and hold it together with their roots."
+    },
+    {
+      "id": 5,
+      "question": "Which organ helps in the digestion of food and also produces bile?",
+      "options": ["Stomach", "Pancreas", "Liver", "Small intestine"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The liver produces bile which helps digest fats and stores nutrients."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a good safety practice in a science laboratory?",
+      "options": ["Tasting unknown substances", "Running in the lab", "Wearing safety goggles", "Mixing random chemicals"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Safety goggles protect the eyes from splashes, sparks, or broken glass."
+    },
+    {
+      "id": 7,
+      "question": "What is the main source of light energy on Earth?",
+      "options": ["Fire", "Sun", "Electricity", "Stars"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The sun provides the Earth with natural light and heat energy."
+    },
+    {
+      "id": 8,
+      "question": "Name the three states of matter.",
+      "options": [],
+      "image": "",
+      "answer": "Solid, liquid, gas",
+      "explanation": "Matter exists in three common states—solid (fixed shape), liquid (flows), and gas (spreads out)."
+    },
+    {
+      "id": 9,
+      "question": "Which part of the plant anchors it to the ground and absorbs water?",
+      "options": ["Stem", "Leaves", "Roots", "Flowers"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Roots absorb water and minerals from the soil and anchor the plant."
+    },
+    {
+      "id": 10,
+      "question": "Give one reason why personal hygiene is important.",
+      "options": [],
+      "image": "",
+      "answer": "To prevent diseases",
+      "explanation": "Good hygiene practices like washing hands help prevent the spread of infections."
+    },
+    {
+      "id": 11,
+      "question": "Which group of animals lay eggs and have feathers?",
+      "options": ["Mammals", "Reptiles", "Birds", "Amphibians"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Birds are the only animals that have feathers and most lay eggs."
+    },
+    {
+      "id": 12,
+      "question": "What does a thermometer measure?",
+      "options": ["Wind speed", "Temperature", "Pressure", "Length"],
+      "image": "",
+      "answer": 1,
+      "explanation": "A thermometer is a scientific instrument used to measure temperature."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following best explains why metals are good conductors of electricity?",
+      "options": ["They are soft", "They contain free electrons", "They melt easily", "They are shiny"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Free electrons in metals move easily, allowing electricity to pass through quickly."
+    },
+    {
+      "id": 14,
+      "question": "Name one component of a balanced diet that provides energy.",
+      "options": [],
+      "image": "",
+      "answer": "Carbohydrates",
+      "explanation": "Carbohydrates such as bread, nshima, and rice are broken down to provide energy."
+    },
+    {
+      "id": 15,
+      "question": "Which process in plants produces oxygen as a by-product?",
+      "options": ["Transpiration", "Photosynthesis", "Respiration", "Fertilization"],
+      "image": "",
+      "answer": 1,
+      "explanation": "During photosynthesis, plants use carbon dioxide and release oxygen."
+    },
+    {
+      "id": 16,
+      "question": "Give one example of a communicable disease.",
+      "options": [],
+      "image": "",
+      "answer": "Malaria",
+      "explanation": "Malaria is caused by parasites transmitted by mosquitoes and can spread in communities."
+    },
+    {
+      "id": 17,
+      "question": "Which of these changes is **irreversible**?",
+      "options": ["Freezing water", "Melting wax", "Burning wood", "Evaporating water"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Burning wood produces ash and smoke which cannot be changed back to wood."
+    },
+    {
+      "id": 18,
+      "question": "Which part of the body helps in breathing and is protected by the ribcage?",
+      "options": ["Heart", "Stomach", "Lungs", "Kidneys"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The lungs are responsible for gas exchange and are located in the chest cavity protected by ribs."
+    },
+    {
+      "id": 19,
+      "question": "What is the main cause of deforestation?",
+      "options": ["Planting trees", "Rearing livestock", "Cutting down trees", "Building houses"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Deforestation is mainly caused by cutting down trees for timber, charcoal, or farming land."
+    },
+    {
+      "id": 20,
+      "question": "Name one method used to separate sand from water.",
+      "options": [],
+      "image": "",
+      "answer": "Filtration",
+      "explanation": "Filtration involves passing the mixture through a filter that traps sand and allows water to pass through."
+    }
+  ]
+}

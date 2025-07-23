@@ -1,0 +1,183 @@
+{
+  "id": "20252107SCIG7_3",
+  "title": "Grade 7 Science Mock Exam 3",
+  "subject": "Science",
+  "grade": 7,
+  "cost": 0,
+  "description": "This is the third mock Grade 7 Science exam featuring 20 high-quality, syllabus-aligned questions with explanations to aid learning.",
+  "difficulty": "medium",
+  "totalQuestions": 20,
+  "estimatedTime": 40,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Science/files/20252107SCIG7_3.json",
+  "questions": [
+    {
+      "id": "summary",
+      "question": "This is a **mock Grade 7 Science exam**. You will answer questions on topics like energy, the body, the environment, matter, and scientific processes. Some are multiple choice and others require short answers. Think carefully and answer all questions.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 1,
+      "question": "Which form of energy is produced by vibrating objects and travels through air?",
+      "options": ["Light energy", "Heat energy", "Sound energy", "Electrical energy"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Sound energy is produced by vibrations and requires a medium such as air to travel."
+    },
+    {
+      "id": 2,
+      "question": "What is the main function of white blood cells?",
+      "options": ["Transport oxygen", "Digest food", "Fight diseases", "Clot blood"],
+      "image": "",
+      "answer": 2,
+      "explanation": "White blood cells protect the body by fighting infections and destroying harmful microorganisms."
+    },
+    {
+      "id": 3,
+      "question": "Name the process by which plants make their own food using sunlight.",
+      "options": [],
+      "image": "",
+      "answer": "Photosynthesis",
+      "explanation": "Photosynthesis is the process by which green plants use sunlight, carbon dioxide, and water to make food."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a source of renewable energy?",
+      "options": ["Wind", "Biogas", "Petrol", "Solar"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Petrol is a fossil fuel and is non-renewable because it cannot be replaced in a short period of time."
+    },
+    {
+      "id": 5,
+      "question": "Which sense organ helps us to maintain balance?",
+      "options": ["Eyes", "Skin", "Ears", "Nose"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The inner ear contains structures responsible for detecting motion and maintaining balance."
+    },
+    {
+      "id": 6,
+      "question": "State one reason why boiling is a good method of making water safe for drinking.",
+      "options": [],
+      "image": "",
+      "answer": "It kills germs",
+      "explanation": "Boiling water kills bacteria and parasites that can cause waterborne diseases."
+    },
+    {
+      "id": 7,
+      "question": "What happens to water when it changes from liquid to gas?",
+      "options": ["Freezing", "Condensation", "Melting", "Evaporation"],
+      "image": "",
+      "answer": 3,
+      "explanation": "Evaporation is the process where water turns into vapor, usually when heated."
+    },
+    {
+      "id": 8,
+      "question": "Which gas do plants release into the air during photosynthesis?",
+      "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Hydrogen"],
+      "image": "",
+      "answer": 2,
+      "explanation": "During photosynthesis, plants use carbon dioxide and release oxygen as a by-product."
+    },
+    {
+      "id": 9,
+      "question": "Name one way to prevent the spread of malaria.",
+      "options": [],
+      "image": "",
+      "answer": "Use of mosquito nets",
+      "explanation": "Using mosquito nets prevents mosquito bites which transmit malaria parasites."
+    },
+    {
+      "id": 10,
+      "question": "What is the boiling point of pure water at sea level?",
+      "options": ["50°C", "75°C", "100°C", "150°C"],
+      "image": "",
+      "answer": 2,
+      "explanation": "At sea level, pure water boils at 100°C."
+    },
+    {
+      "id": 11,
+      "question": "Which body part controls all the activities in the human body?",
+      "options": ["Heart", "Brain", "Liver", "Spinal cord"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The brain is the control center of the body and processes all sensory information."
+    },
+    {
+      "id": 12,
+      "question": "Name the process of changing a liquid into a solid.",
+      "options": [],
+      "image": "",
+      "answer": "Freezing",
+      "explanation": "Freezing is the change of a liquid into a solid by cooling."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following materials will not allow electricity to pass through?",
+      "options": ["Copper", "Iron", "Rubber", "Aluminium"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Rubber is an insulator and does not conduct electricity."
+    },
+    {
+      "id": 14,
+      "question": "Why should leftover food be stored properly?",
+      "options": [],
+      "image": "",
+      "answer": "To prevent spoilage",
+      "explanation": "Proper storage prevents the growth of bacteria and other organisms that cause food to spoil."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following changes is irreversible?",
+      "options": ["Melting ice", "Evaporating water", "Cooking egg", "Condensing steam"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Cooking an egg causes chemical changes that cannot be reversed."
+    },
+    {
+      "id": 16,
+      "question": "What role do roots play in a plant?",
+      "options": ["Make food", "Absorb sunlight", "Transport oxygen", "Anchor and absorb water"],
+      "image": "",
+      "answer": 3,
+      "explanation": "Roots anchor the plant in the soil and absorb water and minerals."
+    },
+    {
+      "id": 17,
+      "question": "Name one type of simple machine used to lift heavy loads with less effort.",
+      "options": [],
+      "image": "",
+      "answer": "Pulley",
+      "explanation": "Pulleys help lift heavy objects by changing the direction of the force applied."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is used to measure temperature?",
+      "options": ["Stopwatch", "Ruler", "Thermometer", "Weighing scale"],
+      "image": "",
+      "answer": 2,
+      "explanation": "A thermometer is a tool used to measure temperature."
+    },
+    {
+      "id": 19,
+      "question": "State one way of conserving energy at home.",
+      "options": [],
+      "image": "",
+      "answer": "Switching off lights",
+      "explanation": "Turning off electrical appliances when not in use helps save energy."
+    },
+    {
+      "id": 20,
+      "question": "Why is air important to living things?",
+      "options": [],
+      "image": "",
+      "answer": "It provides oxygen",
+      "explanation": "Living things need oxygen from the air for respiration to release energy from food."
+    }
+  ]
+}

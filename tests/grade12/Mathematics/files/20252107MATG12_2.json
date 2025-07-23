@@ -1,0 +1,103 @@
+{
+  "id": "20252107MATG12_2",
+  "title": "Grade 12 Mathematics Mock Exam 2",
+  "subject": "Mathematics",
+  "grade": 12,
+  "cost": 0,
+  "description": "A 10-question Grade 12 Mathematics mock exam based on the Zambian syllabus. Includes detailed explanations to strengthen conceptual understanding. No open-ended questions included.",
+  "difficulty": "hard",
+  "totalQuestions": 10,
+  "estimatedTime": 60,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/Mathematics/files/20252107MATG12_2.json",
+  "questions": [
+    {
+      "id": "summary",
+      "question": "This is a **mock Grade 12 Mathematics exam**. You will be tested on topics such as algebra, trigonometry, calculus, probability, and coordinate geometry. Read each question carefully and choose the correct answer.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": "",
+      "non_question": true
+    },
+    {
+      "id": 1,
+      "question": "Simplify: $$\\(3x^2 - 12) $\\div (x - 2)$$",
+      "options": ["3x + 6", "3x - 6", "3x + 12", "x - 2"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Factor the numerator: $$3x^2 - 12 = 3(x^2 - 4) = 3(x - 2)(x + 2)$$. Then divide by $$x - 2$$. Result: $$3(x + 2) = 3x + 6$$."
+    },
+    {
+      "id": 2,
+      "question": "Evaluate: $$\\int_0^2 (4x + 1) dx$$",
+      "options": ["10", "9", "8", "12"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Integrate: $$\\int(4x + 1)dx = 2x^2 + x$$. Evaluate from 0 to 2: $$2(4) + 2 = 8 + 2 = 10$$."
+    },
+    {
+      "id": 3,
+      "question": "Find the value of $$\\theta$$ if $$\\sin(\\theta) = \\frac{3}{5}$$ and $$\\theta$$ is acute.",
+      "options": ["36.87°", "45°", "30°", "60°"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Use calculator or arcsin: $$\\theta = \\sin^{-1}(0.6) = 36.87°$$."
+    },
+    {
+      "id": 4,
+      "question": "What is the solution to $$\\log_2(32)$$?",
+      "options": ["4", "5", "3", "2"],
+      "image": "",
+      "answer": 1,
+      "explanation": "$$2^5 = 32$$, so $$\\log_2(32) = 5$$."
+    },
+    {
+      "id": 5,
+      "question": "Solve: $$2^{x+1} = 16$$",
+      "options": ["2", "3", "4", "5"],
+      "image": "",
+      "answer": 1,
+      "explanation": "$$2^{x+1} = 16 = 2^4$$ implies $$x + 1 = 4$$, so $$x = 3$$."
+    },
+    {
+      "id": 6,
+      "question": "Find the roots of the equation: $$x^2 - 6x + 9 = 0$$",
+      "options": ["x = 3 only", "x = -3 only", "x = 3 or -3", "x = 6"],
+      "image": "",
+      "answer": 0,
+      "explanation": "$$x^2 - 6x + 9 = (x - 3)^2$$, so repeated root at $$x = 3$$."
+    },
+    {
+      "id": 7,
+      "question": "Calculate the volume of a cylinder with radius 3 cm and height 5 cm (Use $$\\pi = 3.14$$)",
+      "options": ["141.3 cm³", "47.1 cm³", "94.2 cm³", "62.8 cm³"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Volume = $$\\pi r^2 h = 3.14 \\times 9 \\times 5 = 141.3$$."
+    },
+    {
+      "id": 8,
+      "question": "If $$P(A) = 0.6$$ and $$P(B) = 0.3$$, and A and B are independent, what is $$P(A \\cap B)$$?",
+      "options": ["0.18", "0.9", "0.5", "0.3"],
+      "image": "",
+      "answer": 0,
+      "explanation": "If A and B are independent, then $$P(A \\cap B) = P(A) \\cdot P(B) = 0.6 \\cdot 0.3 = 0.18$$."
+    },
+    {
+      "id": 9,
+      "question": "Find the gradient of the line: $$y = 4x - 7$$",
+      "options": ["-7", "0", "4", "1"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The gradient is the coefficient of $$x$$, which is 4."
+    },
+    {
+      "id": 10,
+      "question": "What is the next term in the sequence: 2, 6, 12, 20, ... ?",
+      "options": ["30", "28", "24", "36"],
+      "image": "",
+      "answer": 0,
+      "explanation": "The pattern increases by +4, +6, +8,... So next difference is +10: $$20 + 10 = 30$$."
+    }
+  ]
+}

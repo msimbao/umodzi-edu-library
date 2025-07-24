@@ -202,10 +202,10 @@
     },
     {
       "id": 15,
-      "question": "Draw or describe a **simple map** of your school and include at least 3 features.",
+      "question": "What is the name of the question format that is the opposite of multiple choice?",
       "options": [],
       "image": "",
-      "answer": "Open-ended",
+      "answer": "Open-ended. short form",
       "explanation": "Learners are expected to apply spatial awareness and map elements.",
       "follow_up": false
     }

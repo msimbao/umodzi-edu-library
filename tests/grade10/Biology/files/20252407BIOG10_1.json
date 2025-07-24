@@ -1,0 +1,230 @@
+{
+  "id": "20252407BIOG10_1",
+  "title": "Mock Test 1",
+  "subject": "Biology",
+  "grade": 10,
+  "cost": 0,
+  "description": "A 15-question mock exam covering key Grade 10 Biology concepts from the Zambian syllabus including cells, nutrition, respiration, and classification.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "questions": [
+    {
+      "id": "intro",
+      "non_question": true,
+      "question": "Welcome to the **Grade 10 Biology Mock Exam**. This paper consists of 15 questions covering various biology topics. Read each question carefully before answering.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 1,
+      "question": "Which organelle is responsible for energy production in a cell?",
+      "options": [
+        "Nucleus",
+        "Chloroplast",
+        "Mitochondrion",
+        "Ribosome"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "The **mitochondrion** is the powerhouse of the cell, responsible for cellular respiration and energy (ATP) production."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following best defines osmosis?",
+      "options": [
+        "Movement of solutes from high to low concentration",
+        "Movement of water from high to low concentration across a selectively permeable membrane",
+        "Movement of molecules against a concentration gradient",
+        "Equal distribution of particles in a solution"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Osmosis is the movement of **water molecules** across a selectively permeable membrane from an area of high water concentration to an area of low water concentration."
+    },
+    {
+      "id": 3,
+      "question": "Name the process by which green plants manufacture their own food using sunlight.",
+      "options": [],
+      "image": "",
+      "answer": "photosynthesis",
+      "explanation": "Photosynthesis is the process by which green plants use **sunlight** to synthesize food from **carbon dioxide** and **water**."
+    },
+    {
+      "id": "section_nutrition",
+      "non_question": true,
+      "question": "**Section: Nutrition and Digestion** — The following questions test your knowledge on how living organisms obtain and use food.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "Which enzyme is responsible for breaking down starch into maltose in the mouth?",
+      "options": [
+        "Pepsin",
+        "Lipase",
+        "Amylase",
+        "Trypsin"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Amylase, specifically **salivary amylase**, begins the breakdown of starch in the mouth."
+    },
+    {
+      "id": 5,
+      "question": "State one function of bile in the digestive system.",
+      "options": [],
+      "image": "",
+      "answer": "emulsifies fats, breaks down fats into droplets",
+      "explanation": "Bile emulsifies large fat droplets into smaller ones, aiding the action of **lipase** during digestion."
+    },
+    {
+      "id": "comprehension_passage",
+      "non_question": true,
+      "question": "**Comprehension Passage** — Read the passage below and answer the questions that follow.\n\nA student conducted an experiment to test the effect of light intensity on the rate of photosynthesis. He used a water plant placed in a beaker of water and varied the distance of a lamp to measure the number of bubbles produced in one minute. He found that as the lamp got closer, more bubbles were produced, indicating a higher rate of photosynthesis.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "follow_up": true,
+      "question": "What variable was the student changing in the experiment?",
+      "options": [
+        "Temperature of water",
+        "Distance of the lamp",
+        "Type of plant",
+        "Amount of carbon dioxide"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "The student changed the **distance of the lamp**, which affects **light intensity**."
+    },
+    {
+      "id": 7,
+      "follow_up": true,
+      "question": "What was the dependent variable in this experiment?",
+      "options": [],
+      "image": "",
+      "answer": "number of bubbles, rate of photosynthesis",
+      "explanation": "The **rate of photosynthesis**, measured by the **number of bubbles**, is the dependent variable."
+    },
+    {
+      "id": 8,
+      "question": "Which component of the blood is primarily responsible for clotting?",
+      "options": [
+        "Red blood cells",
+        "Plasma",
+        "White blood cells",
+        "Platelets"
+      ],
+      "image": "",
+      "answer": 3,
+      "explanation": "**Platelets** are fragments of cells that help in blood clotting by forming a plug at the site of injury."
+    },
+    {
+      "id": "section_respiration",
+      "non_question": true,
+      "question": "**Section: Respiration** — Answer questions related to aerobic and anaerobic respiration.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "What is the word equation for aerobic respiration?",
+      "options": [],
+      "image": "",
+      "answer": "glucose + oxygen → carbon dioxide + water + energy",
+      "explanation": "The standard word equation: **glucose + oxygen → carbon dioxide + water + energy (ATP)**."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following occurs during anaerobic respiration in humans?",
+      "options": [
+        "Production of lactic acid",
+        "Release of oxygen",
+        "High yield of ATP",
+        "Production of carbon dioxide and water"
+      ],
+      "image": "",
+      "answer": 0,
+      "explanation": "**Lactic acid** is produced in muscles during anaerobic respiration due to lack of oxygen."
+    },
+    {
+      "id": "section_classification",
+      "non_question": true,
+      "question": "**Section: Classification** — Questions here assess your knowledge of grouping organisms.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "To which kingdom do **mushrooms** belong?",
+      "options": [
+        "Plantae",
+        "Animalia",
+        "Fungi",
+        "Protista"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Mushrooms are non-green and reproduce using spores, placing them in the **Fungi** kingdom."
+    },
+    {
+      "id": 12,
+      "question": "Which level of classification is more specific than class?",
+      "options": [
+        "Phylum",
+        "Order",
+        "Kingdom",
+        "Domain"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "The sequence is: **Kingdom → Phylum → Class → Order → Family → Genus → Species**."
+    },
+    {
+      "id": 13,
+      "question": "Give one reason why viruses are not classified under any of the five kingdoms.",
+      "options": [],
+      "image": "",
+      "answer": "not made of cells, cannot reproduce on their own",
+      "explanation": "Viruses lack cellular structure and can only reproduce within a host cell."
+    },
+    {
+      "id": 14,
+      "question": "Which characteristic is shared by both plants and animals?",
+      "options": [
+        "Photosynthesis",
+        "Ability to move",
+        "Multicellularity",
+        "Cell wall presence"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Both plants and animals are **multicellular** organisms."
+    },
+    {
+      "id": 15,
+      "question": "What is the primary role of the xylem in plants?",
+      "options": [
+        "Transport of food",
+        "Transport of water and minerals",
+        "Photosynthesis",
+        "Support reproduction"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "The **xylem** transports water and dissolved minerals from the roots to the rest of the plant."
+    }
+  ]
+}

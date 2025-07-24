@@ -1,8 +1,8 @@
-follow this format to make a model ecz exam: dictionary with the following keys and variable types: id (string), title (string), subject (string), grade (number), cost (number), description (string), difficulty (string), totalQuestions (number), estimatedTime (number), link (string), questions (array of dictionaries).
+follow this format to make a model examination council of zambia test: dictionary with the following keys and variable types: id (string), title (string), subject (string), grade (number), cost (number), description (string), difficulty (string), totalQuestions (number), estimatedTime (number), link (string), questions (array of dictionaries).
 
 the id should be a unique string made by combining the date first three letters of subject grade and number after a dash if making multiple dictionaries e.g 20252107MATG7_1
 
-the title should be short and concise and unique
+the title should be short and concise and unique but simple like "sample test 1" or the one word that is the of the central topic covered. so even the test can be a mix of questions from different topics or one central topic in that syllabus
 
 the link should be a url that is: "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade{grade}/{subject}/files/{id}.json" where {grade} {subject} and {id} are the ones you will put in the dictionary.
 
@@ -16,10 +16,15 @@ if you need to make some parts bold, put the words between double asterisks, e.g
 
 the first question should always be a non_question with the summary of the quiz you are about to take.
 
-a few questions should have images to mimic how actual past papers are made. 
-
 some questions can be open ended where the options array is a list with 0 entries and the answer is a string
 
 make sure to do some quality control on the question and answers so that they are correct and not just ai generated slop that doesnt make sense or isnt right.
 
-use it to make an grade 7 zambian syllabus social studies past paper that is 15 questions long
+some questions can be short form answer where the options array is a list with 0 entries and the answer is a string with different possible answers to the question separated by a comma
+
+also follow the optional settings below:
+
+should images be generated: no
+should short form answers be generated: yes 
+
+use it to make an grade 10 zambian syllabus biology past paper that is 15 questions long

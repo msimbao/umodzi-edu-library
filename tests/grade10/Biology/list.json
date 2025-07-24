@@ -1,0 +1,25 @@
+[
+    {
+  "id": "20252407BIOG10_1",
+  "title": "Mock Test 1",
+  "subject": "Biology",
+  "grade": 10,
+  "cost": 0,
+  "description": "A 15-question mock exam covering key Grade 10 Biology concepts from the Zambian syllabus including cells, nutrition, respiration, and classification.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Biology/files/20252407BIOG10_1.json"
+    },
+    {  "id": "20252407BIOG10_2",
+  "title": "Photosynthesis",
+  "subject": "Biology",
+  "grade": 10,
+  "cost": 0,
+  "description": "A sample Grade 10 Biology test focused on photosynthesis and related processes, with a mix of multiple choice, open-ended, and short form questions.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Biology/files/20252407BIOG10_1.json"
+  }
+]

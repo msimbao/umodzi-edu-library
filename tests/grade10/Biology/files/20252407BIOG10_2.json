@@ -1,0 +1,217 @@
+{
+  "id": "20252407BIOG10_2",
+  "title": "Photosynthesis",
+  "subject": "Biology",
+  "grade": 10,
+  "cost": 0,
+  "description": "A sample Grade 10 Biology test focused on photosynthesis and related processes, with a mix of multiple choice, open-ended, and short form questions.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Biology/files/20252407BIOG10_1.json",
+  "questions": [
+    {
+      "id": "introduction",
+      "non_question": true,
+      "question": "This **sample Biology test** covers key Grade 10 topics from the Zambian syllabus, including **photosynthesis**, **nutrition**, and **plant biology**. There are 15 graded questions. Read each carefully and answer to the best of your ability.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 1,
+      "question": "What is the main site of photosynthesis in a plant?",
+      "options": [
+        "Stem",
+        "Root",
+        "Leaf",
+        "Flower"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Photosynthesis occurs mainly in the **leaves** due to the presence of chloroplasts containing chlorophyll."
+    },
+    {
+      "id": 2,
+      "question": "Which gas is taken in by plants during photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Plants absorb **carbon dioxide** from the atmosphere through small openings called stomata."
+    },
+    {
+      "id": 3,
+      "question": "Write the word equation for photosynthesis.",
+      "options": [],
+      "image": "",
+      "answer": "carbon dioxide + water → glucose + oxygen",
+      "explanation": "The correct word equation: **carbon dioxide + water → glucose + oxygen**, using sunlight and chlorophyll."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT necessary for photosynthesis to occur?",
+      "options": [
+        "Carbon dioxide",
+        "Sunlight",
+        "Oxygen",
+        "Water"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Oxygen is a **product**, not a **requirement**, for photosynthesis."
+    },
+    {
+      "id": 5,
+      "question": "What pigment is responsible for capturing light energy in plants?",
+      "options": [
+        "Xylem",
+        "Chlorophyll",
+        "Glucose",
+        "Phloem"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "**Chlorophyll** is the green pigment in chloroplasts that absorbs sunlight for photosynthesis."
+    },
+    {
+      "id": "section_leaf_structure",
+      "non_question": true,
+      "question": "**Section: Leaf Structure and Adaptations** — The following questions focus on how the leaf is adapted for photosynthesis.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "Name one adaptation of a leaf that increases its efficiency in photosynthesis.",
+      "options": [],
+      "image": "",
+      "answer": "large surface area, thin, presence of chloroplasts",
+      "explanation": "Leaves have a **large surface area** and are **thin** to allow maximum light absorption and quick gas exchange."
+    },
+    {
+      "id": 7,
+      "question": "What is the function of stomata in leaves?",
+      "options": [
+        "Absorb sunlight",
+        "Transport water",
+        "Regulate gas exchange",
+        "Produce chlorophyll"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Stomata control the exchange of **gases**, allowing **CO₂ in** and **O₂ out** during photosynthesis."
+    },
+    {
+      "id": 8,
+      "question": "Explain why the upper epidermis of a leaf is usually transparent.",
+      "options": [],
+      "image": "",
+      "answer": "to allow light to pass through, lets light reach chloroplasts",
+      "explanation": "The **transparent epidermis** lets **light penetrate** into the inner photosynthetic tissues of the leaf."
+    },
+    {
+      "id": "comprehension_passage",
+      "non_question": true,
+      "question": "**Comprehension Passage** — Read and refer to the experiment below:\n\nA student investigated how light intensity affects the rate of photosynthesis. They placed an aquatic plant in a beaker of water and varied the distance of a lamp. They measured the number of bubbles produced in one minute. As the lamp got closer, the number of bubbles increased.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "follow_up": true,
+      "question": "What was the independent variable in the experiment?",
+      "options": [
+        "Number of bubbles",
+        "Size of plant",
+        "Distance of the lamp",
+        "Amount of water"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "The **distance of the lamp** was the variable being changed to affect light intensity."
+    },
+    {
+      "id": 10,
+      "follow_up": true,
+      "question": "Suggest one way the student could improve the accuracy of their results.",
+      "options": [],
+      "image": "",
+      "answer": "repeat the experiment, average the results, keep other variables constant",
+      "explanation": "Accuracy improves by **repeating trials**, **averaging results**, and **controlling other variables** like temperature."
+    },
+    {
+      "id": "section_products",
+      "non_question": true,
+      "question": "**Section: Products and Uses of Photosynthesis** — This part tests understanding of what plants produce and how these products are used.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "What happens to the glucose produced in photosynthesis?",
+      "options": [
+        "It is stored as starch",
+        "It is lost in respiration",
+        "It is absorbed by the soil",
+        "It evaporates through leaves"
+      ],
+      "image": "",
+      "answer": 0,
+      "explanation": "Glucose can be **stored as starch**, used in **respiration**, or converted into other organic compounds."
+    },
+    {
+      "id": 12,
+      "question": "Which element is required for making proteins in plants and is absorbed through roots?",
+      "options": [
+        "Magnesium",
+        "Iron",
+        "Carbon",
+        "Nitrate"
+      ],
+      "image": "",
+      "answer": 3,
+      "explanation": "**Nitrate ions** are used to make **amino acids** and proteins in plants."
+    },
+    {
+      "id": 13,
+      "question": "Explain why a plant kept in the dark for a week will not test positive for starch.",
+      "options": [],
+      "image": "",
+      "answer": "no photosynthesis, no glucose, no starch formed",
+      "explanation": "Without light, **photosynthesis does not occur**, so **no glucose** is produced to be converted into starch."
+    },
+    {
+      "id": 14,
+      "question": "Which test is used to confirm the presence of starch in leaves?",
+      "options": [
+        "Benedict’s test",
+        "Iodine test",
+        "Biuret test",
+        "Ethanol test"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "**Iodine solution** turns **blue-black** in the presence of starch."
+    },
+    {
+      "id": 15,
+      "question": "Give one reason why photosynthesis is important to humans.",
+      "options": [],
+      "image": "",
+      "answer": "produces oxygen, provides food, maintains air quality",
+      "explanation": "Photosynthesis **produces oxygen** and is the **source of food** for nearly all organisms."
+    }
+  ]
+}

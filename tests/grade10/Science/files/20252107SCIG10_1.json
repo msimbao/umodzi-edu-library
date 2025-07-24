@@ -1,0 +1,208 @@
+{
+  "id": "20252107SCIG10_1",
+  "title": "Sample Test 1",
+  "subject": "Science",
+  "grade": 10,
+  "cost": 0,
+  "description": "This sample test covers a mix of Grade 10 science topics including respiration, chemical reactions, energy, and the human body.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "questions": [
+    {
+      "id": "introduction",
+      "non_question": true,
+      "question": "Welcome to this **Grade 10 Science Sample Test**. This paper contains 15 questions across various topics such as respiration, chemical equations, and human physiology. Read each question carefully and answer as best as you can.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 1,
+      "question": "Which of the following is the **correct word equation** for aerobic respiration?",
+      "options": [
+        "Glucose + Oxygen → Carbon dioxide + Water + Energy",
+        "Oxygen + Carbon dioxide → Glucose + Water",
+        "Glucose → Lactic acid + Energy",
+        "Glucose + Oxygen → Carbon monoxide + Water"
+      ],
+      "image": "",
+      "answer": 0,
+      "explanation": "Aerobic respiration is the process by which cells use oxygen to break down glucose into carbon dioxide, water, and energy."
+    },
+    {
+      "id": 2,
+      "question": "Which process in plants is responsible for making food?",
+      "options": [
+        "Respiration",
+        "Germination",
+        "Photosynthesis",
+        "Transpiration"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Photosynthesis is the process where plants make their own food using sunlight, carbon dioxide, and water."
+    },
+    {
+      "id": 3,
+      "question": "What is the main function of red blood cells?",
+      "options": [
+        "Fight infections",
+        "Carry oxygen",
+        "Clot blood",
+        "Break down fats"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Red blood cells contain hemoglobin which binds and transports oxygen throughout the body."
+    },
+    {
+      "id": 4,
+      "question": "State the chemical symbol for Sodium.",
+      "options": [],
+      "image": "",
+      "answer": "Na",
+      "explanation": "The symbol 'Na' comes from the Latin name 'Natrium' for Sodium."
+    },
+    {
+      "id": 5,
+      "question": "Which type of energy is stored in food?",
+      "options": [
+        "Kinetic energy",
+        "Thermal energy",
+        "Chemical energy",
+        "Light energy"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Food stores energy in the form of chemical energy, which is released during respiration."
+    },
+    {
+      "id": "passage",
+      "non_question": true,
+      "question": "Read the following passage carefully and answer the questions that follow:\n\n**Plants respond to various stimuli such as light, gravity, and touch. These responses help plants survive in their environments. Phototropism is the growth of a plant towards light, while geotropism is the response to gravity. Auxins are hormones involved in these processes.**",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "follow_up": true,
+      "question": "What is **phototropism**?",
+      "options": [
+        "Growth towards gravity",
+        "Movement in response to touch",
+        "Growth in response to water",
+        "Growth towards light"
+      ],
+      "image": "",
+      "answer": 3,
+      "explanation": "Phototropism is the growth of plant parts towards light, helping them absorb more energy for photosynthesis."
+    },
+    {
+      "id": 7,
+      "follow_up": true,
+      "question": "Which plant hormone is mainly responsible for the responses described in the passage?",
+      "options": [
+        "Gibberellin",
+        "Auxin",
+        "Ethylene",
+        "Cytokinin"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Auxins are the key plant hormones that regulate growth responses such as phototropism and geotropism."
+    },
+    {
+      "id": 8,
+      "question": "The smallest unit of a chemical element is a(n) ___.",
+      "options": [],
+      "image": "",
+      "answer": "atom",
+      "explanation": "An atom is the smallest unit of an element that retains its chemical properties."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is **not** a physical change?",
+      "options": [
+        "Melting of ice",
+        "Boiling of water",
+        "Burning of wood",
+        "Dissolving sugar in water"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Burning of wood involves a chemical reaction, resulting in new substances like ash and gases."
+    },
+    {
+      "id": 10,
+      "question": "Which part of the human brain controls breathing and heartbeat?",
+      "options": [
+        "Cerebrum",
+        "Medulla",
+        "Cerebellum",
+        "Spinal cord"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "The medulla oblongata controls involuntary actions such as breathing and heartbeat."
+    },
+    {
+      "id": 11,
+      "question": "What gas is produced when zinc reacts with hydrochloric acid?",
+      "options": [],
+      "image": "",
+      "answer": "hydrogen",
+      "explanation": "The reaction between zinc and hydrochloric acid produces hydrogen gas and zinc chloride."
+    },
+    {
+      "id": 12,
+      "question": "Which human body system is responsible for transporting nutrients and oxygen?",
+      "options": [
+        "Digestive system",
+        "Respiratory system",
+        "Circulatory system",
+        "Nervous system"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "The circulatory system uses blood vessels to deliver nutrients and oxygen to body cells."
+    },
+    {
+      "id": 13,
+      "question": "Write the word equation for the reaction between magnesium and hydrochloric acid.",
+      "options": [],
+      "image": "",
+      "answer": "Magnesium + Hydrochloric acid → Magnesium chloride + Hydrogen",
+      "explanation": "This is a classic acid-metal reaction where magnesium reacts with hydrochloric acid to form magnesium chloride and hydrogen gas."
+    },
+    {
+      "id": 14,
+      "question": "Which of these substances is **not** a compound?",
+      "options": [
+        "Water",
+        "Carbon dioxide",
+        "Oxygen",
+        "Sodium chloride"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Oxygen (O₂) is an element, not a compound, because it consists of only one type of atom."
+    },
+    {
+      "id": 15,
+      "question": "What is the pH value of a **neutral** substance?",
+      "options": [
+        "0",
+        "7",
+        "10",
+        "14"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "A neutral substance, like pure water, has a pH of 7."
+    }
+  ]
+}

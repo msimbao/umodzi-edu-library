@@ -1,0 +1,208 @@
+{
+  "id": "20252107SCIG10_2",
+  "title": "Chemical Reactions",
+  "subject": "Science",
+  "grade": 10,
+  "cost": 0,
+  "description": "This test focuses on chemical reactions, types of changes, acids and bases, and introductory organic chemistry. It includes comprehension and structured questions.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "questions": [
+    {
+      "id": "introduction",
+      "non_question": true,
+      "question": "Welcome to this **Grade 10 Science Quiz** focused on **chemical reactions** and changes of matter. This paper includes multiple choice, comprehension, and short-form questions to test your understanding of key chemical principles.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 1,
+      "question": "Which of the following is an example of a **chemical change**?",
+      "options": [
+        "Melting ice",
+        "Boiling water",
+        "Burning wood",
+        "Breaking glass"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Burning wood results in the formation of new substances and is a chemical change."
+    },
+    {
+      "id": 2,
+      "question": "The substance that speeds up a chemical reaction without being used up is called a...",
+      "options": [
+        "Reactant",
+        "Solute",
+        "Enzyme",
+        "Catalyst"
+      ],
+      "image": "",
+      "answer": 3,
+      "explanation": "Catalysts speed up chemical reactions without undergoing permanent change."
+    },
+    {
+      "id": 3,
+      "question": "Which gas is released when an acid reacts with a metal carbonate?",
+      "options": [],
+      "image": "",
+      "answer": "carbon dioxide",
+      "explanation": "The reaction between an acid and a metal carbonate releases carbon dioxide gas."
+    },
+    {
+      "id": 4,
+      "question": "Acids have a pH value that is...",
+      "options": [
+        "Less than 7",
+        "Equal to 7",
+        "Greater than 7",
+        "Exactly 14"
+      ],
+      "image": "",
+      "answer": 0,
+      "explanation": "Acids have pH values lower than 7."
+    },
+    {
+      "id": 5,
+      "question": "What color does blue litmus paper turn in an acidic solution?",
+      "options": [
+        "Blue",
+        "Green",
+        "Yellow",
+        "Red"
+      ],
+      "image": "",
+      "answer": 3,
+      "explanation": "Acids turn blue litmus paper red."
+    },
+    {
+      "id": "passage",
+      "non_question": true,
+      "question": "Read the following carefully:\n\n**Rusting** is a chemical reaction in which iron reacts with water and oxygen to form a reddish-brown compound called rust (iron oxide). This is a type of oxidation reaction. Rusting can be prevented using methods like painting, oiling, or galvanizing.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "follow_up": true,
+      "question": "What are the two substances needed for rusting to occur?",
+      "options": [],
+      "image": "",
+      "answer": "water and oxygen",
+      "explanation": "Rusting requires both water (moisture) and oxygen from the air."
+    },
+    {
+      "id": 7,
+      "follow_up": true,
+      "question": "Which of the following methods can prevent rusting?",
+      "options": [
+        "Heating",
+        "Cooling",
+        "Painting",
+        "Boiling"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Painting creates a barrier that prevents water and oxygen from reaching the metal surface."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an **alkali**?",
+      "options": [
+        "Hydrochloric acid",
+        "Sodium hydroxide",
+        "Sulfuric acid",
+        "Carbonic acid"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Sodium hydroxide is a strong alkali."
+    },
+    {
+      "id": 9,
+      "question": "What is the **universal indicator** color for a strong alkali?",
+      "options": [
+        "Red",
+        "Orange",
+        "Green",
+        "Purple"
+      ],
+      "image": "",
+      "answer": 3,
+      "explanation": "Strong alkalis turn universal indicator purple."
+    },
+    {
+      "id": 10,
+      "question": "The chemical formula for methane is...",
+      "options": [],
+      "image": "",
+      "answer": "CH4",
+      "explanation": "Methane consists of one carbon atom and four hydrogen atoms."
+    },
+    {
+      "id": 11,
+      "question": "When magnesium burns in air, the product formed is...",
+      "options": [
+        "Magnesium sulfate",
+        "Magnesium oxide",
+        "Magnesium nitrate",
+        "Magnesium carbonate"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Magnesium reacts with oxygen to form magnesium oxide (MgO)."
+    },
+    {
+      "id": 12,
+      "question": "Which element is common in **all** acids?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen",
+        "Carbon"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "Hydrogen is a defining element in all acids; it gives acids their characteristic properties."
+    },
+    {
+      "id": 13,
+      "question": "Complete the equation: Hydrochloric acid + Sodium hydroxide → ... + Water",
+      "options": [],
+      "image": "",
+      "answer": "sodium chloride",
+      "explanation": "This is a neutralization reaction that produces salt (sodium chloride) and water."
+    },
+    {
+      "id": 14,
+      "question": "What type of reaction is: **A + B → AB**?",
+      "options": [
+        "Decomposition",
+        "Displacement",
+        "Combination",
+        "Neutralization"
+      ],
+      "image": "",
+      "answer": 2,
+      "explanation": "This is a combination (or synthesis) reaction where two reactants form a single product."
+    },
+    {
+      "id": 15,
+      "question": "Which method is best for separating a soluble solid from a solution?",
+      "options": [
+        "Filtration",
+        "Crystallization",
+        "Decanting",
+        "Sieving"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Crystallization allows recovery of a soluble solid from a solution by evaporation."
+    }
+  ]
+}

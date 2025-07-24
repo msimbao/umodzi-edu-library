@@ -1,0 +1,25 @@
+[
+    {  "id": "20252107SCIG10_1",
+  "title": "Sample Test 1",
+  "subject": "Science",
+  "grade": 10,
+  "cost": 0,
+  "description": "This sample test covers a mix of Grade 10 science topics including respiration, chemical reactions, energy, and the human body.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Science/files/20252107SCIG10_1.json"
+  },
+  {
+      "id": "20252107SCIG10_2",
+  "title": "Chemical Reactions",
+  "subject": "Science",
+  "grade": 10,
+  "cost": 0,
+  "description": "This test focuses on chemical reactions, types of changes, acids and bases, and introductory organic chemistry. It includes comprehension and structured questions.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 30,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Science/files/20252107SCIG10_2.json"
+  }
+]

@@ -1,0 +1,137 @@
+{
+  "id": "20252107CHEM10_2",
+  "title": "Chemistry Test 2",
+  "subject": "Chemistry",
+  "grade": 10,
+  "cost": 0,
+  "description": "This test focuses on topics such as acids and bases, chemical reactions, atomic structure, stoichiometry, and the periodic table, in line with the Grade 10 Chemistry syllabus.",
+  "difficulty": "Medium",
+  "totalQuestions": 15,
+  "estimatedTime": 60,
+  "questions": [
+    {
+      "id": "introduction",
+      "non_question": true,
+      "question": "This is the second Chemistry test. It covers topics such as acids and bases, chemical reactions, atomic structure, stoichiometry, and the periodic table. Read each question carefully and answer to the best of your ability. Good luck!"
+    },
+    {
+      "id": 1,
+      "question": "Which of the following is a property of acids?",
+      "options": ["Bitter taste", "Slippery feel", "Sour taste", "Non-conductive"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Acids have a sour taste and are capable of turning blue litmus paper red. They also release hydrogen ions (H+) in solution."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of an exothermic reaction?",
+      "options": ["Boiling water", "Burning wood", "Dissolving salt in water", "Melting ice"],
+      "image": "",
+      "answer": 1,
+      "explanation": "An exothermic reaction releases energy in the form of heat. Burning wood is an example of such a reaction, as it produces heat and light."
+    },
+    {
+      "id": 3,
+      "question": "What is the general formula for a base?",
+      "options": ["HX", "MOH", "MCl", "M2O"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Bases are generally metal hydroxides with the formula MOH, where M represents a metal, such as sodium hydroxide (NaOH) or potassium hydroxide (KOH)."
+    },
+    {
+      "id": 4,
+      "question": "Which of these is a noble gas?",
+      "options": ["Oxygen", "Nitrogen", "Neon", "Carbon"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Neon is a noble gas, found in Group 18 of the periodic table. Noble gases are chemically inert and have a full outer electron shell."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a balanced chemical equation for the reaction between sodium and chlorine?",
+      "options": ["Na + Cl2 → NaCl", "2Na + Cl2 → Na2Cl", "Na + 2Cl2 → NaCl", "Na + Cl → NaCl"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The balanced chemical equation for the reaction of sodium with chlorine is 2Na + Cl2 → 2NaCl, where two sodium atoms react with one chlorine molecule to form sodium chloride."
+    },
+    {
+      "id": 6,
+      "question": "What is the atomic number of carbon?",
+      "options": ["6", "12", "8", "14"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Carbon has an atomic number of 6, meaning it has six protons in its nucleus."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is the correct chemical formula for sulfur dioxide?",
+      "options": ["SO3", "SO2", "S2O", "S3O2"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Sulfur dioxide is a compound with the chemical formula SO2, consisting of one sulfur atom bonded to two oxygen atoms."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following reactions is a combustion reaction?",
+      "options": ["N2 + 3H2 → 2NH3", "CH4 + 2O2 → CO2 + 2H2O", "2Na + Cl2 → 2NaCl", "CaCO3 → CaO + CO2"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The reaction CH4 + 2O2 → CO2 + 2H2O is a combustion reaction where methane (CH4) reacts with oxygen to produce carbon dioxide and water."
+    },
+    {
+      "id": 9,
+      "question": "What is the role of a catalyst in a chemical reaction?",
+      "options": ["It increases the energy of the reaction", "It decreases the activation energy", "It is consumed in the reaction", "It produces heat during the reaction"],
+      "image": "",
+      "answer": 1,
+      "explanation": "A catalyst speeds up a chemical reaction by lowering the activation energy, without being consumed in the process."
+    },
+    {
+      "id": 10,
+      "question": "What is the molar mass of calcium carbonate (CaCO3)?",
+      "options": ["40 g/mol", "100 g/mol", "62 g/mol", "60 g/mol"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The molar mass of calcium carbonate (CaCO3) is 100 g/mol. It is calculated by adding the atomic masses of calcium (40), carbon (12), and three oxygen atoms (16 each)."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is an example of a neutralization reaction?",
+      "options": ["NaOH + HCl → NaCl + H2O", "Fe + O2 → Fe2O3", "C + O2 → CO2", "H2 + Cl2 → 2HCl"],
+      "image": "",
+      "answer": 0,
+      "explanation": "The reaction NaOH + HCl → NaCl + H2O is a neutralization reaction, where an acid (HCl) reacts with a base (NaOH) to produce a salt (NaCl) and water."
+    },
+    {
+      "id": 12,
+      "question": "Short answer: What is the difference between an acid and a base?",
+      "options": [],
+      "answer": "Acids release hydrogen ions (H+) in solution, while bases release hydroxide ions (OH-) in solution.",
+      "explanation": "Acids are proton donors, releasing H+ ions, while bases are proton acceptors, releasing OH- ions."
+    },
+    {
+      "id": 13,
+      "question": "What is the chemical formula for potassium hydroxide?",
+      "options": ["KOH", "K2OH", "KO", "K2O"],
+      "image": "",
+      "answer": 0,
+      "explanation": "The chemical formula for potassium hydroxide is KOH, where K represents potassium and OH represents the hydroxide ion."
+    },
+    {
+      "id": 14,
+      "question": "Which element has the atomic number 8?",
+      "options": ["Oxygen", "Carbon", "Nitrogen", "Fluorine"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Oxygen has the atomic number 8, meaning it has 8 protons in its nucleus."
+    },
+    {
+      "id": 15,
+      "question": "What is the process of separating a mixture using differences in boiling points called?",
+      "options": ["Filtration", "Distillation", "Evaporation", "Chromatography"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Distillation is a process used to separate components of a mixture based on differences in their boiling points, commonly used in purifying liquids."
+    }
+  ]
+}

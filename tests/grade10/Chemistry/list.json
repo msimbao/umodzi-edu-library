@@ -1,0 +1,25 @@
+[
+    {
+  "id": "20252107CHEM10_1",
+  "title": "Chemistry Test 1",
+  "subject": "Chemistry",
+  "grade": 10,
+  "cost": 0,
+  "description": "This test covers topics on atomic structure, the periodic table, chemical reactions, acids and bases, and the mole concept, following the Zambian Grade 10 chemistry syllabus.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 60,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Chemistry/files/20252107CHEM10_1.json"
+    },
+    {  "id": "20252107CHEM10_2",
+  "title": "Chemistry Test 2",
+  "subject": "Chemistry",
+  "grade": 10,
+  "cost": 0,
+  "description": "This test focuses on topics such as acids and bases, chemical reactions, atomic structure, stoichiometry, and the periodic table, in line with the Grade 10 Chemistry syllabus.",
+  "difficulty": "Medium",
+  "totalQuestions": 15,
+  "estimatedTime": 60,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Chemistry/files/20252107CHEM10_2.json"
+}
+]

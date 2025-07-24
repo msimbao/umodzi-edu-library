@@ -1,0 +1,137 @@
+{
+  "id": "20252107GEOG10_1",
+  "title": "Geography Test 1",
+  "subject": "Geography",
+  "grade": 10,
+  "cost": 0,
+  "description": "This test covers topics on physical geography, population, and map skills as per the Zambian Grade 10 syllabus.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 60,
+  "questions": [
+    {
+      "id": "introduction",
+      "non_question": true,
+      "question": "This is a Geography test based on topics like physical geography, population dynamics, and map skills. Read each question carefully and choose the best option. Good luck!"
+    },
+    {
+      "id": 1,
+      "question": "Which of the following is a characteristic of a tropical rainforest climate?",
+      "options": ["High temperatures year-round", "Heavy rainfall throughout the year", "Cold winters", "Sparse vegetation"],
+      "image": "",
+      "answer": 1,
+      "explanation": "A tropical rainforest climate is characterized by high temperatures and heavy rainfall throughout the year, which supports dense vegetation."
+    },
+    {
+      "id": 2,
+      "question": "What is the major source of energy in Zambia?",
+      "options": ["Hydroelectric power", "Solar power", "Wind power", "Coal"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Zambia relies heavily on hydroelectric power for its energy, given its extensive river systems, especially the Zambezi River."
+    },
+    {
+      "id": 3,
+      "question": "What is the significance of the Great Rift Valley?",
+      "options": ["It is a source of fresh water", "It is a major agricultural zone", "It is an important geological feature", "It is a popular tourist destination"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The Great Rift Valley is a major geological feature, known for its deep valleys and volcanic activity, affecting the surrounding ecosystems and human activities."
+    },
+    {
+      "id": 4,
+      "question": "Which map projection is most commonly used in world maps?",
+      "options": ["Mercator projection", "Robinson projection", "Gall-Peters projection", "Mollweide projection"],
+      "image": "",
+      "answer": 0,
+      "explanation": "The Mercator projection is widely used for world maps because it preserves angles and shapes, though it distorts areas near the poles."
+    },
+    {
+      "id": 5,
+      "question": "Which of these factors primarily influence the climate of Zambia?",
+      "options": ["Latitude and altitude", "Ocean currents", "Distance from the equator", "Soil type"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Zambia's climate is greatly influenced by its latitude (near the equator) and altitude (highland regions), which cause variations in temperature and rainfall."
+    },
+    {
+      "id": 6,
+      "question": "The process of erosion by water is mainly caused by ___?",
+      "options": ["Wind", "Rainfall", "Earthquakes", "Volcanic activity"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Water erosion occurs when rainwater flows over the ground, removing soil and rocks, which can form valleys, riverbeds, and other landforms."
+    },
+    {
+      "id": 7,
+      "question": "What is the main difference between a delta and an estuary?",
+      "options": ["A delta is formed by the mouth of a river, while an estuary is a coastal area where saltwater and freshwater mix", "An estuary is a river, while a delta is a lake", "A delta is a type of mountain, while an estuary is a plain", "There is no difference between the two"],
+      "image": "",
+      "answer": 0,
+      "explanation": "A delta forms at the mouth of a river where it meets a body of water, whereas an estuary is a coastal area where freshwater from rivers meets and mixes with saltwater from the ocean."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following best describes population density?",
+      "options": ["The number of people in a country", "The total area of a country", "The number of people per square kilometer", "The growth rate of a population"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Population density refers to the number of people living in a specific area, typically measured per square kilometer."
+    },
+    {
+      "id": 9,
+      "question": "In which way can human activity impact the environment?",
+      "options": ["Deforestation", "Overfishing", "Pollution", "All of the above"],
+      "image": "",
+      "answer": 3,
+      "explanation": "Human activities like deforestation, overfishing, and pollution all contribute to environmental degradation, which affects ecosystems and biodiversity."
+    },
+    {
+      "id": 10,
+      "question": "What is the major purpose of a topographic map?",
+      "options": ["To show political boundaries", "To show the elevation and contours of the land", "To show population distribution", "To show climate patterns"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Topographic maps are designed to show elevation, landforms, and contours, helping to visualize the terrain of a specific area."
+    },
+    {
+      "id": 11,
+      "question": "What does a population pyramid show?",
+      "options": ["The distribution of different age groups in a population", "The level of education in a country", "The total area of land available for agriculture", "The income level of a population"],
+      "image": "",
+      "answer": 0,
+      "explanation": "A population pyramid is a graphical representation that shows the distribution of age groups and the sex ratio of a population."
+    },
+    {
+      "id": 12,
+      "question": "Why do countries in the Tropics experience high temperatures?",
+      "options": ["They are located near the equator", "They are close to the polar regions", "They have large bodies of water", "They have many mountains"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Countries located near the equator, such as those in the Tropics, experience high temperatures because they receive direct sunlight year-round."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is an example of a renewable resource?",
+      "options": ["Coal", "Natural gas", "Solar energy", "Oil"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Solar energy is a renewable resource because it can be replenished naturally and is not depleted when used, unlike fossil fuels."
+    },
+    {
+      "id": 14,
+      "question": "What is the term used to describe the movement of people from rural areas to urban areas?",
+      "options": ["Urbanization", "Migration", "Suburbanization", "Ruralization"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Urbanization refers to the movement of people from rural areas to cities or towns in search of better opportunities, leading to growth in urban populations."
+    },
+    {
+      "id": 15,
+      "question": "Short answer: Name two causes of desertification.",
+      "options": [],
+      "answer": "Overgrazing, deforestation",
+      "explanation": "Desertification is caused by human activities like overgrazing of livestock and deforestation, as well as natural factors such as drought."
+    }
+  ]
+}

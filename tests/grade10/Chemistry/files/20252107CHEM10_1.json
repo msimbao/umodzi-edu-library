@@ -1,0 +1,137 @@
+{
+  "id": "20252107CHEM10_1",
+  "title": "Chemistry Test 1",
+  "subject": "Chemistry",
+  "grade": 10,
+  "cost": 0,
+  "description": "This test covers topics on atomic structure, the periodic table, chemical reactions, acids and bases, and the mole concept, following the Zambian Grade 10 chemistry syllabus.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 60,
+  "questions": [
+    {
+      "id": "introduction",
+      "non_question": true,
+      "question": "This is the Chemistry test. It covers atomic structure, the periodic table, chemical reactions, acids and bases, and the mole concept. Answer all questions carefully and to the best of your ability. Good luck!"
+    },
+    {
+      "id": 1,
+      "question": "Which subatomic particle is found in the nucleus of an atom?",
+      "options": ["Electron", "Neutron", "Proton", "All of the above"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Both protons and neutrons are located in the nucleus of an atom, while electrons orbit the nucleus in energy levels."
+    },
+    {
+      "id": 2,
+      "question": "What is the atomic number of an element?",
+      "options": ["The number of protons", "The number of electrons", "The number of neutrons", "The mass number"],
+      "image": "",
+      "answer": 0,
+      "explanation": "The atomic number of an element is the number of protons in its nucleus and determines its identity on the periodic table."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a property of metals?",
+      "options": ["Poor conductors of electricity", "Malleable and ductile", "Low melting points", "Non-lustrous"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Metals are generally malleable (can be hammered into thin sheets) and ductile (can be drawn into wires) and are good conductors of heat and electricity."
+    },
+    {
+      "id": 4,
+      "question": "What is the name of the group 17 elements in the periodic table?",
+      "options": ["Noble gases", "Alkaline earth metals", "Halogens", "Alkali metals"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Group 17 elements are called halogens and include fluorine, chlorine, bromine, iodine, and astatine. They are highly reactive nonmetals."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an example of a chemical reaction?",
+      "options": ["Boiling water", "Melting ice", "Rusting of iron", "Dissolving sugar in water"],
+      "image": "",
+      "answer": 2,
+      "explanation": "The rusting of iron is a chemical reaction because it results in the formation of a new substance, iron oxide, while the other processes are physical changes."
+    },
+    {
+      "id": 6,
+      "question": "Which gas is produced when an acid reacts with a metal?",
+      "options": ["Oxygen", "Carbon dioxide", "Hydrogen", "Nitrogen"],
+      "image": "",
+      "answer": 2,
+      "explanation": "When an acid reacts with a metal, hydrogen gas is produced along with a salt. For example, when hydrochloric acid reacts with zinc, hydrogen gas is released."
+    },
+    {
+      "id": 7,
+      "question": "What is the pH of a neutral substance?",
+      "options": ["1", "7", "14", "10"],
+      "image": "",
+      "answer": 1,
+      "explanation": "A neutral substance has a pH of 7, which is neither acidic nor basic. Pure water is an example of a neutral substance."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a strong acid?",
+      "options": ["Acetic acid", "Sulfuric acid", "Citric acid", "Phosphoric acid"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Sulfuric acid is a strong acid because it completely dissociates in water, releasing a large amount of hydrogen ions (H+)."
+    },
+    {
+      "id": 9,
+      "question": "What is the molecular formula of water?",
+      "options": ["H2O", "CO2", "H2O2", "O2"],
+      "image": "",
+      "answer": 0,
+      "explanation": "The molecular formula for water is H2O, meaning each molecule consists of two hydrogen atoms bonded to one oxygen atom."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is the correct formula for sulfuric acid?",
+      "options": ["H2SO4", "H2S", "SO2", "SO3"],
+      "image": "",
+      "answer": 0,
+      "explanation": "The correct formula for sulfuric acid is H2SO4. It is a strong mineral acid used in various industrial processes."
+    },
+    {
+      "id": 11,
+      "question": "Which type of bond involves the sharing of electron pairs between atoms?",
+      "options": ["Ionic bond", "Covalent bond", "Metallic bond", "Hydrogen bond"],
+      "image": "",
+      "answer": 1,
+      "explanation": "A covalent bond is formed when atoms share one or more pairs of electrons to achieve a stable electron configuration."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is the mole concept based on?",
+      "options": ["Atomic mass", "The number of atoms in a mole", "The volume of gas at STP", "The pH of an acid"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The mole concept is based on the number of atoms or molecules in a substance, with one mole being equal to Avogadro’s number (6.022 × 10^23 particles)."
+    },
+    {
+      "id": 13,
+      "question": "What is the molar mass of water (H2O)?",
+      "options": ["16 g/mol", "18 g/mol", "20 g/mol", "22 g/mol"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The molar mass of water is 18 g/mol, calculated by adding the atomic masses of two hydrogen atoms (1 g/mol each) and one oxygen atom (16 g/mol)."
+    },
+    {
+      "id": 14,
+      "question": "Short answer: Name two types of chemical reactions.",
+      "options": [],
+      "answer": "Synthesis, Decomposition",
+      "explanation": "Synthesis reactions involve combining two or more substances to form a more complex product, while decomposition reactions involve breaking down a compound into simpler substances."
+    },
+    {
+      "id": 15,
+      "question": "What is the chemical formula for sodium chloride?",
+      "options": ["NaCl", "Na2O", "NaOH", "Na2SO4"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Sodium chloride, commonly known as table salt, has the chemical formula NaCl, which consists of one sodium atom and one chlorine atom."
+    }
+  ]
+}

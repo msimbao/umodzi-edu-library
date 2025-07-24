@@ -30,7 +30,7 @@
   "id": 2,
   "question": "What is the primary function of the organ shown above in the circulatory system?",
   "options": ["Pumping oxygen into the lungs", "Pumping blood to the body", "Filtering waste from the blood", "Producing red blood cells"],
-  "image": "https://example.com/heart_diagram.png",
+  "image": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/images/testImages/heart.webp",
   "answer": 1,
   "explanation": "The heart pumps blood throughout the body, delivering oxygen and nutrients to cells and removing waste products."
 }

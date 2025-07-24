@@ -1,0 +1,137 @@
+{
+  "id": "20252107GEOG10_2",
+  "title": "Geography Test 2",
+  "subject": "Geography",
+  "grade": 10,
+  "cost": 0,
+  "description": "This test covers topics on physical geography, climate zones, environmental management, and population distribution.",
+  "difficulty": "Medium",
+  "totalQuestions": 15,
+  "estimatedTime": 60,
+  "questions": [
+    {
+      "id": "introduction",
+      "non_question": true,
+      "question": "This is the second Geography test. It covers topics on physical geography, climate zones, environmental management, and population distribution. Read each question carefully and answer to the best of your ability. Good luck!"
+    },
+    {
+      "id": 1,
+      "question": "Which type of climate is found in the northern part of Zambia?",
+      "options": ["Tropical climate", "Desert climate", "Mediterranean climate", "Savanna climate"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Zambia's northern region experiences a tropical climate, characterized by high rainfall and warm temperatures throughout the year."
+    },
+    {
+      "id": 2,
+      "question": "What is the main characteristic of a savanna climate?",
+      "options": ["Heavy rainfall throughout the year", "Long dry seasons and short rainy seasons", "Cold winters", "Constant moderate temperatures"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The savanna climate is marked by a long dry season and a short rainy season, typical of regions like parts of Zambia."
+    },
+    {
+      "id": 3,
+      "question": "Which of these is NOT a renewable resource?",
+      "options": ["Wind energy", "Solar energy", "Coal", "Hydropower"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Coal is a non-renewable resource because it takes millions of years to form and cannot be replenished on a human time scale."
+    },
+    {
+      "id": 4,
+      "question": "What does the term 'deforestation' refer to?",
+      "options": ["Planting new trees", "Clearing forests for other land uses", "Protecting forests from exploitation", "Managing forest resources sustainably"],
+      "image": "",
+      "answer": 1,
+      "explanation": "Deforestation is the clearing of forests for purposes like agriculture, urban development, and logging, which can lead to environmental degradation."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is the main cause of soil erosion in Zambia?",
+      "options": ["Overgrazing", "Flooding", "Wind", "Volcanic activity"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Overgrazing by livestock leads to soil degradation and erosion, particularly in areas where vegetation is removed, leaving the soil vulnerable."
+    },
+    {
+      "id": 6,
+      "question": "What is the term used to describe the movement of water from the Earth’s surface to the atmosphere and back?",
+      "options": ["Evaporation", "Condensation", "Precipitation", "Water cycle"],
+      "image": "",
+      "answer": 3,
+      "explanation": "The water cycle describes the continuous movement of water within the Earth-atmosphere system, involving processes like evaporation, condensation, and precipitation."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following best describes a population pyramid with a wide base and narrow top?",
+      "options": ["High birth rate, low life expectancy", "Low birth rate, high life expectancy", "Balanced birth and death rates", "High death rate, low life expectancy"],
+      "image": "",
+      "answer": 0,
+      "explanation": "A population pyramid with a wide base and narrow top typically indicates a high birth rate and low life expectancy, characteristic of developing countries."
+    },
+    {
+      "id": 8,
+      "question": "What is the most common method used for mapping population density?",
+      "options": ["Choropleth map", "Dot map", "Isoline map", "Flow map"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Choropleth maps are commonly used to show population density by shading regions according to the number of people per unit area."
+    },
+    {
+      "id": 9,
+      "question": "Which human activity is responsible for the increase in global temperatures?",
+      "options": ["Deforestation", "Burning of fossil fuels", "Overfishing", "Industrial pollution"],
+      "image": "",
+      "answer": 1,
+      "explanation": "The burning of fossil fuels such as coal, oil, and gas releases carbon dioxide, a greenhouse gas that traps heat in the atmosphere and causes global warming."
+    },
+    {
+      "id": 10,
+      "question": "What is the primary function of a river delta?",
+      "options": ["To store water", "To deposit silt and nutrients", "To generate hydroelectric power", "To provide fresh drinking water"],
+      "image": "",
+      "answer": 1,
+      "explanation": "A river delta is formed where a river meets a body of water, depositing silt and nutrients that enrich the soil and support diverse ecosystems."
+    },
+    {
+      "id": 11,
+      "question": "In terms of environmental conservation, what does 'sustainable development' mean?",
+      "options": ["Using natural resources at a faster rate", "Developing infrastructure without regard for the environment", "Meeting current needs without compromising future generations", "Ignoring the needs of the environment for the sake of economic growth"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Sustainable development aims to balance economic growth, environmental protection, and social well-being, ensuring that future generations can also meet their needs."
+    },
+    {
+      "id": 12,
+      "question": "What does the term 'urbanization' refer to?",
+      "options": ["The movement of people from rural areas to urban areas", "The growth of agriculture in urban areas", "The decrease in the population of cities", "The development of rural areas"],
+      "image": "",
+      "answer": 0,
+      "explanation": "Urbanization refers to the process of people moving from rural areas to cities or towns, often for better employment opportunities and improved living conditions."
+    },
+    {
+      "id": 13,
+      "question": "What is the most significant impact of pollution on human health?",
+      "options": ["Increased fertility rates", "Spread of infectious diseases", "Respiratory problems", "Higher life expectancy"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Air pollution, caused by industrial emissions and vehicle exhaust, can lead to serious respiratory problems such as asthma and bronchitis."
+    },
+    {
+      "id": 14,
+      "question": "Short answer: What are two major causes of desertification in Zambia?",
+      "options": [],
+      "answer": "Overgrazing, deforestation",
+      "explanation": "Desertification in Zambia is largely caused by overgrazing of land and deforestation, both of which degrade the soil and reduce its fertility."
+    },
+    {
+      "id": 15,
+      "question": "What is the main purpose of afforestation?",
+      "options": ["To clear forests for agriculture", "To create wildlife reserves", "To increase the area covered by forests", "To protect water sources"],
+      "image": "",
+      "answer": 2,
+      "explanation": "Afforestation refers to planting trees in areas where there were no previous forests, helping to combat desertification, improve air quality, and restore ecosystems."
+    }
+  ]
+}

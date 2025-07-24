@@ -26,14 +26,14 @@
       "answer": 2,
       "explanation": "Leaves contain chloroplasts with chlorophyll that absorb sunlight and convert carbon dioxide and water into glucose during photosynthesis."
     },
-    {
-      "id": 2,
-      "question": "What do we call animals that feed on both plants and other animals?",
-      "options": ["Herbivores", "Carnivores", "Omnivores", "Detritivores"],
-      "image": "",
-      "answer": 2,
-      "explanation": "Omnivores eat both plant material and animal matter, giving them a varied diet. Examples include humans and baboons."
-    },
+{
+  "id": 2,
+  "question": "What is the primary function of the organ shown above in the circulatory system?",
+  "options": ["Pumping oxygen into the lungs", "Pumping blood to the body", "Filtering waste from the blood", "Producing red blood cells"],
+  "image": "https://example.com/heart_diagram.png",
+  "answer": 1,
+  "explanation": "The heart pumps blood throughout the body, delivering oxygen and nutrients to cells and removing waste products."
+}
     {
       "id": 3,
       "question": "Name the gas that is essential for human respiration.",

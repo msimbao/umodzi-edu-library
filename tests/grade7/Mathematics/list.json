@@ -1,17 +1,5 @@
 [
   {
-    "id": "grade7_math_001",
-    "title": "Arithmetic 1",
-    "subject": "Mathematics",
-    "grade": 7,
-    "cost": 15,
-    "description": "A comprehensive Grade 7 Mathematics test with various arithmetic questions",
-    "difficulty": "easy",
-    "totalQuestions": 20,
-    "estimatedTime": 30,
-    "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Mathematics/files/mathG7001.json"
-  },
-  {
     "id": "20252107MATG7_1",
     "title": "Sample Test 1",
     "subject": "Mathematics",
@@ -72,3 +60,4 @@
     "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Mathematics/files/mathG7003.json"
   }
 ]
+

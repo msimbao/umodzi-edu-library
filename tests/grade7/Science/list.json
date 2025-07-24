@@ -1,16 +1,5 @@
 [
-    {
-  "id": "20252107SCIG7_1",
-  "title": "Sample Test 1",
-  "subject": "Science",
-  "grade": 7,
-  "cost": 0,
-  "description": "This is our 20-question mock Science exam based on the Zambian Grade 7 syllabus. It includes multiple-choice and short answer questions with high-quality, syllabus-aligned content.",
-  "difficulty": "medium",
-  "totalQuestions": 20,
-  "estimatedTime": 40,
-  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/Science/files/20252107SCIG7_1.json"
-    },
+
     {
   "id": "20252107SCIG7_2",
   "title": "Sample Test 2",

@@ -12,7 +12,8 @@
     {
       "id": "introduction",
       "non_question": true,
-      "question": "This is the second Geography test. It covers topics on physical geography, climate zones, environmental management, and population distribution. Read each question carefully and answer to the best of your ability. Good luck!"
+      "question": "This is the second Geography test. It covers topics on physical geography, climate zones, environmental management, and population distribution. Read each question carefully and answer to the best of your ability. Good luck!",
+      "options":[]
     },
     {
       "id": 1,

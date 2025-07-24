@@ -12,7 +12,8 @@
     {
       "id": "introduction",
       "non_question": true,
-      "question": "This is the Chemistry test. It covers atomic structure, the periodic table, chemical reactions, acids and bases, and the mole concept. Answer all questions carefully and to the best of your ability. Good luck!"
+      "question": "This is the Chemistry test. It covers atomic structure, the periodic table, chemical reactions, acids and bases, and the mole concept. Answer all questions carefully and to the best of your ability. Good luck!",
+      "options":[]
     },
     {
       "id": 1,

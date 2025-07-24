@@ -12,7 +12,8 @@
     {
       "id": "introduction",
       "non_question": true,
-      "question": "This is the second Chemistry test. It covers topics such as acids and bases, chemical reactions, atomic structure, stoichiometry, and the periodic table. Read each question carefully and answer to the best of your ability. Good luck!"
+      "question": "This is the second Chemistry test. It covers topics such as acids and bases, chemical reactions, atomic structure, stoichiometry, and the periodic table. Read each question carefully and answer to the best of your ability. Good luck!",
+      "options": []
     },
     {
       "id": 1,

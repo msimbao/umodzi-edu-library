@@ -20,7 +20,9 @@ some questions can be open ended where the options array is a list with 0 entrie
 
 make sure to do some quality control on the question and answers so that they are correct and not just ai generated slop that doesnt make sense or isnt right.
 
-some questions can be short form answer where the options array is a list with 0 entries and the answer is a string with different possible answers to the question separated by a comma
+some questions can be short form answer where the options array is a list with 0 entries and the answer is a string with a single word. make sure the question is written so that the answer is only and can only be a single word.
+
+make sure that the options key will always be there for questions even if the array must be empty
 
 also follow the optional settings below:
 

@@ -5,7 +5,7 @@
   "grade": 10,
   "cost": 0,
   "description": "This test covers topics on physical geography, climate zones, environmental management, and population distribution.",
-  "difficulty": "Medium",
+  "difficulty": "medium",
   "totalQuestions": 15,
   "estimatedTime": 60,
   "questions": [

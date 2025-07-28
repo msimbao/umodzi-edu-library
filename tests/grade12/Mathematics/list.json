@@ -35,8 +35,8 @@
   "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/Mathematics/files/20252107MATG12_3.json"
   },
   {
-      "id": "20252807MATG12_1",
-  "title": "sample test 1",
+  "id": "20252807MATG12_1",
+  "title": "Formatting Test 1",
   "subject": "Mathematics",
   "grade": 12,
   "cost": 0,
@@ -44,6 +44,6 @@
   "difficulty": "medium",
   "totalQuestions": 5,
   "estimatedTime": 40,
-  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/MAT/files/20252807MATG12_1.json"
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/Mathematics/files/20252807MATG12_1.json"
   }
 ]

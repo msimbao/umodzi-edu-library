@@ -33,5 +33,17 @@
   "totalQuestions": 10,
   "estimatedTime": 60,
   "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/Mathematics/files/20252107MATG12_3.json"
+  },
+  {
+      "id": "20252807MATG12_1",
+  "title": "sample test 1",
+  "subject": "Mathematics",
+  "grade": 12,
+  "cost": 0,
+  "description": "A Grade 12 Mathematics sample test assessing a mix of algebra, geometry, calculus, and statistics concepts. Includes open-ended and structured response formats.",
+  "difficulty": "medium",
+  "totalQuestions": 5,
+  "estimatedTime": 40,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade12/MAT/files/20252807MATG12_1.json"
   }
 ]

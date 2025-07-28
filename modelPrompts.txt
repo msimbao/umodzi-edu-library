@@ -4,7 +4,7 @@ the id should be a unique string made by combining the date first three letters 
 
 the title should be short and concise and unique but simple like "sample test 1" or the one word that is the of the central topic covered. so even the test can be a mix of questions from different topics or one central topic in that syllabus
 
-the link should be a url that is: "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade{grade}/{subject}/files/{id}.json" where {grade} {subject} and {id} are the ones you will put in the dictionary.
+the link should be a url that is: "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade{grade}/{subject}/files/{id}.json" where {grade} {subject} and {id} are the ones you will put in the dictionary. Make sure that the subject is written in full
 
 Questions should be an array of dictionaries with keys and types: id (question number starting at 1 if it is a question, if it is a non_question like a section give it a name), question (string), options (array of strings), image( can be blank or a string of a prompt of an image that should be there),answer (number index of correct answer or string with correct answer), explanation (string). 
 

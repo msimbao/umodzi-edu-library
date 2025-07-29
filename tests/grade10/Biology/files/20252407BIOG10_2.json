@@ -3,7 +3,7 @@
   "title": "Photosynthesis",
   "subject": "Biology",
   "grade": 10,
-  "cost": 0,
+  "cost": 10,
   "description": "A sample Grade 10 Biology test focused on photosynthesis and related processes, with a mix of multiple choice, open-ended, and short form questions.",
   "difficulty": "medium",
   "totalQuestions": 15,

@@ -1,0 +1,171 @@
+{
+  "id": "20252807BIOG10_1",
+  "title": "Biology Basics",
+  "subject": "Biology",
+  "grade": 10,
+  "cost": 0,
+  "description": "A sample Grade 10 Biology test covering key topics from the Zambian syllabus, including characteristics of living organisms, cell structure, diffusion, osmosis, enzymes, and classification.",
+  "difficulty": "Moderate",
+  "totalQuestions": 15,
+  "estimatedTime": 45,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Biology/files/20252807BIOG10_1.json",
+  "questions": [
+    {
+      "id": "intro",
+      "non_question": true,
+      "question": "This quiz tests your understanding of Grade 10 Biology topics from the Zambian syllabus, including characteristics of living organisms, cell structure, diffusion, osmosis, enzymes, and classification. Answer all questions carefully. Good luck!",
+      "options": [],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 1,
+      "question": "What is the term for the science that studies living things?",
+      "options": [],
+      "answer": "Biology",
+      "explanation": "Biology is defined as the branch of science that deals with the study of living things, as outlined in the introduction of the Grade 10 Biology notes."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a characteristic of living organisms?",
+      "options": [
+        "Respiration",
+        "Rusting",
+        "Melting",
+        "Evaporation"
+      ],
+      "answer": 0,
+      "explanation": "Respiration is a characteristic of living organisms, as they require energy from breaking down food. Rusting, melting, and evaporation are physical or chemical processes in non-living things (Unit 1.1)."
+    },
+    {
+      "id": 3,
+      "question": "What term describes the permanent increase in the size of an organism due to an increase in cell number or mass?",
+      "options": [],
+      "answer": "Growth",
+      "explanation": "Growth is defined as the permanent increase in size due to an increase in the number or mass of cells in living organisms, as per Unit 1.1 of the notes."
+    },
+    {
+      "id": 4,
+      "question": "Which structure in a plant cell is responsible for photosynthesis?",
+      "options": [
+        "Mitochondria",
+        "Chloroplast",
+        "Nucleus",
+        "Cell membrane"
+      ],
+      "answer": 1,
+      "explanation": "Chloroplasts contain chlorophyll, which is essential for photosynthesis, as they trap light energy to produce glucose (Unit 1.2)."
+    },
+    {
+      "id": 5,
+      "question": "What is the main difference between plant and animal cells?",
+      "options": [
+        "Plant cells lack a nucleus",
+        "Animal cells have a cell wall",
+        "Plant cells have chloroplasts",
+        "Animal cells have chloroplasts"
+      ],
+      "answer": 2,
+      "explanation": "Plant cells have chloroplasts for photosynthesis, which animal cells lack. Plant cells also have a cell wall, while animal cells do not (Unit 1.2)."
+    },
+    {
+      "id": 6,
+      "question": "What is the movement of particles from a region of higher concentration to a region of lower concentration called?",
+      "options": [],
+      "answer": "Diffusion",
+      "explanation": "Diffusion is the movement of particles from a region of higher concentration to a region of lower concentration, as described in Unit 1.4."
+    },
+    {
+      "id": 7,
+      "question": "In the osmosis experiment with a potato, why does water move into the potato tissue containing sugar?",
+      "options": [
+        "Sugar molecules are larger",
+        "Water moves from lower to higher concentration",
+        "Water moves from higher to lower concentration",
+        "Potato cells are impermeable"
+      ],
+      "answer": 2,
+      "explanation": "In osmosis, water moves from a region of higher water concentration (in the beaker) to a region of lower water concentration (inside the potato with sugar) across a selectively permeable membrane (Unit 1.4)."
+    },
+    {
+      "id": 8,
+      "question": "What term describes the bursting of an animal cell due to excessive water intake by osmosis?",
+      "options": [],
+      "answer": "Lysis",
+      "explanation": "Lysis occurs when animal cells absorb too much water by osmosis, causing the cell membrane to stretch and burst (Unit 1.4)."
+    },
+    {
+      "id": 9,
+      "question": "Enzymes are described as **catalysts**. What does this mean?",
+      "options": [
+        "They are consumed in reactions",
+        "They speed up reactions without being used up",
+        "They are destroyed by heat",
+        "They only work at high pH"
+      ],
+      "answer": 1,
+      "explanation": "Enzymes are catalysts that speed up chemical reactions in living organisms without being consumed or altered, as explained in Unit 1.5."
+    },
+    {
+      "id": 10,
+      "question": "What is the optimum temperature range for most enzymes to function effectively?",
+      "options": [
+        "0-10°C",
+        "10-20°C",
+        "30-45°C",
+        "50-60°C"
+      ],
+      "answer": 2,
+      "explanation": "Most enzymes function best between 30-45°C. Beyond this range, they may denature, as stated in Unit 1.5."
+    },
+    {
+      "id": 11,
+      "question": "Read the following passage about classification: Organisms are grouped into kingdoms, phyla, classes, orders, families, genera, and species. The scientific name of an organism uses the binomial nomenclature system, consisting of a genus name and a species name. For example, maize is called __Zea mays__. Use this passage to answer the following questions.",
+      "non_question": true,
+      "options": [],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "What is the genus name of maize?",
+      "options": [],
+      "answer": "Zea",
+      "follow_up": true,
+      "explanation": "In the binomial nomenclature system, the genus name of maize is Zea, as given in the scientific name __Zea mays__ (Unit 1.6)."
+    },
+    {
+      "id": 13,
+      "question": "What is the species name of maize?",
+      "options": [],
+      "answer": "mays",
+      "follow_up": true,
+      "explanation": "The species name of maize is mays, as per the scientific name __Zea mays__ in the binomial nomenclature system (Unit 1.6)."
+    },
+    {
+      "id": 14,
+      "question": "Which kingdom does maize belong to?",
+      "options": [
+        "Monera",
+        "Fungi",
+        "Plantae",
+        "Animalia"
+      ],
+      "answer": 2,
+      "follow_up": true,
+      "explanation": "Maize is a plant and belongs to the kingdom Plantae, as outlined in the classification hierarchy in Unit 1.6."
+    },
+    {
+      "id": 15,
+      "question": "Which characteristic is used to distinguish worms with more than fifteen segments in a classification key?",
+      "options": [
+        "Color",
+        "Body segments",
+        "Size",
+        "Movement"
+      ],
+      "answer": 1,
+      "explanation": "In the classification key for worms, the number of body segments (more than fifteen) is used to identify worms like those in Class Oligochaeta (Unit 1.6)."
+    }
+  ]
+}

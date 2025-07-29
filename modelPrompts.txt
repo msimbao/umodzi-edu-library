@@ -6,7 +6,7 @@ the title should be short and concise and unique but simple like "sample test 1"
 
 the link should be a url that is: "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade{grade}/{subject}/files/{id}.json" where {grade} {subject} and {id} are the ones you will put in the dictionary. Make sure that the subject is written in full
 
-Questions should be an array of dictionaries with keys and types: id (question number starting at 1 if it is a question, if it is a non_question like a section give it a name), question (string), options (array of strings), image( can be blank or a string of a prompt of an image that should be there),answer (number index of correct answer or string with correct answer), explanation (string). 
+Questions should be an array of dictionaries with keys and types: id (question number starting at 1 if it is a question, if it is a non_question like a section give it a name), question (string), options (array of strings), image( can be blank or a detailed string of a prompt of an image that should be there),answer (number index of correct answer or string with correct answer), explanation (string). 
 
 some questions should have the keys non_question=true if they are not questions but instead intermission sections explaining what questions are up next or the comprehension passage before a set of follow up questions. These questions should not count towards the total question count when you are making them and their ids will just be a name.
 
@@ -16,7 +16,7 @@ if you need to make some parts bold, put the words between double asterisks, e.g
 
 the first question should always be a non_question with the summary of the quiz you are about to take.
 
-some questions can be open ended where the options array is a list with 0 entries and the answer is a string
+some questions can be single word where the options array is a list with 0 entries and the answer is a single word
 
 make sure to do some quality control on the question and answers so that they are correct and not just ai generated slop that doesnt make sense or isnt right.
 
@@ -26,7 +26,9 @@ make sure that the options key will always be there for questions even if the ar
 
 also follow the optional settings below:
 
+for images, if they are charts or graphs that are appropriate for the question, generate code and export the image.
+
 should images be generated: no
-should short form answers be generated: yes 
+should one word answers be generated: yes 
 
 use it to make an grade 10 zambian syllabus biology past paper that is 15 questions long

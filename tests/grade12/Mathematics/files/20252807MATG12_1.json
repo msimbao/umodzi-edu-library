@@ -12,7 +12,7 @@
     {
       "id": "intro",
       "non_question": true,
-      "question": "**Welcome to this sample Grade 12 Mathematics test.**\\n\\nThis test consists of 5 questions covering topics such as algebra, coordinate geometry, calculus, and data analysis. Some questions require short form answers, and LaTeX is used to represent mathematical expressions. Work carefully and show all steps where applicable.",
+      "question": "**Welcome to this sample Grade 12 Mathematics test.**\n\nThis test consists of 5 questions covering topics such as algebra, coordinate geometry, calculus, and data analysis. Some questions require short form answers, and LaTeX is used to represent mathematical expressions. Work carefully and show all steps where applicable.",
       "options": [],
       "image": "",
       "answer": "",

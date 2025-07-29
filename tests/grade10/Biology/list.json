@@ -15,11 +15,23 @@
   "title": "Photosynthesis",
   "subject": "Biology",
   "grade": 10,
-  "cost": 0,
+  "cost": 10,
   "description": "A sample Grade 10 Biology test focused on photosynthesis and related processes, with a mix of multiple choice, open-ended, and short form questions.",
   "difficulty": "medium",
   "totalQuestions": 15,
   "estimatedTime": 30,
   "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Biology/files/20252407BIOG10_2.json"
+  },
+  {
+      "id": "20252807BIOG10_1",
+  "title": "Biology Basics",
+  "subject": "Biology",
+  "grade": 10,
+  "cost": 0,
+  "description": "A sample Grade 10 Biology test covering key topics from the Zambian syllabus, including characteristics of living organisms, cell structure, diffusion, osmosis, enzymes, and classification.",
+  "difficulty": "Moderate",
+  "totalQuestions": 15,
+  "estimatedTime": 45,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Biology/files/20252807BIOG10_1.json"
   }
 ]

@@ -58,5 +58,16 @@
     "totalQuestions": 53,
     "estimatedTime": 90,
     "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/eng-g7-2023.json"
+  },
+  {  "id": "20252807ENGG7_1",
+  "title": "English Fundamentals",
+  "subject": "English",
+  "grade": 7,
+  "cost": 5,
+  "description": "A Grade 7 English test based on the Zambian syllabus, covering basic grammar, vocabulary, comprehension, and writing skills. This test includes a mix of multiple-choice and short-answer questions to assess language proficiency.",
+  "difficulty": "Moderate",
+  "totalQuestions": 20,
+  "estimatedTime": 60,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade5-7/English/files/20252807ENGG7_1.json"
   }
 ]

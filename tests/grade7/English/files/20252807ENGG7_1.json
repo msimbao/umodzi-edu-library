@@ -1,0 +1,166 @@
+{
+  "id": "20252807ENGG7_1",
+  "title": "English Fundamentals",
+  "subject": "English",
+  "grade": 7,
+  "cost": 5,
+  "description": "A Grade 7 English test based on the Zambian syllabus, covering basic grammar, vocabulary, comprehension, and writing skills. This test includes a mix of multiple-choice and short-answer questions to assess language proficiency.",
+  "difficulty": "Moderate",
+  "totalQuestions": 20,
+  "estimatedTime": 60,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade5-7/English/files/20252807ENGG7_1.json",
+  "questions": [
+    {
+      "id": "intro",
+      "non_question": true,
+      "question": "This quiz tests your understanding of Grade 7 English topics from the Zambian syllabus, including grammar, vocabulary, comprehension, and writing skills. Answer all questions carefully. Good luck!",
+      "options": [],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 1,
+      "question": "What is the term for a word that describes a noun?",
+      "options": [],
+      "answer": "Adjective",
+      "explanation": "An adjective is a word that describes or modifies a noun, indicating its quality, quantity, or extent."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a **pronoun**?",
+      "options": ["Big", "She", "Run", "Table"],
+      "answer": 1,
+      "explanation": "A pronoun, like 'She,' is a word that takes the place of a noun. 'Big' is an adjective, 'Run' is a verb, and 'Table' is a noun."
+    },
+    {
+      "id": 3,
+      "question": "What is the plural form of 'child'?",
+      "options": [],
+      "answer": "Children",
+      "explanation": "The plural of 'child' is 'children,' an irregular plural form in English."
+    },
+    {
+      "id": 4,
+      "question": "Identify the verb in this sentence: The dog __barks__ loudly.",
+      "options": ["Dog", "Barks", "Loudly", "The"],
+      "answer": 1,
+      "explanation": "'Barks' is the verb, as it describes the action performed by the dog. 'Dog' is a noun, 'Loudly' is an adverb, and 'The' is an article."
+    },
+    {
+      "id": 5,
+      "question": "What is the term for a group of words that expresses a complete thought?",
+      "options": [],
+      "answer": "Sentence",
+      "explanation": "A sentence is a group of words that expresses a complete thought and contains a subject and a predicate."
+    },
+    {
+      "id": 6,
+      "question": "Which punctuation mark is used at the end of a question?",
+      "options": ["Full stop", "Comma", "Question mark", "Exclamation mark"],
+      "answer": 2,
+      "explanation": "A question mark is used at the end of a sentence that asks a question."
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct form of the verb: She __ to school every day.",
+      "options": ["Walk", "Walks", "Walking", "Walked"],
+      "answer": 1,
+      "explanation": "The correct form is 'Walks' because the subject 'She' is singular, and the sentence is in the present tense, requiring the third-person singular form."
+    },
+    {
+      "id": 8,
+      "question": "What is the opposite of 'big'?",
+      "options": [],
+      "answer": "Small",
+      "explanation": "The opposite of 'big' is 'small,' as it describes the reverse in size."
+    },
+    {
+      "id": 9,
+      "question": "Which word is a **conjunction** in the sentence: I wanted to go, but it was raining.",
+      "options": ["Wanted", "Go", "But", "Raining"],
+      "answer": 2,
+      "explanation": "'But' is a conjunction that connects two independent clauses in the sentence."
+    },
+    {
+      "id": 10,
+      "non_question": true,
+      "question": "Read the following passage: *Mary lives in a small village. Every morning, she walks to school with her friend John. They pass a big tree where birds sing loudly. One day, they saw a cat stuck in the tree. Mary climbed up to help the cat while John watched.* Use this passage to answer the following questions.",
+      "options": [],
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "Where does Mary live?",
+      "options": [],
+      "answer": "Village",
+      "follow_up": true,
+      "explanation": "The passage states that Mary lives in a small village."
+    },
+    {
+      "id": 12,
+      "question": "Who does Mary walk to school with?",
+      "options": ["Her teacher", "Her friend John", "Her brother", "Her cat"],
+      "answer": 1,
+      "follow_up": true,
+      "explanation": "The passage mentions that Mary walks to school with her friend John."
+    },
+    {
+      "id": 13,
+      "question": "What did Mary do when she saw the cat in the tree?",
+      "options": ["She ran away", "She called John", "She climbed up", "She ignored it"],
+      "answer": 2,
+      "follow_up": true,
+      "explanation": "The passage says Mary climbed up to help the cat stuck in the tree."
+    },
+    {
+      "id": 14,
+      "question": "What is the term for a word that shows action or a state of being?",
+      "options": [],
+      "answer": "Verb",
+      "explanation": "A verb is a word that expresses an action or a state of being in a sentence."
+    },
+    {
+      "id": 15,
+      "question": "Which sentence is in the **past tense**?",
+      "options": ["I eat rice.", "I am eating rice.", "I ate rice.", "I will eat rice."],
+      "answer": 2,
+      "explanation": "'I ate rice.' is in the past tense, as 'ate' indicates an action that has already happened."
+    },
+    {
+      "id": 16,
+      "question": "What is the term for the person, place, or thing a sentence is about?",
+      "options": [],
+      "answer": "Subject",
+      "explanation": "The subject is the person, place, or thing that the sentence is about and performs the action."
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct article: __ apple is on the table.",
+      "options": ["A", "An", "The", "No article needed"],
+      "answer": 1,
+      "explanation": "'An' is used before a singular noun starting with a vowel sound, like 'apple.'"
+    },
+    {
+      "id": 18,
+      "question": "What is the plural of 'box'?",
+      "options": [],
+      "answer": "Boxes",
+      "explanation": "The plural of 'box' is 'boxes,' formed by adding 'es' to nouns ending in 'x.'"
+    },
+    {
+      "id": 19,
+      "question": "Which word is an **adverb** in the sentence: She runs quickly.",
+      "options": ["She", "Runs", "Quickly", "None"],
+      "answer": 2,
+      "explanation": "'Quickly' is an adverb, as it describes how the action 'runs' is performed."
+    },
+    {
+      "id": 20,
+      "question": "What punctuation mark separates items in a list?",
+      "options": ["Full stop", "Comma", "Question mark", "Exclamation mark"],
+      "answer": 1,
+      "explanation": "A comma is used to separate items in a list, such as in 'apples, oranges, and bananas.'"
+    }
+  ]
+}

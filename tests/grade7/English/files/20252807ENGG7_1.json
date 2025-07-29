@@ -5,7 +5,7 @@
   "grade": 7,
   "cost": 5,
   "description": "A Grade 7 English test based on the Zambian syllabus, covering basic grammar, vocabulary, comprehension, and writing skills. This test includes a mix of multiple-choice and short-answer questions to assess language proficiency.",
-  "difficulty": "Moderate",
+  "difficulty": "medium",
   "totalQuestions": 20,
   "estimatedTime": 60,
   "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade7/English/files/20252807ENGG7_1.json",

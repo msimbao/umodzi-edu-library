@@ -21,5 +21,17 @@
   "totalQuestions": 15,
   "estimatedTime": 60,
   "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Chemistry/files/20252107CHEM10_2.json"
+},
+{
+    "id": "202507301333CHEG12_2",
+  "title": "States of Matter and Bonding Test",
+  "subject": "Chemistry",
+  "grade": 10,
+  "cost": 0,
+  "description": "A test covering key concepts in states of matter, laboratory safety, and chemical bonding for Grade 12 Zambian syllabus, including particle arrangements, safety rules, and ionic/covalent properties.",
+  "difficulty": "medium",
+  "totalQuestions": 15,
+  "estimatedTime": 45,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Chemistry/files/202507301333CHEG12_2.json"
 }
 ]

@@ -1,0 +1,227 @@
+{
+  "id": "202507301333CHEG12_2",
+  "title": "States of Matter and Bonding Test",
+  "subject": "Chemistry",
+  "grade": "10",
+  "cost": 0,
+  "description": "A test covering key concepts in states of matter, laboratory safety, and chemical bonding for Grade 12 Zambian syllabus, including particle arrangements, safety rules, and ionic/covalent properties.",
+  "difficulty": "Moderate",
+  "totalQuestions": 15,
+  "estimatedTime": 45,
+  "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Chemistry/files/202507301333CHEG12_2.json",
+  "questions": [
+    {
+      "id": "Introduction",
+      "non_question": true,
+      "question": "This test assesses your understanding of states of matter, laboratory safety, and chemical bonding as per the Grade 12 Zambian syllabus. Answer all questions carefully. Good luck!",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 1,
+      "question": "Why do most chemistry laboratories have **rough floors** instead of smooth ones? (ONE WORD ANSWER)",
+      "options": [],
+      "image": "",
+      "answer": "Safety",
+      "explanation": "Rough floors provide better traction, reducing the risk of slipping, especially when handling chemicals that might spill."
+    },
+    {
+      "id": 2,
+      "question": "Which laboratory safety rule is essential when performing a titration?",
+      "options": [
+        "Talking loudly to communicate results",
+        "Wearing protective goggles",
+        "Eating during the experiment",
+        "Using broken glassware"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Wearing **protective goggles** is essential during titration to protect eyes from potential chemical splashes."
+    },
+    {
+      "id": 3,
+      "question": "What is the arrangement of particles in a **solid**? (ONE WORD ANSWER)",
+      "options": [],
+      "image": "",
+      "answer": "Regular",
+      "explanation": "In a solid, particles are arranged in a **regular**, tightly packed lattice structure, leading to fixed shape and volume."
+    },
+    {
+      "id": "Particle Arrangement Section",
+      "non_question": true,
+      "question": "The following questions relate to the arrangement of particles in different states of matter. Refer to the diagram below for questions 4-6.**Diagram**: A table showing particle arrangements in solids, liquids, and gases, with columns for 'State', 'Particle Arrangement', and 'Movement'.",
+      "options": [],
+      "image": "https://tlqvryhcjgzbcmimdycx.supabase.co/storage/v1/object/public/umodorotestphotos//202507301333CHEG12_2_PARTICLE_ARRANGEMENT_SECTION.webp",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "According to the diagram, how do particles in a **liquid** move?",
+      "options": [
+        "Vibrating in fixed positions",
+        "Sliding past each other",
+        "Moving randomly at high speeds",
+        "No movement"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "In liquids, particles are close but disordered, allowing them to **slide past each other**, giving liquids their ability to flow.",
+      "follow_up": true
+    },
+    {
+      "id": 5,
+      "question": "Why do solids have a higher density than gases for the same volume?",
+      "options": [
+        "Gases have more particles",
+        "Solids have tightly packed particles",
+        "Solids have faster-moving particles",
+        "Gases have a regular arrangement"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Solids have **tightly packed particles** in a regular lattice, resulting in more mass per unit volume compared to gases, where particles are far apart.",
+      "follow_up": true
+    },
+    {
+      "id": 6,
+      "question": "Why are gases **compressible**? (ONE WORD ANSWER)",
+      "options": [],
+      "image": "",
+      "answer": "Spacing",
+      "explanation": "Gases are compressible because their particles are **far apart**, allowing them to be pushed closer together under pressure.",
+      "follow_up": true
+    },
+    {
+      "id": 7,
+      "question": "What type of bonding is present in **potassium chloride (KCl)**?",
+      "options": [
+        "Covalent",
+        "Ionic",
+        "Metallic",
+        "Hydrogen"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "Potassium chloride (KCl) consists of $K^+$ and $Cl^-$ ions, held together by **ionic bonding** due to the transfer of electrons."
+    },
+    {
+      "id": "Bonding Comprehension",
+      "non_question": true,
+      "question": "Read the following: **Chemical bonding** determines the properties of compounds. For example, carbon tetrachloride ($CCl_4$) is a covalent compound with non-polar bonds, while potassium chloride ($KCl$) is ionic. Answer the following questions based on this concept.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "Which compound, $CCl_4$ or $KCl$, conducts electricity when molten?",
+      "options": [
+        "$CCl_4$",
+        "$KCl$",
+        "Both",
+        "Neither"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "$KCl$, an ionic compound, conducts electricity when molten because its ions ($K^+$ and $Cl^-$) are free to move. $CCl_4$, a covalent compound, does not dissociate into ions and thus does not conduct.",
+      "follow_up": true
+    },
+    {
+      "id": 9,
+      "question": "Why does $KCl$ have a higher melting point than $CCl_4$?",
+      "options": [
+        "$CCl_4$ has stronger covalent bonds",
+        "$KCl$ has strong ionic bonds",
+        "$CCl_4$ is a larger molecule",
+        "$KCl$ has weaker intermolecular forces"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "$KCl$ has a higher melting point due to its **strong ionic bonds**, which require more energy to break compared to the weak intermolecular forces in $CCl_4$.",
+      "follow_up": true
+    },
+    {
+      "id": 10,
+      "question": "What is the most **electronegative** halogen? (ONE WORD ANSWER)",
+      "options": [],
+      "image": "",
+      "answer": "Fluorine",
+      "explanation": "**Fluorine** is the most electronegative halogen, with the highest tendency to attract electrons in a bond, as per the periodic table trends."
+    },
+    {
+      "id": 11,
+      "question": "What is the name of the element with electronic configuration 2,8,18,7?",
+      "options": [
+        "Chlorine",
+        "Bromine",
+        "Iodine",
+        "Astatine"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "The electronic configuration 2,8,18,7 corresponds to **bromine** (atomic number 35), which has 7 valence electrons in its outer shell."
+    },
+    {
+      "id": 12,
+      "question": "Which element in Group V, period 3, forms an acidic oxide?",
+      "options": [
+        "Nitrogen",
+        "Phosphorus",
+        "Arsenic",
+        "Antimony"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "**Phosphorus** is in Group V, period 3, and forms acidic oxides like $P_2O_5$, which reacts with water to form phosphoric acid."
+    },
+    {
+      "id": 13,
+      "question": "In the extraction of zinc from zinc blende, what is the reducing agent used? (ONE WORD ANSWER)",
+      "options": [],
+      "image": "",
+      "answer": "Carbon",
+      "explanation": "In the extraction of zinc from zinc blende ($ZnS$), **carbon** (often as coke) is used as the reducing agent to reduce zinc oxide to zinc metal."
+    },
+    {
+      "id": "Zinc Extraction Section",
+      "non_question": true,
+      "question": "The following questions relate to the extraction of zinc from its sulphide ore, zinc blende ($ZnS$), as described in the Zambian syllabus. Refer to the equation: $2ZnS + 3O_2 \\rightarrow 2ZnO + 2SO_2$.",
+      "options": [],
+      "image": "",
+      "answer": "",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "What pollutant gas is produced when zinc blende is roasted in air?",
+      "options": [
+        "Carbon dioxide",
+        "Sulphur dioxide",
+        "Nitrogen dioxide",
+        "Carbon monoxide"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "When zinc blende ($ZnS$) is roasted, the reaction $2ZnS + 3O_2 \\rightarrow 2ZnO + 2SO_2$ produces **sulphur dioxide** ($SO_2$), a pollutant gas.",
+      "follow_up": true
+    },
+    {
+      "id": 15,
+      "question": "How is the pollutant $SO_2$ converted to a useful product in industry?",
+      "options": [
+        "Converted to sulphur",
+        "Used to make sulphuric acid",
+        "Neutralized with water",
+        "Burned to form $SO_3$"
+      ],
+      "image": "",
+      "answer": 1,
+      "explanation": "$SO_2$ is oxidized to $SO_3$ in the Contact Process, then reacted with water to produce **sulphuric acid** ($H_2SO_4$), a valuable industrial chemical.",
+      "follow_up": true
+    }
+  ]
+}

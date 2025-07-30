@@ -17,7 +17,7 @@
   "grade": 10,
   "cost": 0,
   "description": "This test focuses on topics such as acids and bases, chemical reactions, atomic structure, stoichiometry, and the periodic table, in line with the Grade 10 Chemistry syllabus.",
-  "difficulty": "Medium",
+  "difficulty": "medium",
   "totalQuestions": 15,
   "estimatedTime": 60,
   "link": "https://raw.githubusercontent.com/msimbao/umodzi-edu-library/refs/heads/main/tests/grade10/Chemistry/files/20252107CHEM10_2.json"
